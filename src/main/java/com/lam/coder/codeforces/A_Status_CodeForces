@@ -1,0 +1,87 @@
+   Code     Name                          Method                                  Tested       Date             Tutorial             
+
+     1A	    Theatre Square                math	                                  Done it.     2014  Dec.       Done. 
+     4A	    Watermelon                    brute force, math	                      Done it.     2014  Dec.       Done.
+    41A	    Translation                   implementation, strings	              Not needed.  2015  Aug.       Too easy.
+    50A	    Domino piling                 greedy, math                        	  Done it.     2015  Jan.       Done. 
+    58A  	Chat room                     greedy, strings                         Done it.     2015  Aug.       Done.
+    71A	    Way Too Long Words            strings	  	                          Done it.     2014  Dec.       Done.                  
+    82A	    Double Cola                   implementation, math	                  Done it.     2015  Aug.       Done.
+    96A	    Football                      implementation, strings	              Not needed.  2015  July.      Too easy.
+
+   110A	    Nearly Lucky Number           implementation                          Done it.     2015  Aug.       Done.  	 
+   112A	    Petya and Strings             implementation, strings	              Done it.     2015  Aug.       Too easy.
+   116A	    Tram                          implementation                     	  Done it.     2015  Jan.       Done.
+   118A	    String Task                   implementation, strings	              Done it.     2014  Dec.       Done.
+   119A	    Epic Game                     implementation	                      Done it.     2015  Aug.       Done.
+
+   XXX 122A	Lucky Division brute force, number theory	 
+
+   131A	    cAPS lOCK                     implementation, strings	              Done it.     2015  Feb.       Done. 
+   133A	    HQ9+                          implementation	                      Not needed.  2015  Aug.       Too easy.
+   136A	    Presents                      implementation	                      Done it.     2015  Aug.       Done.
+   144A	    Arrival Of The General        implementation	                      Done it.     2015  Aug.       Done.
+   148A	    Insomnia Cure       constructive algorithms, implementation, math	  Done it.     2015  Aug.       Done.
+   158A	    Next Round                    implementation	                      Done it.     2014  Dec.       Done.
+   158B	    Taxi                          greedy, implementation                  Done it.     2015  Jan.       Done. Kata. A better algorithm wanted. 
+         
+   160A	    Twins                         greedy, sortings	                      Done it.     2015  Aug.       Too easy.
+
+   208A	    Dubstep                       strings	                              Not needed.  2015  Aug.       Too easy.
+   228A	Is Your Horseshoe On The Other Hoof ? implementation	                  Not needed.  2015  Aug.       Too easy.     
+   231A	    Team                          brute force, greedy                     Not needed.  2015  Jan.       Too easy.	
+   236A	    Boy or Girl                   implementation	                      Not needed.  2015  Aug.       Too easy.
+   263A	    Beautiful Matrix              implementation	                      Not needed.  2015  Aug.       Too easy.
+   266A	    Stones on the Table           implementation                          Done it.     2015  July.      Done. 	                        
+   266B	    Queue at the School       constructive algorithms, graph matchings	  Done it.     2015  Aug.       Done.
+
+   268A	    Games brute force	
+
+
+69A	Young Physicist implementation, math	 Submit  Add to favourites	 x6741
+61A	Ultra-Fast Mathematician implementation	 Submit  Add to favourites	 x6714
+479A	Expression brute force, math	 Submit  Add to favourites	 x6597
+443A	Anton and Letters constructive algorithms, implementation	 Submit  Add to favourites	 x6583
+478A	Initial Bet implementation	 Submit  Add to favourites	 x6550
+492A	Vanya and Cubes implementation	 Submit  Add to favourites	 x6436
+469A	I Wanna Be the Guy greedy, implementation	 Submit  Add to favourites	 x6415
+510A	Fox And Snake implementation	 Submit  Add to favourites	 x6356
+141A	Amusing Joke implementation, sortings, strings	 Submit  Add to favourites	 x6355
+318A	Even Odds math	 Submit  Add to favourites	 x6244
+448A	Rewards implementation	 Submit  Add to favourites	 x6205
+466A	Cheap Travel implementation	 Submit  Add to favourites	 x6084
+474A	Keyboard implementation	 Submit  Add to favourites	 x5988
+268B	Buttons implementation, math	 Submit  Add to favourites	 x5966
+
+   271A  	Beautiful Year                brute force	                          Not needed.  2015  Aug.       Too easy.
+   281A	    Word Capitalization           strings	                              Not needed.  2015  Aug.       Too easy.
+   282A	    Bit++                         implementation                          Not needed.  2015  Feb.       Too easy.                           
+
+   337A	    Puzzles                       dp, graph matchings, greedy	          XXX
+   
+   339A	    Helpful Maths              greedy, implementation, sortings, strings  Done it.     2015  Aug.       Done.	 
+   344A	    Magnets                       implementation	                      Not needed.  2015  Aug.       Too easy.
+   379A	    New Year Candles              implementation                          Done it.     2015  Aug.       Done.   	                      
+
+   451A	    Game With Sticks              implementation                          Done it.     2015  Aug.       Done.
+   460A	    Vasya and Socks               brute force, implementation	          Done it.     2015  Aug.       Done.
+   467A	    George And Accommodation      implementation	                      Not needed.  2015  Aug.       Too easy.
+   486A	    Calculating Function          implementation, math	                  Not needed.  2015  Aug.       Too easy.
+   499A	    Watching a movie              implementation	 	                  Done it.     2014  Dec.       Done.
+   
+  XXX 472A	Design Tutorial: Learn from Math math, number theory	              
+
+   500A	    New Year Transportation    dfs and similar, graphs, implementation    Done it.     2014  Dec.		Competition.
+   546A	    Soldier And Bananas           implementation, math	                  Not needed.  2015  Aug.       Too easy.
+
+ 
+   XXX 514B	    Han Solo and Lazer Gun  brute force, data structures, geometry, math	  XDone it.    2014  Feb.       Competition.
+
+
+... Missing...    
+   
+
+
+   Code     Name                             Method                                         Points    Tested       Date             See             
+   500A	    New Year Transportation          dfs and similar, graphs, implementation                  Done it.     2014  Dec.       Competition	   	
+   514B	    Han Solo and Lazer Gun           brute force, data structures, geometry, math	          XDone it.     2014  Feb.       Competition

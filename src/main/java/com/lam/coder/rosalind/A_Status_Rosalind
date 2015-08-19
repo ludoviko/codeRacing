@@ -1,0 +1,36 @@
+       Code     Name                             Method                                   Tested       Date             Tutorial      More info             
+
+  01    DNA     Counting DNA Nucleotides         String manipulation	                      Yes       2015  Apr.       Done. 
+  02    RNA	    Transcribing DNA into RNA        String manipulation	                      Yes       2015  Apr.       Done.
+  03   RECV     Complementing a Strand of DNA    String manipulation	                      Yes       2015  Apr.       Done.
+  04   HAMM	    Counting Point Mutations	     Simple math	                              Yes       2015  Apr.       Done. 
+  
+   	
+  05   PROT	    Translating RNA into Protein	 String manipulation	                      Yes       2015  Apr.       Done. 	
+  06     GC	    Computing GC Content	         String manipulation	                      Yes       2015  Apr.       Done. 
+  
+  05   IPRB	    Mendel's First Law	             Heredity, Probability                        XXX 
+
+ 	 	 
+FIB	Rabbits and Recurrence Relations	6934	
+ 	 	 
+GC	Computing GC Content	8001	
+ 	 	 
+ 	 	 
+ 	 	 
+PROT	Translating RNA into Protein	6888	
+ 	 	 
+SUBS	Finding a Motif in DNA	7200	
+ 	 	 
+CONS	Consensus and Profile	4183	
+ 	 	 
+FIBD	Mortal Fibonacci Rabbits	3099	
+ 	 	 
+GRPH	
+
+>Rosalind_6404
+CCTGCGGAAGATCGGCACTAGAATAGCCAGAACCGTTTCTCTGAGGCTTCCGGCCTTCCCTCCCACTAATAATTCTGAGG
+>Rosalind_5959
+CCATCGGTAGCGCATCCTTAGTCCAATTAAGTCCCTATCCAGGCGCTCCGCCGAAGGTCTATATCCATTTGTCAGCAGACACGC
+>Rosalind_0808
+CCACCCTCGTGGTATGGCTAGGCATTCAGGAACCGGAGAACGCTTCAGACCAGCCCGGACTGGGAACCTGCGGGCAGTAGGTGGAAT

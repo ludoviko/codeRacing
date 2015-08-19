@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.lam:mathemathics:0.1">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/lam/mathemathics/0.1/mathemathics-0.1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/lam/mathemathics/0.1/mathemathics-0.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/lam/mathemathics/0.1/mathemathics-0.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

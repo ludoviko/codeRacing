@@ -1,0 +1,47 @@
+Homework
+ 
+Goal
+Create well-working, headless micro-lending app that satisfies both technical and business requirements.
+ 
+Business requirements
+o    Client can apply for loan by providing his personal data, amount and term
+o    Loan application risk analysis is performed. Risk is considered too high if:
+        the attempt to take loan is made after from 00:00 to 6:00 AM with max possible amount.
+        reached max applications (e.g. 3) per day from a single IP.
+o    Loan is issued if there are no risks associated with the application. If so, client receives a reference to newly created loan. However, if risk is surrounding the application, client receives "rejection" message.
+o    Client should be able to extend a loan. Loan term gets extended for one week, interest gets increased by a factor of 1.5.
+o    Client should be able to retrieve whole history of his loans, includi ng loan extensions.
+ 
+Technical requirements
+o    Backend in Java 6+, XML-less Spring, Hibernate.
+o    RESTful API
+o    Code is production-ready, covered with unit tests
+o    Automated acceptance tests that exercises application using RESTful API
+ 
+What gets evaluated
+- Requirements
+- Code quality (both production and test)
+- Is API easy to use and according to RESTful architectural style
+- How simple it is to run the application (embedded DB/embedded container)
+ 
+You can send us (via email) a link to github, or a tar.gz/zip package, or put everything on your private server with sftp (or broken OpenSSL), or send us a snail mail with all the code printed on A4, or any other way you like it :)
+ 
+One of the points of this homework is to find out what do you like,
+ what kind of experience with such problems you have, 
+ and how would you like to solve the problem (including sending us the solution).
+  We want to understand how close or far you are from our own perspective, 
+  what kind of stuff you can bring to our teams, 
+  
+  what kind of work you'd have to do, to fit right in, and whether you'll have problems 
+  with the way we work (and our code), or will you feel just fine.
+ 
+The deadline is 26.04.14. Will you manage ?
+ 
+ 
+Dana Umblija
+AS "4finance" | Group Recruitment Specialist
+Lielirbes street 17a-8, Riga, LV-1046
+Mob: +371 26632001 | Tel: +371 67439778 | Fax: +371 67439776
+dana.umblija@4finance.com | www.4finance.com
+Banner_for_signature
+ 

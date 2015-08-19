@@ -1,0 +1,228 @@
+package com.lam.coder.topCoder;
+
+import org.junit.After;
+import org.junit.Assert;
+import org.junit.Before;
+import org.junit.Test;
+
+import com.lam.coder.topCoder.RectangleCoveringEasy;
+
+public class RectangleCoveringEasyTest {
+	RectangleCoveringEasy covering;
+
+	@Before
+	public void setUp() throws Exception {
+		covering = new RectangleCoveringEasy();
+	}
+
+	@After
+	public void tearDown() throws Exception {
+		covering = null;
+	}
+
+	@Test
+	public void testSolve() {
+		Assert.assertEquals(-1, covering.solve(1, 1, 1, 1));
+		Assert.assertEquals(1, covering.solve(3, 5, 4, 6));
+		Assert.assertEquals(1, covering.solve(10, 20, 25, 15));
+		Assert.assertEquals(1, covering.solve(3, 10, 3, 12));
+//		Assert.assertEquals(1, covering.solve(, , , ));
+	}
+	
+	@Test
+	public void testSolveSystemTest() {
+		Assert.assertEquals(1, covering.solve(3, 5, 4, 6));
+		Assert.assertEquals(-1, covering.solve(1, 1, 1, 1));
+		Assert.assertEquals(1, covering.solve(3, 10, 3, 12));
+		Assert.assertEquals(1, covering.solve(10, 20, 25, 15));
+		Assert.assertEquals(-1, covering.solve(1000000000, 1000000000, 1000000000, 1000000000));
+		Assert.assertEquals(-1, covering.solve(1000000000, 1000000000, 1000000000, 999999999));
+		Assert.assertEquals(-1, covering.solve(1000000000, 1000000000, 999999999, 1000000000));
+		Assert.assertEquals(-1, covering.solve(1000000000, 1000000000, 999999999, 999999999));
+		Assert.assertEquals(1, covering.solve(1000000000, 999999999, 1000000000, 1000000000));
+		Assert.assertEquals(-1, covering.solve(1000000000, 999999999, 1000000000, 999999999));
+		Assert.assertEquals(-1, covering.solve(1000000000, 999999999, 999999999, 1000000000));
+		Assert.assertEquals(-1, covering.solve(1000000000, 999999999, 999999999, 999999999));
+		Assert.assertEquals(1, covering.solve(999999999, 1000000000, 1000000000, 1000000000));
+		Assert.assertEquals(-1, covering.solve(999999999, 1000000000, 1000000000, 999999999));
+		Assert.assertEquals(-1, covering.solve(999999999, 1000000000, 999999999, 1000000000));
+		Assert.assertEquals(-1, covering.solve(999999999, 1000000000, 999999999, 999999999));
+		Assert.assertEquals(1, covering.solve(999999999, 999999999, 1000000000, 1000000000));
+		Assert.assertEquals(1, covering.solve(999999999, 999999999, 1000000000, 999999999));
+		Assert.assertEquals(1, covering.solve(999999999, 999999999, 999999999, 1000000000));
+		Assert.assertEquals(-1, covering.solve(999999999, 999999999, 999999999, 999999999));
+		Assert.assertEquals(1, covering.solve(59380716, 230567922, 892314287, 389736837));
+		Assert.assertEquals(-1, covering.solve(602841311, 910449437, 3919002, 932964157));
+		Assert.assertEquals(1, covering.solve(128538656, 214954110, 144294055, 898432969));
+		Assert.assertEquals(-1, covering.solve(334773024, 726544904, 205916095, 165099777));
+		Assert.assertEquals(-1, covering.solve(67129349, 721105430, 371099570, 127396315));
+		Assert.assertEquals(-1, covering.solve(511998071, 670448203, 458277225, 344992218));
+		Assert.assertEquals(-1, covering.solve(202612029, 399674588, 579309961, 86859026));
+		Assert.assertEquals(-1, covering.solve(789273946, 927982142, 373793014, 427816921));
+		Assert.assertEquals(-1, covering.solve(740098069, 697842470, 24521941, 725384387));
+		Assert.assertEquals(1, covering.solve(211788018, 162920072, 553590925, 983540390));
+		Assert.assertEquals(-1, covering.solve(309545398, 706757531, 550995393, 565874838));
+		Assert.assertEquals(-1, covering.solve(477912167, 587449810, 107057750, 19832808));
+		Assert.assertEquals(-1, covering.solve(242189128, 809443043, 354634354, 206345777));
+		Assert.assertEquals(-1, covering.solve(636061686, 272277524, 449841814, 388424872));
+		Assert.assertEquals(-1, covering.solve(770062869, 270343529, 57665564, 120582048));
+		Assert.assertEquals(-1, covering.solve(388615697, 961075764, 868869557, 290052366));
+		Assert.assertEquals(-1, covering.solve(708064945, 821926059, 539900934, 358874372));
+		Assert.assertEquals(-1, covering.solve(862731001, 355386691, 855618549, 19415513));
+		Assert.assertEquals(1, covering.solve(1, 2, 3, 4));
+		Assert.assertEquals(1, covering.solve(1, 2, 4, 3));
+		Assert.assertEquals(1, covering.solve(1, 3, 2, 4));
+		Assert.assertEquals(1, covering.solve(1, 3, 4, 2));
+		Assert.assertEquals(-1, covering.solve(1, 4, 2, 3));
+		Assert.assertEquals(-1, covering.solve(1, 4, 3, 2));
+		Assert.assertEquals(1, covering.solve(2, 1, 3, 4));
+		Assert.assertEquals(1, covering.solve(2, 1, 4, 3));
+		Assert.assertEquals(-1, covering.solve(2, 3, 1, 4));
+		Assert.assertEquals(-1, covering.solve(2, 3, 4, 1));
+		Assert.assertEquals(-1, covering.solve(2, 4, 1, 3));
+		Assert.assertEquals(-1, covering.solve(2, 4, 3, 1));
+		Assert.assertEquals(1, covering.solve(3, 1, 2, 4));
+		Assert.assertEquals(1, covering.solve(3, 1, 4, 2));
+		Assert.assertEquals(-1, covering.solve(3, 2, 1, 4));
+		Assert.assertEquals(-1, covering.solve(3, 2, 4, 1));
+		Assert.assertEquals(-1, covering.solve(3, 4, 1, 2));
+		Assert.assertEquals(-1, covering.solve(3, 4, 2, 1));
+		Assert.assertEquals(-1, covering.solve(4, 1, 2, 3));
+		Assert.assertEquals(-1, covering.solve(4, 1, 3, 2));
+		Assert.assertEquals(-1, covering.solve(4, 2, 1, 3));
+		Assert.assertEquals(-1, covering.solve(4, 2, 3, 1));
+		Assert.assertEquals(-1, covering.solve(4, 3, 1, 2));
+		Assert.assertEquals(-1, covering.solve(4, 3, 2, 1));
+		Assert.assertEquals(1, covering.solve(5, 3, 3, 10));
+		Assert.assertEquals(1, covering.solve(5, 3, 4, 5));
+		Assert.assertEquals(-1, covering.solve(1, 2, 2, 1));
+		Assert.assertEquals(1, covering.solve(1, 3, 3, 2));
+		Assert.assertEquals(1, covering.solve(3, 1, 2, 3));
+		Assert.assertEquals(-1, covering.solve(3, 1, 1, 3));
+		Assert.assertEquals(1, covering.solve(3, 2, 3, 3));
+		Assert.assertEquals(-1, covering.solve(3, 2, 1, 10));
+		Assert.assertEquals(1, covering.solve(2, 2, 2, 3));
+		Assert.assertEquals(-1, covering.solve(10, 10, 5, 1000));
+		Assert.assertEquals(-1, covering.solve(200, 100, 150, 150));
+		Assert.assertEquals(1, covering.solve(1, 2, 1, 5));
+		Assert.assertEquals(1, covering.solve(3, 5, 3, 6));
+		Assert.assertEquals(1, covering.solve(5, 4, 5, 5));
+		Assert.assertEquals(-1, covering.solve(2, 4, 1, 10));
+		Assert.assertEquals(-1, covering.solve(4, 9, 8, 6));
+		Assert.assertEquals(-1, covering.solve(1, 3, 2, 2));
+		Assert.assertEquals(-1, covering.solve(1, 3, 3, 1));
+		Assert.assertEquals(-1, covering.solve(2, 4, 4, 2));
+		Assert.assertEquals(-1, covering.solve(1, 5, 2, 4));
+		Assert.assertEquals(-1, covering.solve(3, 3, 2, 10));
+		Assert.assertEquals(-1, covering.solve(2, 3, 3, 2));
+		Assert.assertEquals(1, covering.solve(3, 10, 3, 11));
+		Assert.assertEquals(-1, covering.solve(4, 5, 6, 2));
+		Assert.assertEquals(-1, covering.solve(4, 5, 2, 15));
+		Assert.assertEquals(-1, covering.solve(5, 9, 8, 6));
+		Assert.assertEquals(-1, covering.solve(5, 5, 4, 100));
+		Assert.assertEquals(-1, covering.solve(2, 100, 1, 200));
+		Assert.assertEquals(-1, covering.solve(3, 5, 2, 6));
+		Assert.assertEquals(-1, covering.solve(3, 10, 4, 7));
+		Assert.assertEquals(-1, covering.solve(10, 100, 11, 12));
+		Assert.assertEquals(-1, covering.solve(3, 2, 7, 1));
+		Assert.assertEquals(1, covering.solve(3, 5, 3, 8));
+		Assert.assertEquals(1, covering.solve(1000000000, 1, 1000000000, 1000000000));
+		Assert.assertEquals(-1, covering.solve(2, 2, 1, 100000));
+		Assert.assertEquals(1, covering.solve(10, 10, 11, 10));
+		Assert.assertEquals(1, covering.solve(2, 2, 3, 2));
+		Assert.assertEquals(-1, covering.solve(1, 5, 2, 3));
+		Assert.assertEquals(1, covering.solve(1, 1, 2, 1));
+		Assert.assertEquals(1, covering.solve(3, 5, 4, 5));
+		Assert.assertEquals(-1, covering.solve(2, 2, 1, 4));
+		Assert.assertEquals(1, covering.solve(1, 2, 3, 1));
+		Assert.assertEquals(-1, covering.solve(5, 5, 4, 4));
+		Assert.assertEquals(-1, covering.solve(3, 4, 2, 8));
+		Assert.assertEquals(-1, covering.solve(2, 100, 1, 500));
+		Assert.assertEquals(1, covering.solve(3, 2, 4, 2));
+		Assert.assertEquals(-1, covering.solve(3, 10, 9, 3));
+		Assert.assertEquals(1, covering.solve(5, 6, 7, 5));
+		Assert.assertEquals(-1, covering.solve(5, 5, 2, 10));
+		Assert.assertEquals(1, covering.solve(4, 2, 4, 4));
+		Assert.assertEquals(1, covering.solve(10, 100, 11, 100));
+		Assert.assertEquals(1, covering.solve(4, 6, 5, 6));
+		Assert.assertEquals(1, covering.solve(5, 3, 5, 4));
+		Assert.assertEquals(-1, covering.solve(2, 3, 1, 10));
+		Assert.assertEquals(-1, covering.solve(1, 10, 4, 4));
+		Assert.assertEquals(1, covering.solve(10, 5, 12, 12));
+		Assert.assertEquals(-1, covering.solve(5, 8, 4, 10));
+		Assert.assertEquals(-1, covering.solve(2, 1000, 1001, 1));
+		Assert.assertEquals(-1, covering.solve(5, 5, 5, 4));
+		Assert.assertEquals(1, covering.solve(1, 2, 2, 2));
+		Assert.assertEquals(1, covering.solve(5, 8, 5, 9));
+		Assert.assertEquals(1, covering.solve(3, 4, 4, 4));
+		Assert.assertEquals(1, covering.solve(6, 2, 6, 5));
+		Assert.assertEquals(-1, covering.solve(3, 5, 2, 10));
+		Assert.assertEquals(-1, covering.solve(2, 3, 1, 1));
+		Assert.assertEquals(-1, covering.solve(5, 5, 4, 7));
+		Assert.assertEquals(-1, covering.solve(2, 10, 3, 5));
+		Assert.assertEquals(-1, covering.solve(2, 5, 1, 6));
+		Assert.assertEquals(-1, covering.solve(9, 1, 8, 2));
+		Assert.assertEquals(-1, covering.solve(20, 4, 22, 3));
+		Assert.assertEquals(1, covering.solve(10, 15, 11, 15));
+		Assert.assertEquals(-1, covering.solve(3, 5, 5, 3));
+		Assert.assertEquals(-1, covering.solve(3, 10, 2, 12));
+		Assert.assertEquals(1, covering.solve(10, 3, 3, 25));
+		Assert.assertEquals(-1, covering.solve(4, 7, 5, 6));
+		Assert.assertEquals(1, covering.solve(3, 1, 1, 4));
+		Assert.assertEquals(-1, covering.solve(3, 4, 1, 1000));
+		Assert.assertEquals(-1, covering.solve(2, 2, 1, 10));
+		Assert.assertEquals(1, covering.solve(3, 3, 3, 4));
+		Assert.assertEquals(-1, covering.solve(3, 8, 5, 7));
+		Assert.assertEquals(1, covering.solve(5, 10, 7, 10));
+		Assert.assertEquals(-1, covering.solve(2, 100, 3, 4));
+		Assert.assertEquals(-1, covering.solve(9, 9, 1, 1));
+		Assert.assertEquals(1, covering.solve(12, 10, 12, 11));
+		Assert.assertEquals(-1, covering.solve(2, 2, 1, 6));
+		Assert.assertEquals(-1, covering.solve(3, 3, 2, 4));
+		Assert.assertEquals(-1, covering.solve(3, 4, 1, 9));
+		Assert.assertEquals(-1, covering.solve(3, 10, 2, 15));
+		Assert.assertEquals(1, covering.solve(5, 5, 10, 5));
+		Assert.assertEquals(1, covering.solve(2, 3, 3, 3));
+		Assert.assertEquals(-1, covering.solve(6, 7, 13, 1));
+		Assert.assertEquals(-1, covering.solve(3, 3, 2, 5));
+		Assert.assertEquals(1, covering.solve(3, 3, 4, 4));
+		Assert.assertEquals(1, covering.solve(3, 4, 3, 5));
+		Assert.assertEquals(1, covering.solve(4, 5, 5, 5));
+		Assert.assertEquals(1, covering.solve(3, 10, 12, 3));
+		Assert.assertEquals(1, covering.solve(1, 100, 2, 100));
+		Assert.assertEquals(-1, covering.solve(15, 10, 16, 9));
+		Assert.assertEquals(-1, covering.solve(2, 2, 1, 3));
+		Assert.assertEquals(-1, covering.solve(3, 4, 6, 2));
+		Assert.assertEquals(-1, covering.solve(3, 1, 2, 2));
+		Assert.assertEquals(1, covering.solve(3, 5, 6, 3));
+		Assert.assertEquals(1, covering.solve(2, 3, 4, 2));
+		Assert.assertEquals(1, covering.solve(5, 2, 8, 2));
+		Assert.assertEquals(1, covering.solve(3, 5, 5, 5));
+		Assert.assertEquals(-1, covering.solve(3, 3, 4, 2));
+		Assert.assertEquals(-1, covering.solve(4, 10, 5, 5));
+		Assert.assertEquals(1, covering.solve(1, 1, 1, 2));
+		Assert.assertEquals(1, covering.solve(3, 10, 3, 25));
+		Assert.assertEquals(-1, covering.solve(3, 4, 4, 3));
+		Assert.assertEquals(1, covering.solve(2, 1, 3, 1));
+		Assert.assertEquals(-1, covering.solve(5, 10, 11, 4));
+		Assert.assertEquals(-1, covering.solve(1, 10, 3, 4));
+		Assert.assertEquals(1, covering.solve(10, 10, 1000000000, 1000000000));
+		Assert.assertEquals(-1, covering.solve(1, 10, 3, 6));
+		Assert.assertEquals(1, covering.solve(5, 10, 11, 5));
+		Assert.assertEquals(-1, covering.solve(10, 10, 1, 20));
+		Assert.assertEquals(-1, covering.solve(2, 8, 3, 7));
+		Assert.assertEquals(1, covering.solve(10, 5, 11, 5));
+		Assert.assertEquals(-1, covering.solve(8, 2, 10, 1));
+		Assert.assertEquals(1, covering.solve(5, 4, 6, 4));
+		Assert.assertEquals(1, covering.solve(5, 6, 5, 7));
+		Assert.assertEquals(-1, covering.solve(5, 5, 7, 4));
+		Assert.assertEquals(1, covering.solve(5, 3, 9, 3));
+		Assert.assertEquals(-1, covering.solve(10, 10, 100, 5));
+		Assert.assertEquals(1, covering.solve(4, 2, 2, 5));
+		Assert.assertEquals(1, covering.solve(1, 1, 1000000000, 1000000000));
+		Assert.assertEquals(1, covering.solve(12, 10, 10, 13));
+		Assert.assertEquals(1, covering.solve(1, 5, 2, 5));
+		Assert.assertEquals(-1, covering.solve(5, 8, 7, 5));
+		Assert.assertEquals(-1, covering.solve(10, 3, 9, 3));
+	}
+}

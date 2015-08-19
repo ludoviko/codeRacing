@@ -1,0 +1,124 @@
+ 	Problem                                      Done            Tested           Forum
+
+                                                                                  Pending see all. Look for improvements.  
+	1.	Multiples of 3 and 5	                 Done             Tested          
+	2.  Even Fibonacci numbers	                 Done             Tested
+	3.  Largest prime factor	                 Done             Tested
+	4.	Largest palindrome product	             Done             Tested
+	5.	Smallest multiple	                     Done             Tested
+	6.	Sum square difference	                 Done             Tested 
+ 	7.	10001st prime	                         Done             Tested
+ 	8.	Largest product in a series	             Done             Tested
+ 	9.	Special Pythagorean triplet	             Done             Tested
+   10.	Summation of primes	                     Done             Tested 
+   11. 	Largest product in a grid	             Done             Tested
+   12.	Highly divisible triangular number	     Done             Tested 
+   13.  Large sum	                             Done             Tested
+   14.  Longest Collatz sequence	             Done             Tested
+   15. 	Lattice paths	                         Done             Tested        Recheck theory, see forum.
+   16. 	Power digit sum	                         Done             Tested
+   17.  Number letter counts	                 Done             Tested    
+   18. 	Maximum path sum I	                     Done             Tested 
+   19. 	Counting Sundays	                     Done             Tested 
+   20.	Factorial digit sum	                     Done             Tested    
+   21.	Amicable numbers	                     Done             Tested
+   22.  Names scores    	                     Done             Tested
+   23. 	Non-abundant sums	                     Done             Tested	        
+   24. 	Lexicographic permutations	             Done             Tested	
+   25. 	1000-digit Fibonacci number		         Done             Tested
+   26. 	Reciprocal cycles	                     Done             Tested
+   27. 	Quadratic primes	                     Done             Tested
+   28. 	Number spiral diagonals	                 Done             Tested
+   29. 	Distinct powers	                         Done             Tested
+   30. 	Digit fifth powers	                     Done             Tested
+   31. 	Coin sums	       
+   32. 	Pandigital products	                     Done             Tested
+   33. 	Digit canceling fractions	             Done             Tested
+   34. 	Digit factorials	                     Done             Tested
+   35. 	Circular primes	                         Done             Tested
+   36. 	Double-base palindromes	                 Done             Tested
+   37. 	Truncatable primes	                     Done             Tested
+   38. 	Pandigital multiples	                 Done             Tested           Too slow. See forum.
+   39.  Integer right triangles	                 Done             Tested
+   40.  Champernowne's constant	                 Done             Tested
+   41.  Pandigital prime	                     Done             Tested
+   42.  Coded triangle numbers	                 Done             Tested
+   43.  Sub-string divisibility	                 Done             Tested
+   44.  Pentagon numbers	                     Done             Tested
+   45.  Triangular, pentagonal, and hexagonal	 Done             Tested
+   46.  Goldbach's other conjecture	             Done             Tested
+   47.  Distinct primes factors	                 Done             Tested
+   48.  Self powers	                             Done             Tested
+   49.  Prime permutations	                     Done             Tested
+   50.  Consecutive prime sum                    Done             Tested
+   51.  Prime digit replacements	               
+   52.  Permuted multiples	                     Done             Tested
+   53.  Combinatoric selections	                 Done             Tested            
+   54.  Poker hands	                             Done             Tested
+   55.  Lychrel numbers	                         Done             Tested 
+   56.  Powerful digit sum	                     Done             Tested
+   57.  Square root convergents	                 Done             Tested
+   58.  Spiral primes	                      In progress...
+   59. 	XOR decryption	                         Done             Tested 
+   60. 	Prime pair sets
+   61. 	Cyclical figurate numbers	
+   62. 	Cubic permutations	
+   63. 	Powerful digit counts	                 Done             Tested
+   64. 	Odd period square roots	
+   65. 	Convergents of e	
+   66.	Diophantine equation	
+   67.	Maximum path sum II	                     Done             Tested
+   68. 	Magic 5-gon ring	
+   69. 	Totient maximum	                         Done             Tested     Too slow. Redo.
+   70. 	Totient permutation	                     Done             Tested
+   71. 	Ordered fractions	
+   72. 	Counting fractions	
+   73. 	Counting fractions in a range	
+   74. 	Digit factorial chains	                 Done             Tested 
+   75. 	Singular integer right triangles	
+   76. 	Counting summations	
+   77. 	Prime summations	
+   78. 	Coin partitions	
+   79. 	Passcode derivation	                     Done             Tested
+   80. 	Square root digital expansion	         Done             Tested
+   81. 	Path sum: two ways	
+   82. 	Path sum: three ways	
+   83. 	Path sum: four ways	
+   84. 	Monopoly odds	
+   85. 	Counting rectangles	
+   86. 	Cuboid route	
+   87. 	Prime power triples	
+   88. 	Product-sum numbers	
+   89. 	Roman numerals	                        Done              Tested 
+   90. 	Cube digit pairs	
+   91. 	Right triangles with integer coordinates	
+   92. 	Square digit chains	                    Done              Tested
+   93.  Arithmetic expressions	
+   94. 	Almost equilateral triangles	   
+   95. 	Amicable chains	                        Done              Tested         Too slow. See forum. 
+   96. 	Su Doku	 
+   97. 	Large non-Mersenne prime                Done	           Tested  
+   98. 	Anagramic squares	
+   99. 	Largest exponential	                    Done               Tested 
+  100. 	Arranged probability
+  101.  Optimum polynomial	
+  102. 	Triangle containment	
+  103. 	Special subset sums: optimum	
+  104.  Pandigital Fibonacci ends                Done               Tested 
+  105.  Special subset sums: testing	
+  106.  Special subset sums: meta-testing	
+  107.  Minimal network	
+  108. 	Diophantine reciprocals I	
+  109.	Darts	
+  110.	Diophantine reciprocals II	
+  111.  Primes with runs	
+  112.  Bouncy numbers                           Done               Tested
+  113.  Non-bouncy numbers	
+  114.  Counting block combinations I	
+  115.  Counting block combinations II	
+  116.  Red, green or blue tiles	
+  117.  Red, green, and blue tiles	
+  118.  Pandigital prime sets
+ 
+  
+   

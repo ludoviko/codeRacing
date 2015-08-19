@@ -1,0 +1,23 @@
+Name  		                Lesson					   Level      Status                                         Comments                       Resources       
+
+FrogJump                    1 Time Complexity          1          Done it.  Tested.   100 %   Oct 2013.         		
+TapeEquilibrium             1 Time Complexity          1          Done it.  Tested.   100 %   Oct 2013.             		
+MissingElementInArray       1 Time Complexity          1          Done it.  Tested.   100 %   Oct 2013. 
+
+PermutationCheck            2 Counting Elements        1          Done it.  Tested.   100 %.  Nov 2013.
+FrogRiverOne                2 Counting Elements        1          Done it. Tested.    100 %   Aug 2014.               
+MaxCounters                 2 Counting Elements        2          Done it. Tested.     88 %   Nov 2013.          Solution from:       http://www.martinkysel.com , http://codesays.com/2014/solution-to-max-counters-by-codility/                
+
+MissingInteger              2 Counting Elements        2          X_Done it. Tested.   %. Aug 2014.                 
+
+PassingCars                 3 Prefix Sums              1          Done it.  Dec 2013.  100 %. Tested.                               
+GenomicRangeQuery           3 Prefix Sums              2          Done it.  Dec 2013.  100 %. Tested.                               
+
+MinAvgTwoSlice              3 Prefix Sums              2          XDone it. XDec  2013.  %. XTested.
+CountDiv                    3 Prefix Sums              2          XDone it. XDec  2013.  %. XTested.                               
+
+Distinct                    4 Sorting                  1          XDone it. XDec  2013.  %. XTested.                               
+MaxProductOfThree           4 Sorting                  1          XDone it. XDec  2013.  %. XTested.                               
+Triangle                    4 Sorting                  1          XDone it. XDec  2013.  %. XTested.                               
+NumberOfDiscIntersections   4 Sorting                  3          XDone it. XDec  2013.  %. XTested.                               
+

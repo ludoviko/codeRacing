@@ -30,8 +30,8 @@ public class CopyTestClassFromTemplate {
 
 		sc.close();
 
-		String sourceFile = "source/com/lam/coder/codeforces/test/MainTest.java"; 
-		String outputDir = "source/com/lam/coder/codeforces/test/"; 
+		String sourceFile = "src/test/java/com/lam/coder/codeforces/MainTest.jav";
+		String outputDir = "src/test/java/com/lam/coder/codeforces/";
 		String packageTest = "package com.lam.coder.codeforces.test;" + System.getProperty("line.separator");
 		Scanner s = null;
 		StringBuilder output = new StringBuilder();

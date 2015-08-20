@@ -9,9 +9,8 @@ import java.util.Scanner;
 
 public class CopyClassFromTemplate {
 	public static void main(String[] args) throws IOException {
-		String dirIn = "source/com/lam/coder/codeforces/";
-		String dirOut = "source/com/lam/coder/codeforces/";
-		
+		String dirIn = "src/main/java/com/lam/coder/codeforces/";
+		String dirOut = "src/main/java/com/lam/coder/codeforces/";
 		System.out
 		.println("Code Forces: Utility fro creating the Given Class from a Main Class Template.");
 

@@ -8,9 +8,9 @@
 ###################
 *.com
 *.class
+.class
 *.dll
 *.exe
-*.o
 *.so
 
 # Packages #
@@ -57,4 +57,4 @@ Thumbs.db
 *.ipr
 
 #Other data
-.xxx
+*.xxx

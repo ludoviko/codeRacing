@@ -34,7 +34,7 @@ import java.io.PrintStream;
  *         One coin is passed from the fourth player to the second player.
  */
 
-public class InitialBetimplementation {
+public class InitialBet {
     public static void main(String[] args) throws IOException {
         MyScanner scanner = new MyScanner();
         PrintStream out = System.out;

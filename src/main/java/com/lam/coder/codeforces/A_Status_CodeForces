@@ -41,10 +41,10 @@
 
 
 
-478A	Initial Bet implementation	 Submit  Add to favourites	 x6550
 
 492A	Vanya and Cubes implementation	 Submit  Add to favourites	 x6436
-469A	I Wanna Be the Guy greedy, implementation	 Submit  Add to favourites	 x6415
+
+
 510A	Fox And Snake implementation	 Submit  Add to favourites	 x6356
 141A	Amusing Joke implementation, sortings, strings	 Submit  Add to favourites	 x6355
 318A	Even Odds math	 Submit  Add to favourites	 x6244
@@ -67,6 +67,10 @@
    451A	    Game With Sticks              implementation                          Done it.     2015  Aug.       Done.
    460A	    Vasya and Socks               brute force, implementation	          Done it.     2015  Aug.       Done.
    467A	    George And Accommodation      implementation	                      Not needed.  2015  Aug.       Too easy.
+
+   469A	    I Wanna Be The Guy            greedy, implementation	 Submit  Add to favourites	 x6415
+
+   478A	    Initial Bet                   implementation	                      Not needed.  2015  Aug.       Too easy.
 
    479A	    XXX  Expression brute force, math	 Submit  Add to favourites	 x6597
 

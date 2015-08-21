@@ -12,7 +12,7 @@ public class CopyClassFromTemplate {
 		String dirIn = "src/main/java/com/lam/coder/codeforces/";
 		String dirOut = "src/main/java/com/lam/coder/codeforces/";
 		System.out
-		.println("Code Forces: Utility fro creating the Given Class from a Main Class Template.");
+		.println("Code Forces: Utility for creating the Given Class from a Main Class Template.");
 
 		System.out
 				.println("Enter arg: the name of the target class: NextRound or what ever, you might use white spaces as they will be trimmed. ");

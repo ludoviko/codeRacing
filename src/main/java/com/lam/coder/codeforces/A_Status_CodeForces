@@ -5,9 +5,7 @@
     41A	    Translation                   implementation, strings	              Not needed.  2015  Aug.       Too easy.
     50A	    Domino piling                 greedy, math                        	  Done it.     2015  Jan.       Done. 
     58A  	Chat room                     greedy, strings                         Done it.     2015  Aug.       Done.
-
-    69A	    Young Physicist               implementation, math
-
+    69A	    Young Physicist               implementation, math                    Not needed.  2015  Aug.       Too easy.
     71A	    Way Too Long Words            strings	  	                          Done it.     2014  Dec.       Done.
     82A	    Double Cola                   implementation, math	                  Done it.     2015  Aug.       Done.
     96A	    Football                      implementation, strings	              Not needed.  2015  July.      Too easy.
@@ -26,8 +24,9 @@
    144A	    Arrival Of The General        implementation	                      Done it.     2015  Aug.       Done.
    148A	    Insomnia Cure       constructive algorithms, implementation, math	  Done it.     2015  Aug.       Done.
    158A	    Next Round                    implementation	                      Done it.     2014  Dec.       Done.
-   158B	    Taxi                          greedy, implementation                  Done it.     2015  Jan.       Done. Kata. A better algorithm wanted. 
-         
+
+   158B	    Taxi                          greedy, implementation                  Done it.     2015  Jan.       Done. Kata. A better algorithm wanted.
+
    160A	    Twins                         greedy, sortings	                      Done it.     2015  Aug.       Too easy.
 
    208A	    Dubstep                       strings	                              Not needed.  2015  Aug.       Too easy.

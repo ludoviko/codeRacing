@@ -77,5 +77,17 @@ public class Main {
 			return str;
 		}
 
+		int[] nextIntArray() {
+			String[] data  = nextStringArray();
+			int[] a  = new int[data.length];
+
+			for (int i = 0; i < a.length; i++) {
+				a[i] = Integer.parseInt(data[i]);
+			}
+
+			return a;
+		}
+
+
 	}
 }

@@ -1,39 +1,40 @@
-Level   Name                    Method                                      Score     Tested        Date             Comments             
+Level     Name                    Method                                      Score     Tested        Date             Comments
 
-Easy   Armstrong Numbers       Simple math                                      80      No needed.   2015 August      80/100 ?
-Easy   BeautifulStrings        String manipulation                             100      No needed.   2015 August
-Easy   BigDigits               String and array manipulation                   100      No needed.   2015 August      Included into library.   
-Easy   BitsPositions           Bitwise operations                              100      Yes          2015 August      Included into library. 
-Easy   CapitalizeWords         String manipulation                             100      No needed.   2015 August
-Easy   Clean Up The Words	   String manipulation, greedy algorithm           100      Yes          2015 August      It might be added to the library.        
-Easy   ComparePoints           Simple math                                      70      No needed.   2015 August      70/100 ?   
-Easy   Compressed Sequence     String manipulation                             100      No needed.   2015 August           
-Easy   FizzBuss                String manipulation, simple math.               100      Yes          2015 August
-Easy   HappyNumbers            Number theory                                   100      No needed.   2015 August  
-Easy   Knight Moves            Array manipulation                              100      Yes.         2015 August  
-Easy   Max Range Sum           Array manipulation, simple math                 100      No needed.   2015 August
-Easy   Multiples of a Number   Simple math                                      10      No needed.   2015 August      10/100 ?
-Easy   MultiplicationTable     Formatting options                              100      No needed.   2015 August
-Easy   Nice angles             Math, units conversions                         100      No needed.   2015 August           
-Easy   Query Board             Array manipulation, simple math                 100      No needed.   2015 August
-Easy   Racing chars            Array manipulation, simple math                 100      No needed.   2015 August
-Easy   ReadMore                String manipulation                              80      Yes.         2015 August      80/100 ?
-Easy   Self Describing Numbers Array manipulation, simple math                 100      No needed.   2015 August 
-Easy   Set Intersection        Set class methods                               100      No needed.   2015 August
-Easy   Stepwise Words	       String manipulation                             100      Yes          2015 August        
-Easy   StringMask              String manipulation                             100      Yes          2015 August
-Easy   SwapCase                String manipulation                             100      No needed.   2015 August      Included into library.           
-Easy   SwapNumbers             String manipulation                             100      No needed.   2015 August           
-Easy   Without Repetitions     String manipulation                             100      Yes.         2015 August      Included into library.     
-
-
+Easy       Armstrong Numbers       Simple math                                      80      No needed.   2015 August      80/100 ?
+Easy       BeautifulStrings        String manipulation                             100      No needed.   2015 August
+Easy       BigDigits               String and array manipulation                   100      No needed.   2015 August      Included into library.
+Easy       BitsPositions           Bitwise operations                              100      Yes          2015 August      Included into library.
+Easy       CapitalizeWords         String manipulation                             100      No needed.   2015 August
+Easy       Clean Up The Words	   String manipulation, greedy algorithm           100      Yes          2015 August      It might be added to the library.
+Easy       ComparePoints           Simple math                                      70      No needed.   2015 August      70/100 ?
+Easy       Compressed Sequence     String manipulation                             100      No needed.   2015 August
+Easy       FizzBuss                String manipulation, simple math.               100      Yes          2015 August
+Easy       HappyNumbers            Number theory                                   100      No needed.   2015 August
+Easy       Knight Moves            Array manipulation                              100      Yes.         2015 August
+Easy       Max Range Sum           Array manipulation, simple math                 100      No needed.   2015 August
+Easy       Multiples of a Number   Simple math                                      10      No needed.   2015 August      10/100 ?
+Easy       MultiplicationTable     Formatting options                              100      No needed.   2015 August
+Easy       Nice angles             Math, units conversions                         100      No needed.   2015 August
+Easy       Query Board             Array manipulation, simple math                 100      No needed.   2015 August
+Easy       Racing chars            Array manipulation, simple math                 100      No needed.   2015 August
+Easy       ReadMore                String manipulation                              80      Yes.         2015 August      80/100 ?
+Easy       Self Describing Numbers Array manipulation, simple math                 100      No needed.   2015 August
+Easy       Set Intersection        Set class methods                               100      No needed.   2015 August
+Easy       Stepwise Words	       String manipulation                             100      Yes          2015 August
+Easy       StringMask              String manipulation                             100      Yes          2015 August
+Easy       SwapCase                String manipulation                             100      No needed.   2015 August      Included into library.
+Easy       SwapNumbers             String manipulation                             100      No needed.   2015 August
+Easy       Without Repetitions     String manipulation                             100      Yes.         2015 August      Included into library.
+Moderate
+Overlapping Rectangles
+Number Of Ones
 PENDING 
 
 Easy   Shortest Repetition    String search
 Easy   StringsAndArrows       String search                                  
 
+./src/main/java/com/lam/coder/codeeval/dataLoad/data
 
-source\com\lam\coder\codeeval\dataLoad\data                                       
 
 Your CodeEval Rank is 3231.
 Your CodeEval Ranking Points are 270. --> 500

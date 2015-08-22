@@ -88,6 +88,17 @@ public class Main {
 			return a;
 		}
 
+		Integer[] nextIntegerArray() {
+			String[] data  = nextStringArray();
+			Integer[] a  = new Integer[data.length];
+
+			for (int i = 0; i < a.length; i++) {
+				a[i] = Integer.parseInt(data[i]);
+			}
+
+			return a;
+		}
+
 
 	}
 }

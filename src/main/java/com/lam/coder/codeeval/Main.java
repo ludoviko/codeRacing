@@ -36,4 +36,35 @@ public class Main {
         buffer.close();
         out.close();
     }
+
+
+    String[] nextStringArray(String string) {
+        String[] str = null;
+            str = string.trim().split(" ");
+
+        return str;
+    }
+
+    int[] nextIntArray(String string) {
+        String[] data  = nextStringArray(string);
+        int[] a  = new int[data.length];
+
+        for (int i = 0; i < a.length; i++) {
+            a[i] = Integer.parseInt(data[i]);
+        }
+
+        return a;
+    }
+
+    Integer[] nextIntegerArray(String string) {
+        String[] data  = nextStringArray(string);
+        Integer[] a  = new Integer[data.length];
+
+        for (int i = 0; i < a.length; i++) {
+            a[i] = Integer.parseInt(data[i]);
+        }
+
+        return a;
+    }
+
 }

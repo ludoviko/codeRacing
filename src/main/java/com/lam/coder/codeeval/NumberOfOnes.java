@@ -23,10 +23,8 @@ public class NumberOfOnes {
             byte i = (byte) (n & 1);
                 k += i;
         }
-
         return  k;
 	}
-
 
     public byte findBit(int n) {
         // Position zero-based.

@@ -25,9 +25,9 @@ Easy       StringMask              String manipulation                          
 Easy       SwapCase                String manipulation                             100      No needed.   2015 August      Included into library.
 Easy       SwapNumbers             String manipulation                             100      No needed.   2015 August
 Easy       Without Repetitions     String manipulation                             100      Yes.         2015 August      Included into library.
-Moderate
+Moderate   Number Of Ones          Bitwise operation                                55      No needed.   2015 August      55/100 ?
 Overlapping Rectangles
-Number Of Ones
+
 PENDING 
 
 Easy   Shortest Repetition    String search

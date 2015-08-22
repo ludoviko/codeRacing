@@ -26,13 +26,6 @@ public class NumberOfOnes {
         return  k;
 	}
 
-    public byte findBit(int n) {
-        // Position zero-based.
-        byte i = (byte) ((n >> 1) & 1);
-        return i;
-    }
-
-
     public static void main (String[] args) throws IOException {
         File file = new File(args[0]);
         BufferedReader buffer = new BufferedReader(new FileReader(file));

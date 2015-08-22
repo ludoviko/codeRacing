@@ -13,7 +13,7 @@ public class CopyIntoMain {
 		String dirOut = "./src/main/java/";
 
 		System.out
-		.println("Code forces: Utility fro creating the Main Class -to be sent to the judges- from a Given Class.");
+		.println("Code forces: Utility for creating the Main Class -to be sent to the judges- from a Given Class.");
 
 		System.out
 		.println("Enter arg: the name of the source class to copy into Main.java, NextRound or what ever, you might use white spaces as they will be trimmed. ");

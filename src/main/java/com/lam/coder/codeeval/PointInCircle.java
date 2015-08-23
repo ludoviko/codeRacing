@@ -32,7 +32,6 @@ import java.io.PrintStream;
  */
 
 public class PointInCircle {
-    // Center: (2.12, -3.48); Radius: 17.22; Point: (16.21, -5)
     public boolean find(String string) {
 
         string = string.replaceAll("Center:", "");
@@ -78,17 +77,6 @@ public class PointInCircle {
         return str;
     }
 
-    int[] nextIntArray(String string) {
-        String[] data = nextStringArray(string);
-        int[] a = new int[data.length];
-
-        for (int i = 0; i < a.length; i++) {
-            a[i] = Integer.parseInt(data[i]);
-        }
-
-        return a;
-    }
-
     float[] nextFloatArray(String string) {
         String[] data = nextStringArray(string);
         float[] a = new float[data.length];
@@ -99,19 +87,5 @@ public class PointInCircle {
 
         return a;
     }
-
-
-    Integer[] nextIntegerArray(String string) {
-        String[] data = nextStringArray(string);
-        Integer[] a = new Integer[data.length];
-
-        for (int i = 0; i < a.length; i++) {
-            a[i] = Integer.parseInt(data[i]);
-        }
-
-        return a;
-    }
-
-
 }
 

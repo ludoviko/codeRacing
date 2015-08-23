@@ -26,7 +26,7 @@ Easy       SwapCase                String manipulation                          
 Easy       SwapNumbers             String manipulation                             100      No needed.   2015 August
 Easy       Without Repetitions     String manipulation                             100      Yes.         2015 August     Included into library.
 Moderate   Number Of Ones          Bitwise operation                                57.5    No needed.   2015 August     57.5/100 ?
-Moderate   Point In Circle         Simple geometry                                  60      No needed.   2015 August    60/100 ?
+Moderate   Point In Circle         Simple geometry                                  62.5     No needed.   2015 August    62.5/100 ?
 
 Overlapping Rectangles
 

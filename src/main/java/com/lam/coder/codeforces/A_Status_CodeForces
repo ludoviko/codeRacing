@@ -37,7 +37,6 @@
    268A	    Games brute force             brute force 	                          Not needed.  2015  Aug.       Too easy.
 
 
-318A	Even Odds math	 Submit  Add to favourites	 x6244
 448A	Rewards implementation	 Submit  Add to favourites	 x6205
 466A	Cheap Travel implementation	 Submit  Add to favourites	 x6084
 474A	Keyboard implementation	 Submit  Add to favourites	 x5988
@@ -46,6 +45,9 @@
    271A  	Beautiful Year                brute force	                          Not needed.  2015  Aug.       Too easy.
    281A	    Word Capitalization           strings	                              Not needed.  2015  Aug.       Too easy.
    282A	    Bit++                         implementation                          Not needed.  2015  Feb.       Too easy.                           
+
+318A	Even Odds math	 Submit  Add to favourites	 x6244
+
 
    337A	    Puzzles                       dp, graph matchings, greedy	          XXX
    339A	    Helpful Maths              greedy, implementation, sortings, strings  Done it.     2015  Aug.       Done.

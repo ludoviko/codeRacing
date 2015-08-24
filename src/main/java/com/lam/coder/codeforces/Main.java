@@ -99,6 +99,15 @@ public class Main {
 			return a;
 		}
 
+		long[] nextLongArray() {
+			String[] data  = nextStringArray();
+			long[] a  = new long[data.length];
 
+			for (int i = 0; i < a.length; i++) {
+				a[i] = Long.parseLong(data[i]);
+			}
+
+			return a;
+		}
 	}
 }

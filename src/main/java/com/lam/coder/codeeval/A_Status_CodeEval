@@ -26,18 +26,13 @@ Easy       SwapCase                String manipulation                          
 Easy       SwapNumbers             String manipulation                             100      No needed.   2015 August
 Easy       Without Repetitions     String manipulation                             100      Yes.         2015 August     Included into library.
 Moderate   Number Of Ones          Bitwise operation                                57.5    No needed.   2015 August     57.5/100 ?
-Moderate   Point In Circle         Simple geometry                                  62.5     No needed.   2015 August    62.5/100 ?
+Moderate   Point In Circle         Simple geometry                                  62.5    No needed.   2015 August    62.5/100 ?
 
-Overlapping Rectangles
-
-PENDING 
+PENDING
 
 Easy   Shortest Repetition    String search
 Easy   StringsAndArrows       String search                                  
+Moderate Overlapping Rectangles
 
 ./src/main/java/com/lam/coder/codeeval/dataLoad/data
 
-
-Your CodeEval Rank is 3231.
-Your CodeEval Ranking Points are 270. --> 500
-            

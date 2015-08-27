@@ -30,10 +30,9 @@ public class CreateTestClassFromTemplate {
 		}
 
 		sc.close();
-
-		String sourceFile = "source/com/lam/coder/codeeval/test/MainTest.java"; 
-		String outputDir = "source/com/lam/coder/codeeval/test/"; 
-		String packageTest = "package com.lam.coder.codeeval.test;" + System.getProperty("line.separator");
+		String sourceFile = "src/test/java/com/lam/coder/codeeval/MainTest.java";
+		String outputDir = "src/test/java/com/lam/coder/codeeval/";
+		String packageTest = "package com.lam.coder.codeeval;" + System.getProperty("line.separator");
 		Scanner s = null;
 		StringBuilder output = new StringBuilder();
 		PrintWriter outputStream = null;

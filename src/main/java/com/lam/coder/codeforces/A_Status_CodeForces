@@ -41,7 +41,7 @@
    281A	    Word Capitalization           strings	                              Not needed.  2015  Aug.       Too easy.
    282A	    Bit++                         implementation                          Not needed.  2015  Feb.       Too easy.                           
 
-427A	Police Recruits implementation	 Submit  Add to favourites	 x5766
+
 313A	Ilya and Bank Account implementation, number theory	 Submit  Add to favourites	 x5744
 237A	Free Cash implementation	 Submit  Add to favourites	 x5731
 471A	MUH and Sticks implementation	 Submit  Add to favourites	 x5720
@@ -54,6 +54,9 @@
    379A	    New Year Candles              implementation                          Done it.     2015  Aug.       Done.   	                      
 
    405A	    Gravity Flip                   greedy, implementation, sortings	      Not needed.  2015  Aug.       Too easy.
+
+427A	Police Recruits implementation	 Submit  Add to favourites	 x5766
+
    443A	    Anton And Letters            constructive algorithms, implementation  Not needed.  2015  Aug.       Too easy.
    448A	    Rewards                       implementation	                      Not needed.  2015  Aug.       Too easy.
    451A	    Game With Sticks              implementation                          Done it.     2015  Aug.       Done.
@@ -75,9 +78,7 @@
    513A	    Game                          constructive algorithms, math	          Not needed.  2015  Aug.       Too easy.
    519A	    A And B And Chess             implementation	                      Not needed.  2015  Aug.       Too easy.
    520A	    Pangram                       implementation, strings	              Done it.     2015  Aug.       Done.
-
-540A	Combination Lock implementation	 Submit  Add to favourites	 x5818
-
+   540A	    Combination Lock              implementation	                      Not needed.  2015  Aug.       Too easy.
    546A	    Soldier And Bananas           implementation, math	                  Not needed.  2015  Aug.       Too easy.
 
    XXX 514B	    Han Solo and Lazer Gun  brute force, data structures, geometry, math	  XDone it.    2014  Feb.       Competition.

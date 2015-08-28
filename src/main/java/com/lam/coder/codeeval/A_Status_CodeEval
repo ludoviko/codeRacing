@@ -27,7 +27,9 @@ Easy       SwapNumbers             String manipulation                          
 Easy       Without Repetitions     String manipulation                             100      Yes.         2015 August     Included into library.
 Moderate   Number Of Ones          Bitwise operation                                57.5    No needed.   2015 August     57.5/100 ?
 Moderate   Point In Circle         Simple geometry                                  62.5    No needed.   2015 August    62.5/100 ?
-Moderate   Pangrams                String manipulation                             100      Yes.        2015 August     Included into library.
+Moderate   Pangrams                String manipulation                             100      Yes.         2015 August     Included into library.
+Moderate   Email Validation        Regex                                            75      No needed.   2015 August    75/100 ?
+
 
 PENDING
 

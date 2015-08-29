@@ -32,6 +32,7 @@
    228A	Is Your Horseshoe On The Other Hoof ? implementation	                  Not needed.  2015  Aug.       Too easy.     
    231A	    Team                          brute force, greedy                     Not needed.  2015  Jan.       Too easy.	
    236A	    Boy or Girl                   implementation	                      Not needed.  2015  Aug.       Too easy.
+   237A	    Free Cash implementation	  implementation	                      Not needed.  2015  Aug.       Too easy.
    263A	    Beautiful Matrix              implementation	                      Not needed.  2015  Aug.       Too easy.
    266A	    Stones on the Table           implementation                          Done it.     2015  July.      Done. 	                        
    266B	    Queue at the School       constructive algorithms, graph matchings	  Done it.     2015  Aug.       Done.
@@ -42,9 +43,6 @@
    282A	    Bit++                         implementation                          Not needed.  2015  Feb.       Too easy.                           
 
 
-
-237A	Free Cash implementation	 Submit  Add to favourites	 x5731
-471A	MUH and Sticks implementation	 Submit  Add to favourites	 x5720
 339B	Xenia and Ringroad implementation	 Submit  Add to favourites
 
    318A	    Even Odds                     math	                                  Not needed.  2015  Aug.       Too easy.
@@ -54,6 +52,9 @@
    379A	    New Year Candles              implementation                          Done it.     2015  Aug.       Done.   	                      
 
    405A	    Gravity Flip                  greedy, implementation, sortings	      Not needed.  2015  Aug.       Too easy.
+
+471A	MUH and Sticks implementation	 Submit  Add to favourites	 x5720
+
    427A	    Police Recruits               implementation	                      Not needed.  2015  Aug.       Too easy.
    443A	    Anton And Letters             constructive algorithms, implementation Not needed.  2015  Aug.       Too easy.
    448A	    Rewards                       implementation	                      Not needed.  2015  Aug.       Too easy.

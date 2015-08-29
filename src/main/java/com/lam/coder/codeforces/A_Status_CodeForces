@@ -2,6 +2,9 @@
 
      1A	    Theatre Square                math	                                  Done it.     2014  Dec.       Done. 
      4A	    Watermelon                    brute force, math	                      Done it.     2014  Dec.       Done.
+
+    25A	IQ Test b rute force	 Submit  Add to favourites	 x5656
+
     41A	    Translation                   implementation, strings	              Not needed.  2015  Aug.       Too easy.
     50A	    Domino piling                 greedy, math                        	  Done it.     2015  Jan.       Done. 
     58A  	Chat room                     greedy, strings                         Done it.     2015  Aug.       Done.
@@ -51,8 +54,28 @@
 
    405A	    Gravity Flip                  greedy, implementation, sortings	      Not needed.  2015  Aug.       Too easy.
 
-471A	MUH and Sticks implementation	 Submit  Add to favourites	 x5720
 
+
+
+230A	Dragons greedy, sortings	 Submit  Add to favourites	 x5630
+476A	Dreamoon and Stairs implementation, math	 Submit  Add to favourites	 x5598
+515A	Drazil and Date math	 Submit  Add to favourites	 x5571
+461A	Appleman and Toastman greedy, sortings	 Submit  Add to favourites	 x5558
+59A	Word implementation, strings	 Submit  Add to favourites	 x5554
+490A	Team Olympiad greedy, implementation, sortings	 Submit  Add to favourites	 x5520
+149A	Business trip greedy, implementation, sortings	 Submit  Add to favourites	 x5494
+459A	Pashmak and Garden implementation	 Submit  Add to favourites	 x5492
+551A	GukiZ and Contest implementation, sortings	 Submit  Add to favourites	 x5444
+507A	Amr and Music greedy, implementation, sortings	 Submit  Add to favourites	 x5443
+455A	Boredom dp	 Submit  Add to favourites	 x5431
+514A	Chewbaсca and Number greedy, implementation	 Submit  Add to favourites	 x5425
+567A	Lineland Mail implementation	 Submit  Add to favourites	 x5422
+527A	Playing with Paper implementation, math	 Submit  Add to favourites	 x5406
+454A	Little Pony and Crystal Mine implementation	 Submit  Add to favourites	 x5406
+439A	Devu, the Singer and Churu, the Joker greedy, implementation	 Submit  Add to favourites	 x5393
+270A	Fancy Fence geometry, implementation, math	 Submit  Add to favourites	 x5375
+
+   471A	    MUH And Sticks                implementation	                      Not needed.  2015  Aug.       Cumbersome.
    427A	    Police Recruits               implementation	                      Not needed.  2015  Aug.       Too easy.
    443A	    Anton And Letters             constructive algorithms, implementation Not needed.  2015  Aug.       Too easy.
    448A	    Rewards                       implementation	                      Not needed.  2015  Aug.       Too easy.
@@ -77,6 +100,7 @@
    520A	    Pangram                       implementation, strings	              Done it.     2015  Aug.       Done.
    540A	    Combination Lock              implementation	                      Not needed.  2015  Aug.       Too easy.
    546A	    Soldier And Bananas           implementation, math	                  Not needed.  2015  Aug.       Too easy.
+   574A	    Bear and Elections            data structures, implementation         Done it.     2015  Aug.       Competition
 
    XXX 514B	    Han Solo and Lazer Gun  brute force, data structures, geometry, math	  XDone it.    2014  Feb.       Competition.
 
@@ -85,6 +109,8 @@
    
 
 
-   Code     Name                             Method                                         Points    Tested       Date             See             
-   500A	    New Year Transportation          dfs and similar, graphs, implementation                  Done it.     2014  Dec.       Competition	   	
-   514B	    Han Solo and Lazer Gun           brute force, data structures, geometry, math	          XDone it.     2014  Feb.       Competition
+   Code     Name                           Method                                           Points    Tested       Date          See
+
+   500A	    New Year Transportation        dfs and similar, graphs, implementation                    Done it.      2014  Dec.   Competition
+   514B	    Han Solo and Lazer Gun         brute force, data structures, geometry, math	            XDone it.     2014  Feb.   Competition
+   574A	    Bear and Elections             data structures, implementation                            one it.     2014  Feb.   Competition

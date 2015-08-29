@@ -36,7 +36,7 @@ PENDING
 Easy   Shortest Repetition    String search
 Easy   StringsAndArrows       String search                                  
 Moderate Overlapping Rectangles
-
+Moderate Find a Square
 ./src/main/java/com/lam/coder/codeeval/dataLoad/data
 
 600

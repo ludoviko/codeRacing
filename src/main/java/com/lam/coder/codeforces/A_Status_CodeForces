@@ -2,9 +2,7 @@
 
      1A	    Theatre Square                math	                                  Done it.     2014  Dec.       Done. 
      4A	    Watermelon                    brute force, math	                      Done it.     2014  Dec.       Done.
-
-    25A	IQ Test b rute force	 Submit  Add to favourites	 x5656
-
+    25A	    IQ Test                       brute force                             Not needed.  2015  Aug.       Too easy.
     41A	    Translation                   implementation, strings	              Not needed.  2015  Aug.       Too easy.
     50A	    Domino piling                 greedy, math                        	  Done it.     2015  Jan.       Done. 
     58A  	Chat room                     greedy, strings                         Done it.     2015  Aug.       Done.
@@ -33,7 +31,8 @@
 
    208A	    Dubstep                       strings	                              Not needed.  2015  Aug.       Too easy.
    228A	Is Your Horseshoe On The Other Hoof ? implementation	                  Not needed.  2015  Aug.       Too easy.     
-   231A	    Team                          brute force, greedy                     Not needed.  2015  Jan.       Too easy.	
+   230A	    Dragons                       greedy, sortings	                      Not needed.  2015  Aug.       Too easy.
+   231A	    Team                          brute force, greedy                     Not needed.  2015  Jan.       Too easy.
    236A	    Boy or Girl                   implementation	                      Not needed.  2015  Aug.       Too easy.
    237A	    Free Cash implementation	  implementation	                      Not needed.  2015  Aug.       Too easy.
    263A	    Beautiful Matrix              implementation	                      Not needed.  2015  Aug.       Too easy.
@@ -54,11 +53,6 @@
 
    405A	    Gravity Flip                  greedy, implementation, sortings	      Not needed.  2015  Aug.       Too easy.
 
-
-
-
-230A	Dragons greedy, sortings	 Submit  Add to favourites	 x5630
-476A	Dreamoon and Stairs implementation, math	 Submit  Add to favourites	 x5598
 515A	Drazil and Date math	 Submit  Add to favourites	 x5571
 461A	Appleman and Toastman greedy, sortings	 Submit  Add to favourites	 x5558
 59A	Word implementation, strings	 Submit  Add to favourites	 x5554
@@ -75,7 +69,6 @@
 439A	Devu, the Singer and Churu, the Joker greedy, implementation	 Submit  Add to favourites	 x5393
 270A	Fancy Fence geometry, implementation, math	 Submit  Add to favourites	 x5375
 
-   471A	    MUH And Sticks                implementation	                      Not needed.  2015  Aug.       Cumbersome.
    427A	    Police Recruits               implementation	                      Not needed.  2015  Aug.       Too easy.
    443A	    Anton And Letters             constructive algorithms, implementation Not needed.  2015  Aug.       Too easy.
    448A	    Rewards                       implementation	                      Not needed.  2015  Aug.       Too easy.
@@ -84,8 +77,13 @@
    466A	    Cheap Travel                  implementation	                   	  Done it.     2015  Aug.       Done.
    467A	    George And Accommodation      implementation	                      Not needed.  2015  Aug.       Too easy.
    469A	    XXX I Wanna Be The Guy            greedy, implementation	 Submit  Add to favourites	 x6415
+   471A	    MUH And Sticks                implementation	                      Not needed.  2015  Aug.       Cumbersome.
    472A	    XXX Design Tutorial: Learn from Math math, number theory
    474A	    Keyboard                      implementation	                      Done it.     2015  Aug.       Done.
+
+476A	Dreamoon and Stairs implementation, math	 Submit  Add to favourites	 x5598
+
+
    478A	    Initial Bet                   implementation	                      Not needed.  2015  Aug.       Too easy.
    479A	    XXX  Expression brute force, math	 Submit  Add to favourites	 x6597
    486A	    Calculating Function          implementation, math	                  Not needed.  2015  Aug.       Too easy.

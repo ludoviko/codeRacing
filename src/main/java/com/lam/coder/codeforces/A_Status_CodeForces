@@ -6,6 +6,7 @@
     41A	    Translation                   implementation, strings	              Not needed.  2015  Aug.       Too easy.
     50A	    Domino piling                 greedy, math                        	  Done it.     2015  Jan.       Done. 
     58A  	Chat room                     greedy, strings                         Done it.     2015  Aug.       Done.
+    59A	    Word                          implementation, strings	              Not needed.  2015  Sept.      Too easy.
     61A	    Ultra-Fast Mathematician      implementation                          Not needed.  2015  Aug.       Too easy.
     69A	    Young Physicist               implementation, math                    Not needed.  2015  Aug.       Too easy.
     71A	    Way Too Long Words            strings	  	                          Done it.     2014  Dec.       Done.
@@ -53,9 +54,6 @@
 
    405A	    Gravity Flip                  greedy, implementation, sortings	      Not needed.  2015  Aug.       Too easy.
 
-515A	Drazil and Date math	 Submit  Add to favourites	 x5571
-461A	Appleman and Toastman greedy, sortings	 Submit  Add to favourites	 x5558
-59A	Word implementation, strings	 Submit  Add to favourites	 x5554
 490A	Team Olympiad greedy, implementation, sortings	 Submit  Add to favourites	 x5520
 149A	Business trip greedy, implementation, sortings	 Submit  Add to favourites	 x5494
 459A	Pashmak and Garden implementation	 Submit  Add to favourites	 x5492
@@ -74,6 +72,9 @@
    448A	    Rewards                       implementation	                      Not needed.  2015  Aug.       Too easy.
    451A	    Game With Sticks              implementation                          Done it.     2015  Aug.       Done.
    460A	    Vasya and Socks               brute force, implementation	          Done it.     2015  Aug.       Done.
+
+   461A	    Appleman and Toastman         greedy, sortings
+
    466A	    Cheap Travel                  implementation	                   	  Done it.     2015  Aug.       Done.
    467A	    George And Accommodation      implementation	                      Not needed.  2015  Aug.       Too easy.
    469A	    XXX I Wanna Be The Guy            greedy, implementation	 Submit  Add to favourites	 x6415
@@ -91,6 +92,7 @@
    509A	    Maximum In Table              brute force, implementation	          Not needed.  2015  Aug.       Too easy.
    510A	    Fox And Snake                 implementation	                      Not needed.  2015  Aug.       Too easy.
    513A	    Game                          constructive algorithms, math	          Not needed.  2015  Aug.       Too easy.
+   515A	    Drazil And Date               math                                    Done it.     2015  Sept.      Done.
    519A	    A And B And Chess             implementation	                      Not needed.  2015  Aug.       Too easy.
    520A	    Pangram                       implementation, strings	              Done it.     2015  Aug.       Done.
    540A	    Combination Lock              implementation	                      Not needed.  2015  Aug.       Too easy.

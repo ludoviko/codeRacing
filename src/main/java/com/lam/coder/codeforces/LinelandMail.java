@@ -14,20 +14,22 @@ public class LinelandMail {
 	public String find(int i, Long[] array) {
 		long min = Long.MAX_VALUE;
 		long max = 0;
-        long x, y;
-
-        List<Long> list = new ArrayList<Long>();
 
         Long from = array[i];
 
+        int j = 0;
         for (Long data: array) {
-            list.add( Math.abs(data -from) );
+            if (i == j++) {
+                continue;
+            }
+
+            if ( Math.abs(data -from) >= max) {
+                max = Math.abs(data -from);
+            }
+            if ( Math.abs(data -from) <= min) {
+                min = Math.abs(data -from);
+            }
         }
-
-        Collections.sort(list);
-
-        min = list.get(1);
-        max =  list.get(list.size() - 1);
 
 		return min + " " + max;
 	}

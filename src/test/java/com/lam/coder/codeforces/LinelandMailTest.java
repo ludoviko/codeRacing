@@ -22,14 +22,13 @@ public class LinelandMailTest {
 
 	@Test
 	public void test() {
-		Assert.assertEquals("3 12", this.linelandMail.find(0, new long[] {-5, -2, 2, 7}));
-		Assert.assertEquals("3 9", this.linelandMail.find(1, new long[] {-5, -2, 2, 7}));
-		Assert.assertEquals("4 7", this.linelandMail.find(2, new long[] {-5, -2, 2, 7}));
-		Assert.assertEquals("5 12", this.linelandMail.find(3, new long[] {-5, -2, 2, 7}));
-		Assert.assertEquals("2 2", this.linelandMail.find(0, new long[] {-1, 1}));
-		Assert.assertEquals("2 2", this.linelandMail.find(1, new long[] {-1, 1}));
-//		Assert.assertEquals("", linelandMail.);
-//		Assert.assertArrayEquals(new int[] {}, linelandMail.);
-//		Assert.assertArrayEquals(new String[] {}, linelandMail.);
+		Assert.assertEquals("3 12", this.linelandMail.find(0, new Long[] {-5L, -2L, 2L, 7L}));
+		Assert.assertEquals("3 9", this.linelandMail.find(1, new Long[] {-5L, -2L, 2L, 7L}));
+		Assert.assertEquals("4 7", this.linelandMail.find(2, new Long[] {-5L, -2L, 2L, 7L}));
+		Assert.assertEquals("5 12", this.linelandMail.find(3, new Long[] {-5L, -2L, 2L, 7L}));
+		Assert.assertEquals("2 2", this.linelandMail.find(0, new Long[] {-1L, 1L}));
+		Assert.assertEquals("2 2", this.linelandMail.find(1, new Long[] {-1L, 1L}));
+		Assert.assertEquals("2000000000 2000000000", this.linelandMail.find(0, new Long[] {-1000000000L, 1000000000L}));
+        Assert.assertEquals("2000000000 2000000000", this.linelandMail.find(1, new Long[] {-1000000000L, 1000000000L}));
 	}
 }

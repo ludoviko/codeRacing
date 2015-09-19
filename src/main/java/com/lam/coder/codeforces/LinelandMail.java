@@ -4,23 +4,30 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.io.PrintStream;
+import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.Collections;
+import java.util.List;
 
 public class LinelandMail {
 
-	public String find(int i, long[] array) {
-		long min = 1000000000;
+	public String find(int i, Long[] array) {
+		long min = Long.MAX_VALUE;
 		long max = 0;
-        long r  = 0;
-		
-		for (int j = 0; j < array.length; j++) {
-			if (i == j) {
-				continue;
-			}
-			r = Math.abs(array[i] - array[j]);
+        long x, y;
 
-			min = Math.min(min, r);
-			max = Math.max(max, r);
-		}
+        List<Long> list = new ArrayList<Long>();
+
+        Long from = array[i];
+
+        for (Long data: array) {
+            list.add( Math.abs(data -from) );
+        }
+
+        Collections.sort(list);
+
+        min = list.get(1);
+        max =  list.get(list.size() - 1);
 
 		return min + " " + max;
 	}
@@ -36,14 +43,13 @@ public class LinelandMail {
 
 		String[] data = string.split(" ");
 
-		long[] array = new long[n];
+		Long[] array = new Long[n];
 
 		int i = 0;
 		for (String s : data) {
 			array[i++] = Long.parseLong(s);
 		}
 
-		
 		for (i = 0; i < n; i++) {
 			out.println(main.find(i, array));
 		}

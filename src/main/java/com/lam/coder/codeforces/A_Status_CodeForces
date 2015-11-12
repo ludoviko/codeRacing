@@ -54,8 +54,9 @@
 
    405A	    Gravity Flip                  greedy, implementation, sortings	      Not needed.  2015  Aug.       Too easy.
 
-490A	Team Olympiad greedy, implementation, sortings	 Submit  Add to favourites	 x5520
 
+580A	Kefa and First Steps brute force, dp, implementation
+490A	Team Olympiad greedy, implementation, sortings	 Submit  Add to favourites	 x5520
 149A	Business trip greedy, implementation, sortings	 Submit  Add to favourites	 x5494
 459A	Pashmak and Garden implementation	 Submit  Add to favourites	 x5492
 551A	GukiZ and Contest implementation, sortings	 Submit  Add to favourites	 x5444
@@ -96,8 +97,8 @@
    520A	    Pangram                       implementation, strings	              Done it.     2015  Aug.       Done.
    540A	    Combination Lock              implementation	                      Not needed.  2015  Aug.       Too easy.
    546A	    Soldier And Bananas           implementation, math	                  Not needed.  2015  Aug.       Too easy.
-   574A	    Bear and Elections            data structures, implementation         Done it.     2015  Aug.       Competition
    567A	    XXX Lineland Mail             implementation	                      Out of time exception.
+   574A	    Bear and Elections            data structures, implementation         Done it.     2015  Aug.       Competition
 
    XXX 514B	    Han Solo and Lazer Gun  brute force, data structures, geometry, math	  XDone it.    2014  Feb.       Competition.
 

@@ -1,19 +1,17 @@
 package com.lam.coder.uva.dataLoad;
 
-import java.io.BufferedReader;
-import java.io.FileReader;
-import java.io.FileWriter;
-import java.io.IOException;
-import java.io.PrintWriter;
+import java.io.*;
 import java.util.Scanner;
 
-public class CopyFromMain {
+public class CreateClassFromTemplate {
 	public static void main(String[] args) throws IOException {
-		System.out
-		.println("Utility fro creating the Given Class from a Main Class Template.");
+		String dir = "src/main/java/com/lam/coder/uva/";
 
 		System.out
-				.println("Enter arg: the name of the target class: NextRound or what ever, you might use white spaces as they will be trimmed. ");
+		.println("UVA On Line: Utility for creating the Given Class from a Main Class Template.");
+
+		System.out
+				.println("Enter arg: the name of the target class: v.g. NextRound , you might use white spaces as they will be trimmed. ");
 
 		Scanner sc = new Scanner(System.in);
 
@@ -26,7 +24,7 @@ public class CopyFromMain {
 
 		try {
 			s = new Scanner(new BufferedReader(new FileReader(
-					"source/com/lam/coder/uva/Main.java")));
+					dir + "Main.java")));
 
 			while (s.hasNext()) {
 				output.append(s.nextLine());
@@ -47,7 +45,7 @@ public class CopyFromMain {
 
 		try {
 			outputStream = new PrintWriter(new FileWriter(
-					"source/com/lam/coder/uva/" + name + ".java"));
+					dir + name + ".java"));
 
 			outputStream.println(data);
 		} finally {

@@ -5,7 +5,7 @@ import org.junit.Assert;
 import org.junit.Before;
 import org.junit.Test;
 
-import com.lam.coder.codeforces.Main;
+import com.lam.coder.uva.Main;
 
 public class MainTest {
 	Main main;

@@ -1,21 +1,17 @@
 package com.lam.coder.uva.dataLoad;
 
-import java.io.BufferedReader;
-import java.io.FileReader;
-import java.io.FileWriter;
-import java.io.IOException;
-import java.io.PrintWriter;
-import java.util.Scanner;
-
 import com.lam.utilString.StringUtils;
 
-public class CopyIntoTestClass {
+import java.io.*;
+import java.util.Scanner;
+
+public class CreateTestClassFromTemplate {
 	public static void main(String[] args) throws IOException {
 
 		System.out
-		.println("Utility for creating the Test Class.");
+		.println("UVA On Line: Utility for creating the Test Class.");
 		System.out
-		.println("Enter arg: the name of the target class, NextRound or what ever, white spaces will be trimmed: ");
+		.println("Enter arg: the name of the target class to copy into, v.g., NextRound, white spaces will be trimmed: ");
 
 		Scanner sc = new Scanner(System.in);
 		String name  = sc.nextLine();
@@ -30,10 +26,9 @@ public class CopyIntoTestClass {
 		}
 
 		sc.close();
-
-		String sourceFile = "source/com/lam/coder/uva/dataLoad/MainTest.java"; 
-		String outputDir = "source/com/lam/coder/uva/test/"; 
-		String packageTest = "package com.lam.coder.uva.test;" + System.getProperty("line.separator");
+		String sourceFile = "src/test/java/com/lam/coder/uva/MainTest.java";
+		String outputDir = "src/test/java/com/lam/coder/uva/";
+		String packageTest = "package com.lam.coder.uva;" + System.getProperty("line.separator");
 		Scanner s = null;
 		StringBuilder output = new StringBuilder();
 		PrintWriter outputStream = null;

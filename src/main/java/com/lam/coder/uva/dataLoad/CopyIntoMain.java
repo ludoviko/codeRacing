@@ -1,19 +1,18 @@
 package com.lam.coder.uva.dataLoad;
 
-import java.io.BufferedReader;
-import java.io.FileReader;
-import java.io.FileWriter;
-import java.io.IOException;
-import java.io.PrintWriter;
+import java.io.*;
 import java.util.Scanner;
 
 public class CopyIntoMain {
 	public static void main(String[] args) throws IOException {
-		System.out
-		.println("Utility fro creating the Main Class from a Given Class.");
+		String dirSource = "./src/main/java/com/lam/coder/uva/";
+		String dirOut = "./src/main/java/";
 
 		System.out
-		.println("Enter arg: the name of the source class to copy into Main.java, NextRound or what ever, you might use white spaces as they will be trimmed. ");
+		.println("UVA On Line: Utility for creating the a Main.java Class -within the default package- from a given class.");
+
+		System.out
+		.println("Enter arg: the name of the source class to copy from, v.g. NextRound, you might use white spaces as they will be trimmed. ");
 
 		Scanner sc = new Scanner(System.in);
 
@@ -26,7 +25,7 @@ public class CopyIntoMain {
 
 		try {
 			s = new Scanner(new BufferedReader(new FileReader(
-					"source/com/lam/coder/uva/" + name + ".java")));
+					dirSource + name + ".java")));
 
 			// Skip package declaration
 			s.nextLine();
@@ -52,7 +51,7 @@ public class CopyIntoMain {
 
 		try {
 			outputStream = new PrintWriter(new FileWriter(
-					"source/com/lam/coder/uva/dataLoad/Main.java"));
+					dirOut + "Main.java"));
 
 			outputStream.println(data);
 		} finally {

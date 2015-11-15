@@ -1,38 +1,48 @@
 package com.lam.coder.uva;
 
-import java.io.BufferedReader;
-import java.io.IOException;
-import java.io.InputStreamReader;
-import java.io.PrintStream;
-
+import java.io.*;
 
 /**
  *
- * @author
+ * @author LAzuaje.
  *
  *
  *
  */
 
-public class Main {
+public class EmoogleBalance {
+	public int find(int[] data ) {
+        int sum = 0;
+        for (int i : data  ) {
+            if (i == 0) {
+                sum--;
+            } else {
+                sum++;
+            }
+        }
 
-//	public find() {
-//	}
+        return sum;
+     }
 
-    public static void main(String[] args) throws IOException {
+    public static void main (String[] args) throws IOException {
         MyScanner scanner = new MyScanner();
         PrintStream out = System.out;
 
-        Main main = new Main();
+        EmoogleBalance main = new EmoogleBalance();
 
-        int n = scanner.nextInt();
-        String string = scanner.next();
-
-        out.println();
+        int i = 1;
+        while ( ! (scanner.next()).equals("0")) {
+            // Read test data
+            // Process line of input Here
+            int r = main.find(scanner.nextIntArray());
+            out.println("Case " +  i++ + ":" + " "+ r);
+        }
 
         scanner.reader.close();
         out.close();
+
     }
+
 
     // -----------MyScanner class for faster input----------
     public static class MyScanner {

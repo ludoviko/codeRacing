@@ -7,7 +7,6 @@
 # Compiled source #
 ###################
 *.com
-*.class
 .class
 *.dll
 *.exe
@@ -21,7 +20,6 @@
 *.dmg
 *.gz
 *.iso
-*.jar
 *.rar
 *.tar
 *.zip
@@ -51,7 +49,6 @@ Thumbs.db
 #Ide meta-data
 .classpath
 .project
-.settings
 .idea
 .metadata
 *.ipr

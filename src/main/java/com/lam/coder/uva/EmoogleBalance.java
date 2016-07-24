@@ -125,7 +125,7 @@ public class EmoogleBalance {
         String next() {
             String str = "";
             try {
-                str = this.reader.readLine().trim();
+                str = this.reader.readLine();
             } catch (IOException e) {
                 e.printStackTrace();
             }

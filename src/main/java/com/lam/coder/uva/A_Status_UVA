@@ -1,15 +1,15 @@
-   Vol-Code     Name                             Method                                  Tested       Date          Posted  Tutorial
+   Vol-Code     Name                             Method                                 Tested     Date          Posted   Tutorial
 
-  100-10189	    Mine Sweeper                     String manipulation	                 +-           2015, March    No
+  100-00100     The 3n + 1 problem               Math Collatz sequence                     Yes     2016, Agost   Yes      Improvements needed. http://www.mathblog.dk/uva-100-3n-plus-1-problem/
+  101-10189	    Mine Sweeper                     String manipulation	                    No     2015, March   No       In construction.
   101-10137     The trip                         Math, statistics.
-  115- 11530    SMS Typing                       String manipulation                     Yes          2016, July    Yes
-  122-12279     Emoogle Balance                  Simple math                             Yes          2015, Nov     Yes
-
+  115-11530     SMS Typing                       String manipulation                       Yes     2016, July    Yes
+  122-12279     Emoogle Balance                  Simple math                               Yes     2015, Nov     Yes
 
 
  Useful links:
     http://uhunt.felix-halim.net/series/2013#w1;
     https://algo.is/solved-problems/
     http://www.ferociouscoder.com/blog/competitive-programming-3
-  
-   
+    http://uvatoolkit.com/problemssolve.php
+    http://www.algorithmist.com/index.php/UVa_100

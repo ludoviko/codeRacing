@@ -38,7 +38,7 @@ public class CopyIntoMain {
 			
 			data = output.toString();
 
-//			data = data.replace(name, name);
+            data = data.replace(name, "Main");
 
 			System.out.println(output);
 
@@ -51,7 +51,7 @@ public class CopyIntoMain {
 
 		try {
 			outputStream = new PrintWriter(new FileWriter(
-					dirOut + name + ".java"));
+					dirOut +  "Main.java"));
 
 			outputStream.println(data);
 		} finally {

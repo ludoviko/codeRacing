@@ -1,6 +1,7 @@
 package com.lam.coder.kattis;
 
 import com.lam.coder.codeforces.Main;
+import org.hamcrest.CoreMatchers;
 import org.junit.*;
 
 @Ignore
@@ -19,7 +20,7 @@ public class MainTest {
 
 	@Test
 	public void test() {
-		Assert.assertEquals(0, main);
+        Assert.assertThat("Should be the same.", main , CoreMatchers.is("expected"));
 //		Assert.assertEquals("", main.);
 //		Assert.assertArrayEquals(new int[] {}, main.);
 //		Assert.assertArrayEquals(new String[] {}, main.);

@@ -5,7 +5,6 @@ import org.junit.*;
 
 
 
-@Ignore
 public class CombinationLockTest {
 	CombinationLock combinationLock;
 	

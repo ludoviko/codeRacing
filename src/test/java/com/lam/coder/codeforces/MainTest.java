@@ -4,7 +4,6 @@ import org.junit.*;
 
 import com.lam.coder.codeforces.Main;
 
-@Ignore
 public class MainTest {
 	Main main;
 	

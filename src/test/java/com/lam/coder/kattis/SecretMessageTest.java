@@ -3,7 +3,6 @@ package com.lam.coder.kattis;
 import com.lam.coder.kattis.SecretMessage;
 import org.junit.*;
 
-@Ignore
 public class SecretMessageTest {
 	SecretMessage secretMessage;
 	

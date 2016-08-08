@@ -4,7 +4,6 @@ import com.lam.coder.kattis.Main;
 import org.hamcrest.CoreMatchers;
 import org.junit.*;
 
-@Ignore
 public class MainTest {
 	Main main;
 	

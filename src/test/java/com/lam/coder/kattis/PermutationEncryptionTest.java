@@ -4,7 +4,6 @@ import com.lam.coder.kattis.PermutationEncryption;
 import org.hamcrest.CoreMatchers;
 import org.junit.*;
 
-@Ignore
 public class PermutationEncryptionTest {
 	PermutationEncryption permutationEncryption;
 	

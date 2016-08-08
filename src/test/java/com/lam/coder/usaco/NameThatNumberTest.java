@@ -13,7 +13,6 @@ import com.lam.coder.usaco.NameThatNumber;
 
 import junit.framework.Assert;
 import junit.framework.TestCase;
-@Ignore
 public class NameThatNumberTest extends TestCase {
 
 	NameThatNumber nameIt; 

@@ -4,7 +4,6 @@ import org.junit.*;
 
 import com.lam.coder.codeforces.DreamoonAndStairs;
 
-@Ignore
 public class DreamoonAndStairsTest {
 	DreamoonAndStairs dreamoonAndStairs;
 	

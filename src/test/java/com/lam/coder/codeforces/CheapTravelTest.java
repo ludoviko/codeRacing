@@ -4,7 +4,6 @@ import org.junit.*;
 
 import com.lam.coder.codeforces.CheapTravel;
 
-@Ignore
 public class CheapTravelTest {
 	CheapTravel cheapTravel;
 	

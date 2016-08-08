@@ -4,7 +4,7 @@ import java.io.*;
 
 /**
  * 
- * @author Usuario
+ * @author Solution by: L.Azuaje.
  *
  *
  *

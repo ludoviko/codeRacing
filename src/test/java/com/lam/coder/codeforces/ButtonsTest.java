@@ -4,7 +4,6 @@ import org.junit.*;
 
 import com.lam.coder.codeforces.Buttons;
 
-@Ignore
 public class ButtonsTest {
 	Buttons buttons;
 	

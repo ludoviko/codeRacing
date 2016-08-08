@@ -4,7 +4,6 @@ import org.junit.*;
 
 import com.lam.coder.codeforces.DrazilAndDate;
 
-@Ignore
 public class DrazilAndDateTest {
 	DrazilAndDate drazilAndDate;
 	

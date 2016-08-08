@@ -1,6 +1,6 @@
 package com.lam.coder.kattis;
 
-import com.lam.coder.codeforces.Main;
+import com.lam.coder.kattis.Main;
 import org.hamcrest.CoreMatchers;
 import org.junit.*;
 

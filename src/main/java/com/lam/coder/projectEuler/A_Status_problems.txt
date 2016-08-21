@@ -13,9 +13,9 @@
    10.	Summation of primes	                     Done             Tested 
    11. 	Largest product in a grid	             Done             Tested
    12.	Highly divisible triangular number	     Done             Tested 
-   13.  Large sum	                             Done             Tested        Redo. It takes too long.
-   14.  Longest Collatz sequence	             Done             Tested
-   15. 	Lattice paths	                         Done             Tested        Recheck theory, see forum.
+   13.  Large sum	                             Done             Tested
+   14.  Longest Collatz sequence	             Done             Tested         Redo. It takes too long.
+   15. 	Lattice paths	                         Done             Tested         Recheck theory, see forum.
    16. 	Power digit sum	                         Done             Tested
    17.  Number letter counts	                 Done             Tested    
    18. 	Maximum path sum I	                     Done             Tested 

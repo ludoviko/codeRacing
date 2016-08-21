@@ -28,6 +28,6 @@ public class LongestCollatzSequenceTest  {
 
 	@Test
 	public void testFind() {
-        assertThat("Error: Should be the same.", collatz.find().get(0), CoreMatchers.is(837799L));
+        assertThat("Error: Should be the same.", collatz.find(), CoreMatchers.is(837799L));
     }
 }

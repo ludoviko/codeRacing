@@ -3,6 +3,7 @@ package com.lam.coder.projectEuler;
 import java.util.ArrayList;
 import java.util.List;
 
+import com.lam.coder.kattis.CollatzConjecture;
 import com.lam.mathematics.CollatzSequence;
 
 /**
@@ -28,30 +29,26 @@ import com.lam.mathematics.CollatzSequence;
  */
 
 public class LongestCollatzSequence {
-	private int LIMIT = 1000000;
+	private long LIMIT = 1000000;
 	private List<Long> list;
 
-	public List<Long> find() {
-		List<Long> listMax = new ArrayList<Long>();
+	public long find() {
+		long indMax  = -1L;
+        long max = 0;
 
-		list = new ArrayList<Long>();
-		CollatzSequence sequence = new CollatzSequence(list);
+		CollatzConjecture sequence = new CollatzConjecture();
 
-		for (int i = 1; i < LIMIT; i++) {
-	//		System.out.println(i + " ");
-			sequence.find(i);
-			if (list.size() > listMax.size()) {
-				listMax = new ArrayList<Long>(list);
+		for (long i = 1; i < LIMIT; i++) {
+//			System.out.println(i + " ");
+            list = sequence.findCollatzSize(i);
+			if (list.size() > indMax) {
+                indMax = list.size();
+                max = list.get(0);
 			}
 		}
-		return listMax;
+		return max;
 	}
 
 	public static void main(String[] args) {
-		LongestCollatzSequence sequence = new LongestCollatzSequence();
-		List<Long> list = sequence.find();
-		for (long n : list) {
-			System.out.print(n + " ");
-		}
 	}
 }

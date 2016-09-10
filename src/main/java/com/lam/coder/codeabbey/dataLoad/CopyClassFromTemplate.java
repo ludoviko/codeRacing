@@ -8,7 +8,7 @@ public class CopyClassFromTemplate {
 		String dirIn = "src/main/java/com/lam/coder/codeabbey/";
 		String dirOut = "src/main/java/com/lam/coder/codeabbey/";
 		System.out
-		.println("CodeAbbey.cin: Utility for creating the Given Class from a Main Class Template.");
+		.println("CodeAbbey.com: Utility for creating the Given Class from a Main Class Template.");
 
 		System.out
 				.println("Enter arg: the name of the target class: NextRound or what ever, you might use white spaces as they will be trimmed. ");

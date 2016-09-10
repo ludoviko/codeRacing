@@ -1,3 +1,7 @@
-  ID     Name                    Method                                    Accepted       Tested        Date             Comments
+  ID     Name                         Method                                    Accepted       Tested          Date             Comments
 
-  27     Bubble Sort             Bubble Sort Algorithm                      Yes            Yes            2016-09-10
+  27     Bubble Sort                  Bubble Sort Algorithm                     Yes            Yes             2016-09-10
+  24     Neumann's Random Generator   Implementation                            Yes            Not needed      2016-09-10
+
+
+Neumanns Random Generator

@@ -1,7 +1,6 @@
   ID     Name                         Method                                    Accepted       Tested          Date             Comments
 
   27     Bubble Sort                  Bubble Sort Algorithm                     Yes            Yes             2016-09-10
-  24     Neumann's Random Generator   Implementation                            Yes            Not needed      2016-09-10
+  24     Neumann's Random Generator   Implementation                            Yes            Not needed      2016-10-10
+  37	 Mortgage Calculator          Sum of a geometric progression.           Yes            Yes             2016-12-10
 
-
-Neumanns Random Generator

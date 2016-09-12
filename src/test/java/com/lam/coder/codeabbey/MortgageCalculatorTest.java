@@ -20,5 +20,6 @@ public class MortgageCalculatorTest {
 	@Test
 	public void test() {
         Assert.assertThat("Should be the same.", MortgageCalculator.monthtlyPayment(800000, 6, 103), CoreMatchers.is(9957L));
+        Assert.assertThat("Should be the same.", MortgageCalculator.monthtlyPayment(1700000, 5, 99), CoreMatchers.is(20992L));
 	}
 }

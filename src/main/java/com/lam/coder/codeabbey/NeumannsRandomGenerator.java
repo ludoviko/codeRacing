@@ -9,9 +9,18 @@ import java.util.List;
 
 /**
  * @author Code solution from: L.Azuaje.
+ *
+ * A simple sequence generators.
+ *
  */
 
 public class NeumannsRandomGenerator {
+
+    /**
+     *
+     * @param n
+     * @return the number of different members of the sequence.
+     */
     public static int find(int n) {
         List<Integer> data = new LinkedList<Integer>();
 

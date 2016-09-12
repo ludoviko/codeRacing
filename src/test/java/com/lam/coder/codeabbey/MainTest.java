@@ -1,6 +1,6 @@
 package com.lam.coder.codeabbey;
 
-import com.lam.coder.kattis.Main;
+import com.lam.coder.codeabbey.Main;
 import org.hamcrest.CoreMatchers;
 import org.junit.After;
 import org.junit.Assert;

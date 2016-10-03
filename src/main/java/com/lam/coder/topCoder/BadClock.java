@@ -1,6 +1,8 @@
 package com.lam.coder.topCoder;
 
 public class BadClock {
+
+    // SRM 172
 	public double nextAgreement(String trueTime, String skewTime, int hourlyGain) {
 
 		int s1 = convertToSeconds(trueTime);

@@ -297,7 +297,7 @@ XXX FizzBuzzTurbo             TCO14 Round 1C 	    04.26.2014 	 Simple Math, Simp
 
 CandidatesSelectionEasy SRM 620 	  05.10.2014 	 Brute Force 			              II.1 	 	 Done it  Score: 249.78/250   May 2014  System Test: Passed. Editorial Review: Done.
 PairGameEasy           SRM 620 	      05.10.2014 	 Brute Force 			              II.2 	     Done it  Score: 499.99/500   May 2014  System Test: Passed. Editorial Review: Done.	
-TwoWaysSorting         SRM 621 	      05.20.2014 	 Sorting, String Manipulation 		  II.1 	     Done it  Score: 249.95/250   May 2014  System Test: Passed. Editorial Review: . 
+TwoWaysSorting         SRM 621 	      05.20.2014 	 Sorting, String Manipulation 		  II.1 	     Done it  Score: 249.95/250   May 2014  System Test: Passed. Editorial Review: Done.
 CostOfDancing	       SRM 624	      06.12.2014	 Graph Theory, Greedy, Sorting		  II.1		 Done it. Score: 249.91/250   Aug 2014. System Test: Passed. Editorial Review: Done.
 FixedDiceGameDiv2	   SRM 626	      06.28.2014	 Math 			                      II.2		 Done it. Score: 499.67/500   Aug 2014. System Test: Passed. Editorial Review: Done.
 ManySquares	           SRM 627	      07.10.2014	 Geometry, Simple Math			      II.1       Done it. Score: 249.93/250   Aug 2014. System Test: Passed. Editorial Review: Done.	
@@ -306,9 +306,8 @@ BishopMove	           SRM 628	      07.22.2014	 Simple Math			              II.1
 RectangleCoveringEasy  SRM 629	      08.12.2014	 Brute Force			              II.1	     Done it. Score: 249.95/250   Aug 2014. System Test: Passed. Editorial Review: Done.
 DoubleLetter	       SRM 630	      08.21.2014	 Greedy			                      II.1	     Done it. Score: 249.90/250   Aug 2014. System Test: Passed. Editorial Review: Done.
 TheKingsArmyDiv2	   SRM 643	      12.27.2014	 Brute Force                          II.1       Done it. Score: 249.98/250   Jan 2015. System Test: Passed. Editorial Review: Done.
-
-PeacefulLine	       SRM 647	      01.24.2015	 Simple Math		 	               I.1		
-TravellingSalesmanEasy SRM 647	      01.24.2015	 Greedy			                       I.2		
+PeacefulLine	       SRM 647	      01.24.2015	 Simple Math		 	              II.1		 Done it. Contest: 117.53/250 Jan 2015. System Test: Passed. Editorial Review: Done.
+TravellingSalesmanEasy SRM 647	      01.24.2015	 Greedy			                      II.2		 Done it. Contest: 316,77/500 Jan 2015. System Test: Passed. Editorial Review: Done.
 
 TopFox 	                    Competition      SRM 584 	 07.10.2013   String Manipulation 	                          II.1 	    Score:  99.96/250                   
 LISNumberDivTwo             Competition      SRM 585     07.19.2013   Simple Math	                                  II.1 	    Score: 137.38/250                  
@@ -330,11 +329,9 @@ EllysSortingTrimmer         Competition      TCO14 Round 1A   04.12.2014   Sorti
 SpamChecker 	            Competition      TCO14 Round 1B   04.19.2014   Simulatin 	                               I.1 	    Score: 127/200 		
 CandidatesSelectionEasy     Competition	     SRM 620 	 05.10.2014   Brute Force 			                          II.1 	 	Score:   0/250
 TwoWaysSorting              Competition      SRM 621 	 05.20.2014   Sorting, String Manipulation 		              II.1 	    Score: 144.73/250
-
 TheKingsArmyDiv2	        Competition      SRM 643	 12.27.2014	  Brute Force	                                  II.1 	    Score: 175.37/250
-
-PeacefulLine	       SRM 647	      01.24.2015	 Simple Math		 	               I.1
-TravellingSalesmanEasy SRM 647	      01.24.2015	 Greedy			                       I.2
+PeacefulLine	            Competition      SRM 647	 01.24.2015	  Simple Math		 	                          II.1       Score: 117.53/250
+TravellingSalesmanEasy      Competition      SRM 647	 01.24.2015	  Greedy			                              II.2       Score: 316,77/500
 
 EelAndRabbit
 LongLongTripDiv2

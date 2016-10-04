@@ -136,6 +136,7 @@ import org.junit.runners.Suite.SuiteClasses;
 //	PascalCountTest.class,
 	PassingGradeTest.class,
 	PaternityTestTest.class,
+    PeacefulLineTest.class,
 	PersistentNumberTest.class,
 //	PeopleCircleTest.class,
 //	PipeCutsTest.class,

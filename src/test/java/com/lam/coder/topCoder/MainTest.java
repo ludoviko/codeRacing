@@ -1,6 +1,6 @@
 package com.lam.coder.topCoder;
 
-import com.lam.coder.codeabbey.Main;
+import com.lam.coder.topCoder.Main;
 import org.hamcrest.CoreMatchers;
 import org.junit.After;
 import org.junit.Assert;

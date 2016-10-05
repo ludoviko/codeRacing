@@ -307,7 +307,11 @@ RectangleCoveringEasy  SRM 629	      08.12.2014	 Brute Force			              II.
 DoubleLetter	       SRM 630	      08.21.2014	 Greedy			                      II.1	     Done it. Score: 249.90/250   Aug 2014. System Test: Passed. Editorial Review: Done.
 TheKingsArmyDiv2	   SRM 643	      12.27.2014	 Brute Force                          II.1       Done it. Score: 249.98/250   Jan 2015. System Test: Passed. Editorial Review: Done.
 PeacefulLine	       SRM 647	      01.24.2015	 Simple Math		 	              II.1		 Done it. Contest: 117.53/250 Jan 2015. System Test: Passed. Editorial Review: Done.
-TravellingSalesmanEasy SRM 647	      01.24.2015	 Greedy			                      II.2		 Done it. Contest: 316,77/500 Jan 2015. System Test: Passed. Editorial Review: Done.
+TravellingSalesmanEasy SRM 647	      01.24.2015	 Greedy			                      II.2		 Done it. Contest: 316.77/500 Jan 2015. System Test: Passed. Editorial Review: Done.
+BearCheats	           SRM 664	      08.01.2015	 Simple Search, Iteration             II.1       Done it. Contest: 227.02/250 Aug 2015. System Test: Passed. Editorial Review: Done.
+PalindromePrime	       SRM 677	      12.26.2015	 Brute Force                          II.1       Done it. Contest: 106.65/250 Dec 2015. System Test: Passed. Editorial Review: Done.
+
+EllysTimeMachine	   TCO Algo 1A	  03.26.2016	 Simple Math, String Parsing	       I.1		 Done it. Contest: 145.95/250 Mar 2016. System Test: Passed. Editorial Review: Done.
 
 TopFox 	                    Competition      SRM 584 	 07.10.2013   String Manipulation 	                          II.1 	    Score:  99.96/250                   
 LISNumberDivTwo             Competition      SRM 585     07.19.2013   Simple Math	                                  II.1 	    Score: 137.38/250                  
@@ -330,12 +334,9 @@ SpamChecker 	            Competition      TCO14 Round 1B   04.19.2014   Simulati
 CandidatesSelectionEasy     Competition	     SRM 620 	 05.10.2014   Brute Force 			                          II.1 	 	Score:   0/250
 TwoWaysSorting              Competition      SRM 621 	 05.20.2014   Sorting, String Manipulation 		              II.1 	    Score: 144.73/250
 TheKingsArmyDiv2	        Competition      SRM 643	 12.27.2014	  Brute Force	                                  II.1 	    Score: 175.37/250
-PeacefulLine	            Competition      SRM 647	 01.24.2015	  Simple Math		 	                          II.1       Score: 117.53/250
-TravellingSalesmanEasy      Competition      SRM 647	 01.24.2015	  Greedy			                              II.2       Score: 316,77/500
+PeacefulLine	            Competition      SRM 647	 01.24.2015	  Simple Math		 	                          II.1      Score: 117.53/250
+TravellingSalesmanEasy      Competition      SRM 647	 01.24.2015	  Greedy			                              II.2      Score: 316,77/500
+BearCheats	 	            Competition      SRM 664     08.01.2015	  Simple Search, Iteration                        II.1      Score: 227,02/250
+PalindromePrime	            Competition      SRM 677	 12.26.2015	  Brute Force                                     II.1      Score: 106.65/250
+EllysTimeMachine	        Competition      TCO Algo 1A 03.26.2016   Simple Math, String Parsing	                   I.1		Score: 145.95/250.
 
-EelAndRabbit
-LongLongTripDiv2
-MessageMess
-PeopleCircle
-ProblemWriting
-SumOfPower

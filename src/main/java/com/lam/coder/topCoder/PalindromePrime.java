@@ -9,11 +9,10 @@ public class PalindromePrime {
         int count = 0;
 
         for (int i = left; i <= right; i++) {
-            if (isPalindrome(i) && primesBool[i]  ) {
+            if (isPalindrome(i) && primesBool[i]) {
                 count++;
             }
         }
-
         return count;
     }
 
@@ -30,18 +29,18 @@ public class PalindromePrime {
         return n == reverse(n, 10);
     }
 
-    public static boolean[] find (int upTo) {
+    public static boolean[] find(int upTo) {
         boolean[] primesBool = new boolean[upTo + 1];
         Arrays.fill(primesBool, true);
 
         primesBool[0] = false;
         primesBool[1] = false;
 
-        int root = (int)Math.sqrt(upTo);
+        int root = (int) Math.sqrt(upTo);
 
-        for (int i = 2; i <=root; i++) {
-            if (primesBool[i]) {
-                for (int j = i*i; j <=upTo; j+=i) {
+        for (int i = 2; i <= root; i++) {
+            for (int j = i * i; j <= upTo; j += i) {
+                if (primesBool[j]) {
                     primesBool[j] = false;
                 }
             }

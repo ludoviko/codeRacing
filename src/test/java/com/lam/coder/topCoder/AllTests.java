@@ -45,6 +45,7 @@ import org.junit.runners.Suite.SuiteClasses;
         ColorfulBricksTest.class,
         CombinerTest.class,
         CommonCharTest.class,
+        ContestCoordinatorTest.class,
         CostOfDancingTest.class,
         // D
         DayAgeTest.class,

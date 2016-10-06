@@ -124,4 +124,13 @@ public class ContestCoordinatorTest {
         assertEquals(expected, actual);
     }
 
+    @Test
+    public void testCase10() {
+        int[] scores = new int[] {2, 5, 8, 2, 4, 1, 7, 4, 3, 2, 8, 5, 1, 2, 7, 1, 10} ;
+
+        double expected = 4.235294117647059;
+        double actual = this.solution.bestAverage(scores);
+
+        assertEquals(expected, actual);
+    }
 }

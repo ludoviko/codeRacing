@@ -1,71 +1,47 @@
 package com.lam.coder.topCoder;
 
-import java.util.ArrayList;
-import java.util.Collections;
-import java.util.List;
+import java.util.*;
 
 public class ContestCoordinator {
+    public double bestAverage(int[] scores) {
+        List<Integer> list = new ArrayList<Integer>();
 
-	public double bestAverage(int[] scores) {
-		List<Integer> list = new ArrayList<Integer>();
+        for (Integer i : scores) {
+            list.add(i);
+        }
 
-		for (Integer i : scores) {
-			list.add(i);
-		}
+        Collections.sort(list);
 
-		Collections.sort(list);
+        int min;
+        int max;
+        // It might be not necessary to remove any element to get the maximum average.
+        double  maxAverage = findAverage(list);
+        double current;
 
-		return this.findBestAverage2(list);
-	}
+        while (list.size() > 2) {
+            min = list.get(0);
+            max = list.get(list.size() - 1);
 
-	private double findAverage(List<Integer> list) {
-		double sum = 0.0;
+            list.remove(new Integer(min));
+            list.remove(new Integer(max));
 
-		for (Integer i : list) {
-			sum += i;
-		}
+            current = findAverage(list);
 
-		return sum / list.size();
-	}
+            if (maxAverage <  current) {
+                maxAverage = current;
+            }
+        }
 
-	private double findBestAverage2(List<Integer> list) {
-		if (list.size() == 1) {
-			return list.get(0);
-		} else if (list.size() == 2) {
-			return (list.get(0) + list.get(1)) / 2.0;
-		} else {
-			
-			int i, j;
-			if ( list.size() % 2 == 0 ) {
-				j =  list.size() / 2;
-				i = j - 1;
-			} else {
-				j =  list.size() / 2;
-			    i = j;
-			}
+        return maxAverage;
+    }
 
-			List<Integer> aux = new ArrayList<Integer>();  
-			
-			for (int n = 0; n < list.size(); n++) {
-				double a = this.findAverage(list.subList(i, j + 1));
-				double b = this.findAverage(list);
-				
-				aux.clear();;
-				aux.addAll(list.subList(0,i));
-				aux.addAll(list.subList(j+1,list.size()));
-				double c = this.findAverage(aux);
-				
-				if ( this.findAverage(list.subList(i, j + 1)) >= this.findAverage(list)) { 
-					return this.findAverage(list.subList(i, j + 1));
-				} else {
-				}
-				i--;
-				j++;
-			}
-			
-			return this.findAverage(list);
-			
-		}
-	}
+    private static double findAverage(List<Integer> list) {
+        double sum = 0.0;
 
+        for (Integer i : list) {
+            sum += i;
+        }
+
+        return sum / list.size();
+    }
 }

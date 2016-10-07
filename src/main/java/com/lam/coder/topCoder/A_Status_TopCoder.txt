@@ -237,6 +237,8 @@ MusicalChairs TC China 08 - 1B	      11.28.2008	 Simple Math	                   
 	CrimeLab	TC China 08 - 1B	11.28.2008	Eeyore	Brute Force, Geometry	3
  
 AppleWord 	           SRM 456 	      12.22.2009 	 Simple Search, Iteration 			  II.1 	     Done it. Value:  250    Mar 2014.  System Test: Passed. Editorial Review: Done.
+
+
 LotteryTicket	       SRM 466	      04.03.2010	 Brute Force, Recursion			      II.1	     Done it. Value:  250    Apr 2015.  System Test: Passed. Editorial Review: Done.
 ShorterSuperSum	       SRM 467	      04.15.2010	 Dynamic Programming, Math			  II.1	     Done it. Value:  250    Mar 2015.  System Test: Passed. Editorial Review: Done.
 LinearTravellingSalesman SRM 470 	  05.20.2010 	 Simple Search, Iteration 			  II.1 	     Done it. Value:  250    May 2014.  System Test: Passed. Editorial Review: Done.
@@ -244,6 +246,7 @@ LinearTravellingSalesman SRM 470 	  05.20.2010 	 Simple Search, Iteration 			  I
 XXXDoorsGame 	           SRM 470 	            05.20.2010 	 Greedy, Simulation 	          II.2:I.1 	     X Done it. Value: 500    XMay 2014.  System Test: XPassed. Editorial Review: XXXDone.
 
 NumberMagicEasy	       SRM 484	      10.05.2010	 Simple Search, Iteration			  II.1	     Done it. Value:  250   Apr  2015  System Test: Passed. Editorial Review: Done.
+
 EllysDirectoryListing  SRM 534 	      02.23.2012 	 Simulation 			              II.1 	     Done it. Value:  500   Nov  2013  System Test: Passed. Editorial Review: Done.
 ColorfulBricks	       SRM 551	      08.04.2012	 bloops	Simple Search, Iteration	  II.1	     Done it. Value:  250   Jun  2015  System Test: Passed. Editorial Review: Done.
 PrimalUnlicensedCreatures SRM 579	  05.18.2013	 Greedy			                      II.1	     Done it. Value:  250   Aug  2014  System Test: Passed. Editorial Review: Done.

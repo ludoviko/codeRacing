@@ -9,7 +9,7 @@ import java.io.PrintStream;
  * 
  * @author Solution by: L.Azuaje.
  *
- * Coduforces: 200B	Drinks.
+ * Codeforces: 200B	Drinks.
  *
  */
 

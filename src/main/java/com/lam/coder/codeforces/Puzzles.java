@@ -8,7 +8,7 @@ import java.util.Arrays;
 
 /**
  * 
- * @author: Solution by L.Azuaje.
+ * @author Solution by L.Azuaje.
  *
  * 337A	    Puzzles
  *

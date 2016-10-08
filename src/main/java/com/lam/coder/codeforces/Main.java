@@ -29,7 +29,7 @@ public class Main {
 
 		out.println();
 
-		scanner.reader.close();
+		scanner.close();
 		out.close();
 	}
 

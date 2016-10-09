@@ -34,6 +34,7 @@
    158B	    Taxi                          greedy, implementation                  Done it.     2015  Jan.       Done. Kata. A better algorithm wanted.
    160A	    Twins                         greedy, sortings	                      Done it.     2015  Aug.       Too easy.
 
+   200B	    Drinks                        implementation, math	                  Not needed.  2016  Oct.       Too easy.
    208A	    Dubstep                       strings	                              Not needed.  2015  Aug.       Too easy.
    228A	Is Your Horseshoe On The Other Hoof ? implementation	                  Not needed.  2015  Aug.       Too easy.     
    230A	    Dragons                       greedy, sortings	                      Not needed.  2015  Aug.       Too easy.
@@ -57,26 +58,13 @@
    379A	    New Year Candles              implementation                          Done it.     2015  Aug.       Done.   	                      
 
    405A	    Gravity Flip                  greedy, implementation, sortings	      Not needed.  2015  Aug.       Too easy.
-
-
-
-459A	Pashmak and Garden implementation	 Submit  Add to favourites	 x5492
-551A	GukiZ and Contest implementation, sortings	 Submit  Add to favourites	 x5444
-507A	Amr and Music greedy, implementation, sortings	 Submit  Add to favourites	 x5443
-514A	Chewbaсca and Number greedy, implementation	 Submit  Add to favourites	 x5425
-527A	Playing with Paper implementation, math	 Submit  Add to favourites	 x5406
-454A	Little Pony and Crystal Mine implementation	 Submit  Add to favourites	 x5406
-439A	Devu, the Singer and Churu, the Joker greedy, implementation	 Submit  Add to favourites	 x5393
-270A	Fancy Fence geometry, implementation, math	 Submit  Add to favourites	 x5375
-
    427A	    Police Recruits               implementation	                      Not needed.  2015  Aug.       Too easy.
+   432A	    Choosing Teams                greedy, implementation, sortings        Not needed.  2016  Oct.       Too easy.
    443A	    Anton And Letters             constructive algorithms, implementation Not needed.  2015  Aug.       Too easy.
    448A	    Rewards                       implementation	                      Not needed.  2015  Aug.       Too easy.
    451A	    Game With Sticks              implementation                          Done it.     2015  Aug.       Done.
-
-   455A	    XXX Boredom                   dp
-
-   460A	    Vasya and Socks               brute force, implementation	          Done it.     2015  Aug.       Done.
+   459A	    Pashmak And Garden           implementation                           Done it.     2016  Oct.       Done.
+   460A	    Vasya And Socks               brute force, implementation	          Done it.     2015  Aug.       Done.
 
    461A	    XXX. Appleman And Toastman         greedy, sortings                        XXX. Out of time.
 
@@ -116,7 +104,10 @@
 
    XXX 514B	    Han Solo and Lazer Gun  brute force, data structures, geometry, math	  XDone it.    2014  Feb.       Competition.
 
-   617A   	Elephant                      math, greedy                             Not needed.  2016  Oct.      Done.
+   617A   	Elephant                      math, greedy                            Not needed.  2016  Oct.      Too easy.
+   705A    	Hulk                          implementation
+   711A	    Bus To Udayland               brute force, implementation             Not needed.  2016  Oct.      Done.
+
 
 ... Missing...    
    
@@ -129,4 +120,4 @@
    574A	    Bear and Elections             data structures, implementation                           Done it.     2014  Feb.   Competition
    608A	    Saitama Destroys Hotel         implementation, math	                                     Done it.
 
-   16880	Espartacus	86
+   16714	Espartacus	87

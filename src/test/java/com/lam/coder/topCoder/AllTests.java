@@ -184,6 +184,7 @@ import org.junit.runners.Suite.SuiteClasses;
         // T
 //	TallPeopleTest.class,
         TeamsSelectionTest.class,
+        TheAirTripDivTwoTest.class,
         TheKingsArmyDiv2Test.class,
         TimeTest.class,
         TitleStringTest.class,

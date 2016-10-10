@@ -245,8 +245,8 @@ LinearTravellingSalesman SRM 470 	  05.20.2010 	 Simple Search, Iteration 			  I
 
 XXXDoorsGame 	           SRM 470 	            05.20.2010 	 Greedy, Simulation 	          II.2:I.1 	     X Done it. Value: 500    XMay 2014.  System Test: XPassed. Editorial Review: XXXDone.
 
+TheAirTripDivTwo	   SRM 479	      08.14.2010  Graph Theory, Simple Search, Iteration  II.1	     Done it. Value:  250   Oct  2016  System Test: Passed. Editorial Review: Done.
 NumberMagicEasy	       SRM 484	      10.05.2010	 Simple Search, Iteration			  II.1	     Done it. Value:  250   Apr  2015  System Test: Passed. Editorial Review: Done.
-
 EllysDirectoryListing  SRM 534 	      02.23.2012 	 Simulation 			              II.1 	     Done it. Value:  500   Nov  2013  System Test: Passed. Editorial Review: Done.
 ColorfulBricks	       SRM 551	      08.04.2012	 bloops	Simple Search, Iteration	  II.1	     Done it. Value:  250   Jun  2015  System Test: Passed. Editorial Review: Done.
 PrimalUnlicensedCreatures SRM 579	  05.18.2013	 Greedy			                      II.1	     Done it. Value:  250   Aug  2014  System Test: Passed. Editorial Review: Done.
@@ -255,15 +255,15 @@ BlackAndWhiteSolitaire SRM 581	      06.03.2013     Brute Force, Simple Search, 
 SemiPerfectSquare	   SRM 582	      06.14.2013	 Brute Force, Simple Search, Iter.    II.1       Done it. Value:  250   Sept 2014  System Test: Passed. Editorial Review: Not any.
 SwappingDigits	       SRM 583	      06.18.2013	 Brute Force			              II.1       Done it. Value:  250   Sept 2014  System Test: Passed. Editorial Review: Done.
 IDNumberVerification   SRM 583	      06.18.2013	 Brute Force, String Manipulation     II.2       Done it. Value:  550   Sept 2014  System Test: Passed. Editorial Review: Done.
-TopFox 	               SRM 584 	      07.10.2013 	 String Manipulation 	              II.1 	     Done it. Value:  250   Mar 2014.  System Test: Passed. Editorial Review: Done.
-LISNumberDivTwo        SRM 585        07.19.2013 	 Simple Math	                      II.1 	     Done it. Value:  250   Mar 2014.  System Test: Passed. Editorial Review: Done.
-TeamsSelection	       SRM 586	      07.27.2013	 Simple Search, Iteration		      II.1 	     Done it. Value:  250   Dec 2014.  System Test: Passed. Editorial Review: Done.
-InsertZ	               SRM 587	      08.01.2013	 Simple Search, Iter.,String Manip	  II.1       Done it. Value:  250   Dec 2014.  System Test: Passed. Editorial Review: Done.
-JumpFurther            SRM 587	      08.01.2013	 Simple Search, Iter.,String Manip	  II.2       Done it. Value:  500   Dec 2014.  System Test: Passed. Editorial Review: Done.
-JumpFurther            SRM 587	      08.01.2013	 Simple Search, Iter.,String Manip	   I.1       Done it. Value:  250   Dec 2014.  System Test: Passed. Editorial Review: Done.
-KeyDungeonDiv2	       SRM 588	      08.12.2013	 Search, Iteration			          II.1		 Done it. Value:  250   Dec 2014.  System Test: Passed. Editorial Review: Done.
-GooseTattarrattatDiv2  SRM 589	      08.27.2013	 Greedy, Simple Search, Iteration	  II.1	     Done it. Value:  250   Dec 2014.  System Test: Passed. Editorial Review: Done.
-FoxAndGomoku           SRM 590 	      09.07.2013 	 Brute Force 			              II.1       Done it. Value:  250   Mar 2014.  System Test: Passed. Editorial Review: Done.
+TopFox 	               SRM 584 	      07.10.2013 	 String Manipulation 	              II.1 	     Done it. Value:  250   Mar  2014.  System Test: Passed. Editorial Review: Done.
+LISNumberDivTwo        SRM 585        07.19.2013 	 Simple Math	                      II.1 	     Done it. Value:  250   Mar  2014.  System Test: Passed. Editorial Review: Done.
+TeamsSelection	       SRM 586	      07.27.2013	 Simple Search, Iteration		      II.1 	     Done it. Value:  250   Dec  2014.  System Test: Passed. Editorial Review: Done.
+InsertZ	               SRM 587	      08.01.2013	 Simple Search, Iter.,String Manip	  II.1       Done it. Value:  250   Dec  2014.  System Test: Passed. Editorial Review: Done.
+JumpFurther            SRM 587	      08.01.2013	 Simple Search, Iter.,String Manip	  II.2       Done it. Value:  500   Dec  2014.  System Test: Passed. Editorial Review: Done.
+JumpFurther            SRM 587	      08.01.2013	 Simple Search, Iter.,String Manip	   I.1       Done it. Value:  250   Dec  2014.  System Test: Passed. Editorial Review: Done.
+KeyDungeonDiv2	       SRM 588	      08.12.2013	 Search, Iteration			          II.1		 Done it. Value:  250   Dec  2014.  System Test: Passed. Editorial Review: Done.
+GooseTattarrattatDiv2  SRM 589	      08.27.2013	 Greedy, Simple Search, Iteration	  II.1	     Done it. Value:  250   Dec  2014.  System Test: Passed. Editorial Review: Done.
+FoxAndGomoku           SRM 590 	      09.07.2013 	 Brute Force 			              II.1       Done it. Value:  250   Mar  2014.  System Test: Passed. Editorial Review: Done.
 
 TheArithmeticProgression SRM 591	  09.16.2013	 Simple Math			              II.1       XXX. A better approach needed. 	
 

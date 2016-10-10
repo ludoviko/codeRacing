@@ -8,101 +8,103 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Collections;
 import java.util.List;
+/**
+ *
+ * @author Solution by: L.Azuaje.
+ *
+ * Codeforces:  567A Lineland Mail.
+ *
+ */
 
 public class LinelandMail {
 
-	public String find(int i, Long[] array) {
-		long min = Long.MAX_VALUE;
-		long max = 0;
+    public static String find(int index, long[] array) {
+        long min = Long.MAX_VALUE;
+        long max = 0;
 
-        Long from = array[i];
-
-        int j = 0;
-        for (Long data: array) {
-            if (i == j++) {
-                continue;
-            }
-
-            if ( Math.abs(data -from) >= max) {
-                max = Math.abs(data -from);
-            }
-            if ( Math.abs(data -from) <= min) {
-                min = Math.abs(data -from);
-            }
+        if (index == 0) {
+            min = Math.abs(array[index] - array[index + 1]);
+            max = Math.abs(array[index] - array[array.length - 1]);
+        } else if (index == array.length - 1) {
+            min = Math.abs(array[index] - array[index - 1]);
+            max = Math.abs(array[index] - array[0]);
+        } else {
+            min = Math.min(Math.abs(array[index] - array[index - 1]), Math.abs(array[index] - array[index + 1])) ;
+            max = Math.max(Math.abs(array[index] - array[0]), Math.abs(array[index] - array[array.length - 1])) ;
         }
 
-		return min + " " + max;
-	}
+        return min + " " + max;
+    }
 
-	public static void main(String[] args) throws IOException {
-		MyScanner scanner = new MyScanner();
-		PrintStream out = System.out;
+    public static void main(String[] args) throws IOException {
+        MyScanner scanner = new MyScanner();
+        PrintStream out = System.out;
 
-		LinelandMail main = new LinelandMail();
+       int n = scanner.nextInt();
+        long[] array = scanner.nextLongArray();
 
-		int n = scanner.nextInt();
-		String string = scanner.next();
+        for (int i = 0; i < n; i++) {
+            out.println(LinelandMail.find(i, array));
+        }
 
-		String[] data = string.split(" ");
+        scanner.reader.close();
+        out.close();
+    }
 
-		Long[] array = new Long[n];
+    // -----------MyScanner class for faster input----------
+    public static class MyScanner {
+        BufferedReader reader;
 
-		int i = 0;
-		for (String s : data) {
-			array[i++] = Long.parseLong(s);
-		}
+        public MyScanner() {
+            this.reader = new BufferedReader(new InputStreamReader(System.in));
+        }
 
-		for (i = 0; i < n; i++) {
-			out.println(main.find(i, array));
-		}
+        public void close() throws IOException {
+            this.reader.close();
+        }
 
-		scanner.reader.close();
-		out.close();
-	}
+        int nextInt() {
+            return Integer.parseInt(this.next());
+        }
 
-	// -----------MyScanner class for faster input----------
-	public static class MyScanner {
-		BufferedReader	reader;
+        long nextLong() {
+            return Long.parseLong(this.next());
+        }
 
-		public MyScanner() {
-			this.reader = new BufferedReader(new InputStreamReader(System.in));
-		}
+        double nextDouble() {
+            return Double.parseDouble(this.next());
+        }
 
-		public void close() throws IOException {
-			this.reader.close();
-		}
+        String next() {
+            String str = "";
+            try {
+                str = this.reader.readLine().trim();
+            } catch (IOException e) {
+                e.printStackTrace();
+            }
+            return str;
+        }
 
-		int nextInt() {
-			return Integer.parseInt(this.next());
-		}
+        String[] nextStringArray() {
+            String[] str = null;
+            try {
+                str = this.reader.readLine().trim().split(" ");
+            } catch (IOException e) {
+                e.printStackTrace();
+            }
+            return str;
+        }
 
-		long nextLong() {
-			return Long.parseLong(this.next());
-		}
+        long[] nextLongArray() {
+            String[] data = nextStringArray();
+            long[] a = new long[data.length];
 
-		double nextDouble() {
-			return Double.parseDouble(this.next());
-		}
+            for (int i = 0; i < a.length; i++) {
+                a[i] = Long.parseLong(data[i]);
+            }
 
-		String next() {
-			String str = "";
-			try {
-				str = this.reader.readLine().trim();
-			} catch (IOException e) {
-				e.printStackTrace();
-			}
-			return str;
-		}
+            return a;
+        }
 
-		String[] nextStringArray() {
-			String[] str = null;
-			try {
-				str = this.reader.readLine().trim().split(" ");
-			} catch (IOException e) {
-				e.printStackTrace();
-			}
-			return str;
-		}
-
-	}
+    }
 }

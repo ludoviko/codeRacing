@@ -171,6 +171,7 @@ import org.junit.runners.Suite.SuiteClasses;
         ShoutterDiv2Test.class,
         SkipRopeTest.class,
         SnakyTest.class,
+        SoccerLeaguesTest.class,
         SpamCheckerTest.class,
         SpamDetectorTest.class,
         StickTest.class,

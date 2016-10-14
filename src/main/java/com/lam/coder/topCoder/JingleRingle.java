@@ -5,10 +5,9 @@ import java.util.Arrays;
 /**
  * Solution by: L.Azuaje.
  *
- * Topcoder: JingleRingle	TCO10 Qual
+ * Topcoder: TCO10 Qual 2. JingleRingle.
  */
 public class JingleRingle {
-
     public int profit(int[] buyOffers, int[] sellOffers, int tax) {
         int profit = 0;
         int profTemp   = 0;

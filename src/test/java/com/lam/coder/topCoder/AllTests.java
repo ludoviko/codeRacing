@@ -91,6 +91,7 @@ import org.junit.runners.Suite.SuiteClasses;
         InsertZTest.class,
         InstantRunoffTest.class,
         // J
+        JingleRingleTest.class,
         JumpFurtherTest.class,
         // K
         KeyDungeonDiv2Test.class,

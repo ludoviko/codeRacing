@@ -20,21 +20,11 @@ public class ChewbaAndTheNumber {
         char nine = '9';
         String solution = "";
 
-        if (string.matches("$9+^")) {
-            for (int i = 0; i < data.length; i++) {
-                if (nine - data[i] < data[i] - '0' && nine - data[i] != 0) {
-                    solution += (nine - data[i]);
-                } else {
-                    solution += data[i];
-                }
-            }
-        } else {
-            for (int i = 0; i < data.length; i++) {
-                if (nine - data[i] < data[i] - '0') {
-                    solution += (nine - data[i]);
-                } else {
-                    solution += data[i];
-                }
+        for (int i = 0; i < data.length; i++) {
+            if (nine - data[i] < data[i] - '0') {
+                solution += (nine - data[i]);
+            } else {
+                solution += data[i];
             }
         }
 

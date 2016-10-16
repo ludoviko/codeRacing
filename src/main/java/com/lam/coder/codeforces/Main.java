@@ -25,7 +25,8 @@ public class Main {
 		Main main = new Main();
 		
 		int n = scanner.nextInt();
-		String string = scanner.next();
+        int[] data = scanner.nextIntArray();
+        String string = scanner.next();
 
 		out.println();
 

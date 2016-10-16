@@ -200,6 +200,7 @@ BloggoShortcuts        SRM 214 	      10.06.2004 	 String Manipulation 			      
  XXX to slow  BloggoHyphenate                SRM 214 	            10.06.2004 	 Search, String Manipulation 	      I.1:II.2   To slow. Done it. Value:  250   May 2014. System Test: XXXPassed. Editorial Review: Done.
 
 DivisorDigits          SRM 215, 148   10.16.2004   Simple Math, String Manipulation 	  II.1       Done it. Value:  250   Nov 2013.  System Test: Passed. Editorial Review: Done.
+
 MostProfitable         SRM 223, 153   12.18.2004 	 Simple Math 			              II.1       Done it. Value:  250   Oct  2013. System Test: Passed. Editorial Review: Done.
 BlackAndRed            SRM 223 	      12.18.2004 	 Brute Force, Simple Search,Iteration II.2       Done it. Value:  500      Mar 2014.  System Test: Passed. Editorial Review: Done.
 
@@ -208,8 +209,8 @@ BlackAndRed            SRM 223 	      12.18.2004 	 Brute Force, Simple Search,It
 PascalCount            SRM 230 	      02.08.2005 	 Math 	                               I.2 	     XXX: Out of memory Error Done it. Value: 500   Nov 2013.  System Test: . Editorial Review:
 GolfScore 	           SRM 231, 186   02.19.2005 	 Simple Math, String Manipulation 	   I.1 	     Done it. Value:  250   Jun 2014.  System Test: Passed. Editorial Review: Done.
 BritishCoins           SRM 232, 165   02.23.2005 	 Simple Math 			              II.1       Done it. Value:  250   Nov 2013.  System Test: Passed. Editorial Review: Done.
-
 PipeCuts 	           SRM 233 	      03.03.2005 	 Simple Math, Simulation 	          II.2,I.1       XXX Done it. Value:  500   Oct 2013.  System Test: . Editorial Review:
+PiCalculator	       SRM 246	      06.09.2005	 String Manipulation	               I.1       Done it. Value:  250   Oct 2016.  System Test: Passed. Editorial Review: Done.
 
 MedianOfNumbers	       SRM 308	      06.24.2006	 Simple Math			              II.1  	 Done it. Value:  250   Abr 2014.  System Test: Passed. Editorial Review: Done.
 HuffmanDecoding	       SRM 308	      06.24.2006	 String Manipulation	              II.2	     Done it. Value:  450   Abr 2014.  System Test: Passed. Editorial Review: Done.

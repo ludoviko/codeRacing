@@ -10,168 +10,168 @@ import java.util.HashSet;
 import java.util.List;
 import java.util.Set;
 
-public class HanSoloandLazerGun {
+public class HanSoloAndLazerGun {
 
-	class Point {
-		int	x, y;
+    class Point {
+        int	x, y;
 
-		Point(int xo, int yo) {
-			this.x = xo;
-			this.y = yo;
-		}
+        Point(int xo, int yo) {
+            this.x = xo;
+            this.y = yo;
+        }
 
-		void changeXY(Point c) {
-			this.x -= c.getX();
-			this.y -= c.getY();
-		}
+        void changeXY(Point c) {
+            this.x -= c.getX();
+            this.y -= c.getY();
+        }
 
-		void changeXY(int xo, int yo) {
-			this.x -= xo;
-			this.y -= yo;
-		}
+        void changeXY(int xo, int yo) {
+            this.x -= xo;
+            this.y -= yo;
+        }
 
-		void setXY(int xo, int yo) {
-			this.x = xo;
-			this.y = yo;
-		}
+        void setXY(int xo, int yo) {
+            this.x = xo;
+            this.y = yo;
+        }
 
-		void changeX(int xo) {
-			this.x -= xo;
-		}
+        void changeX(int xo) {
+            this.x -= xo;
+        }
 
-		void changeY(int yo) {
-			this.y -= yo;
-		}
+        void changeY(int yo) {
+            this.y -= yo;
+        }
 
-		int getX() {
-			return this.x;
-		}
+        int getX() {
+            return this.x;
+        }
 
-		double getP() {
-			if (this.y != 0) {
-				return new Double(this.x) / new Double(this.y);
-			}
+        double getP() {
+            if (this.y != 0) {
+                return new Double(this.x) / new Double(this.y);
+            }
 
-			return 0.0;
-		}
+            return 0.0;
+        }
 
-		int getY() {
-			return this.y;
-		}
+        int getY() {
+            return this.y;
+        }
 
-		@Override
-		public String toString() {
-			return this.x + ", " + this.y;
-		}
+        @Override
+        public String toString() {
+            return this.x + ", " + this.y;
+        }
 
-	}
+    }
 
-	// public find() {
-	// }
+    // public find() {
+    // }
 
-	public static void main(String[] args) throws IOException {
-		MyScanner scanner = new MyScanner();
-		PrintWriter out = new PrintWriter(new BufferedOutputStream(System.out));
+    public static void main(String[] args) throws IOException {
+        MyScanner scanner = new MyScanner();
+        PrintWriter out = new PrintWriter(new BufferedOutputStream(System.out));
 
-		HanSoloandLazerGun main = new HanSoloandLazerGun();
-		int shots = 0;
+        HanSoloAndLazerGun main = new HanSoloAndLazerGun();
+        int shots = 0;
 
-		String[] string = scanner.next().split(" ");
-		int n = Integer.parseInt(string[0]);
+        String[] string = scanner.next().split(" ");
+        int n = Integer.parseInt(string[0]);
 
-		HanSoloandLazerGun.Point center = main.new Point(
-				Integer.parseInt(string[1]), Integer.parseInt(string[2]));
+        HanSoloAndLazerGun.Point center = main.new Point(
+                Integer.parseInt(string[1]), Integer.parseInt(string[2]));
 
-		List<HanSoloandLazerGun.Point> list = new ArrayList<HanSoloandLazerGun.Point>();
-		List<HanSoloandLazerGun.Point> list_2 = new ArrayList<HanSoloandLazerGun.Point>();
-		List<HanSoloandLazerGun.Point> list_3 = new ArrayList<HanSoloandLazerGun.Point>();
+        List<HanSoloAndLazerGun.Point> list = new ArrayList<HanSoloAndLazerGun.Point>();
+        List<HanSoloAndLazerGun.Point> list_2 = new ArrayList<HanSoloAndLazerGun.Point>();
+        List<HanSoloAndLazerGun.Point> list_3 = new ArrayList<HanSoloAndLazerGun.Point>();
 
-		Set<Double> set = new HashSet<Double>();
+        Set<Double> set = new HashSet<Double>();
 
-		// System.out.println(center);
+        // System.out.println(center);
 
-		for (int i = 0; i < n; i++) {
-			string = scanner.next().split(" ");
-			list.add(main.new Point(Integer.parseInt(string[0]), Integer
-					.parseInt(string[1])));
-		}
+        for (int i = 0; i < n; i++) {
+            string = scanner.next().split(" ");
+            list.add(main.new Point(Integer.parseInt(string[0]), Integer
+                    .parseInt(string[1])));
+        }
 
-		HanSoloandLazerGun.Point p;
-		for (int i = 0; i < n; i++) {
-			p = list.get(i);
-			p.changeXY(center);
-		}
+        HanSoloAndLazerGun.Point p;
+        for (int i = 0; i < n; i++) {
+            p = list.get(i);
+            p.changeXY(center);
+        }
 
-		for (int i = 0; i < list.size(); i++) {
-			p = list.get(i);
-			if (p.getX() == 0) {
-				shots = 1;
-			} else {
-				list_2.add(p);
-			}
-		}
+        for (int i = 0; i < list.size(); i++) {
+            p = list.get(i);
+            if (p.getX() == 0) {
+                shots = 1;
+            } else {
+                list_2.add(p);
+            }
+        }
 
-		int add = 0;
-		
-		for (int i = 0; i < list_2.size(); i++) {
-			p = list_2.get(i);
-			if (p.getY() == 0) {
-				add = 1;
-			} else {
-				list_3.add(p);
-			}
-		}
-		shots += add;
+        int add = 0;
 
-		for (int i = 0; i < list_3.size(); i++) {
-			p = list_3.get(i);
-			if (p.getP() == 0.0) {
-				continue;
-			}
-			set.add(p.getP());
-		}
+        for (int i = 0; i < list_2.size(); i++) {
+            p = list_2.get(i);
+            if (p.getY() == 0) {
+                add = 1;
+            } else {
+                list_3.add(p);
+            }
+        }
+        shots += add;
 
-		shots += set.size();
+        for (int i = 0; i < list_3.size(); i++) {
+            p = list_3.get(i);
+            if (p.getP() == 0.0) {
+                continue;
+            }
+            set.add(p.getP());
+        }
 
-		out.println(shots);
+        shots += set.size();
 
-		scanner.reader.close();
-		out.close();
-	}
+        out.println(shots);
 
-	// -----------MyScanner class for faster input----------
-	public static class MyScanner {
-		BufferedReader	reader;
+        scanner.reader.close();
+        out.close();
+    }
 
-		public MyScanner() {
-			this.reader = new BufferedReader(new InputStreamReader(System.in));
-		}
+    // -----------MyScanner class for faster input----------
+    public static class MyScanner {
+        BufferedReader	reader;
 
-		public void close() throws IOException {
-			this.reader.close();
-		}
+        public MyScanner() {
+            this.reader = new BufferedReader(new InputStreamReader(System.in));
+        }
 
-		int nextInt() {
-			return Integer.parseInt(this.next());
-		}
+        public void close() throws IOException {
+            this.reader.close();
+        }
 
-		long nextLong() {
-			return Long.parseLong(this.next());
-		}
+        int nextInt() {
+            return Integer.parseInt(this.next());
+        }
 
-		double nextDouble() {
-			return Double.parseDouble(this.next());
-		}
+        long nextLong() {
+            return Long.parseLong(this.next());
+        }
 
-		String next() {
-			String str = "";
-			try {
-				str = this.reader.readLine();
-			} catch (IOException e) {
-				e.printStackTrace();
-			}
-			return str;
-		}
+        double nextDouble() {
+            return Double.parseDouble(this.next());
+        }
 
-	}
+        String next() {
+            String str = "";
+            try {
+                str = this.reader.readLine();
+            } catch (IOException e) {
+                e.printStackTrace();
+            }
+            return str;
+        }
+
+    }
 }

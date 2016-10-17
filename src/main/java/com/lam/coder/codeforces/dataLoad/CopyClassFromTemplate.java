@@ -21,6 +21,7 @@ public class CopyClassFromTemplate {
 
 		String name = sc.nextLine().replace(" ", "");
 
+
 		Scanner s = null;
 		StringBuilder output = new StringBuilder();
 		PrintWriter outputStream = null;

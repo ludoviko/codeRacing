@@ -144,6 +144,7 @@ import org.junit.runners.Suite.SuiteClasses;
         PeacefulLineTest.class,
         PairGameEasyTest.class,
         PersistentNumberTest.class,
+        PiCalculatorTest.class,
 //	PeopleCircleTest.class,
 //	PipeCutsTest.class,
 //	PoetryTest.class,

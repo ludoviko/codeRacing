@@ -102,26 +102,29 @@
    520A	 	   	           Pangram                        implementation, strings	               Done it.     2015  Aug.       Done.
    540A	 	   	           Combination Lock               implementation	                       Not needed.  2015  Aug.       Too easy.
    546A	 	   	           Soldier And Bananas            implementation, math	                   Not needed.  2015  Aug.       Too easy.
+
+   551A	  #307 Div-2       GukiZ And Contest              implementation, sortings
+
    556A	 	   	           Case Of The Zeros And Ones     greedy                                   Not needed.  2016  Oct.       Too easy.
    567A	 	   	           Lineland Mail                  implementation	                       Done it.     2016  Oct.       Done.
    570A	 	   	           Elections                      implementation	                       Not needed.  2016  Oct.       Not needed.
-   574A	  #318 Div 2       Bear and Elections             data structures, implementation          Done it.     2015  Aug.       Not editorial.  Competition
+   574A	  #318 Div-2       Bear and Elections             data structures, implementation          Done it.     2015  Aug.       Not editorial.  Competition
 
    577A	 	   	           Multiplication Table           implementation, number theory           ....KATA....
 
    579A	 	   	           Raising Bacteria               bitmasks                                 Not needed.  2016  Oct.       Too easy.
    580A		   	           Kefa And First Steps           brute force, dp, implementation          Not needed.  2016  Oct.       Too easy.
    581A	 	   	           Vasya The Hipster              implementation	                       Not needed.  2016  Oct.       Too easy.
-   583A   #323 Div 2       Asphalting Roads               implementation                           Not needed.  2016  Oct.       Too easy.
+   583A   #323 Div-2       Asphalting Roads               implementation                           Not needed.  2016  Oct.       Too easy.
    584A	 	   	           Olesya And Rodion              math	                                   Not needed.  2016  Oct.       Too easy.
    588A	 	   	           Duff And Meat                  greedy	 	                           Not needed.  2016  Oct.       Too easy.
    599A	 	   	           Patrick And Shopping           implementation                           Not needed.  2016  Oct.       Too easy.
 
-   608A	  #336 Div 2	   Saitama Destroys Hotel         implementation, math	                   Yes          2015  Dec        Done.
+   608A	  #336 Div-2	   Saitama Destroys Hotel         implementation, math	                   Yes          2015  Dec        Done.
    617A 	               Elephant                       math, greedy                            Not needed.  2016  Oct.      Too easy.
    658B  VK Cup 2016 Div2 R-1  Bear and Displayed Friends     implementation                           X No        2016  Mar        Yes.
    677A	 	               Vanya And Fence                implementation	                       Not needed.  2016  Oct.      Too easy.
-   703A	  #365 Div 2      Mishka And Game                implementation                          Not needed.  2016  Oct.      Too easy.
+   703A	  #365 Div-2      Mishka And Game                implementation                          Not needed.  2016  Oct.      Too easy.
    705A      	           Hulk                           implementation                          Not needed.  2016  Oct.      Not needed
    707A	 	   	           Brain's Photos                 implementation	                       Not needed.  2016  Oct.      Not needed.
    709A   AIM Tech Round 3 Div2     Juicer                implementation                           Not needed.  2016  Aug       Not needed. Competition.

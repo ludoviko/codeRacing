@@ -10,7 +10,7 @@ import java.util.HashSet;
 import java.util.List;
 import java.util.Set;
 
-public class HanSoloAndLazerGun2 {
+public class HanSoloAndLazerGun {
 
     class Point {
         int	x, y;
@@ -70,18 +70,18 @@ public class HanSoloAndLazerGun2 {
         MyScanner scanner = new MyScanner();
         PrintWriter out = new PrintWriter(new BufferedOutputStream(System.out));
 
-        HanSoloAndLazerGun2 main = new HanSoloAndLazerGun2();
+        HanSoloAndLazerGun main = new HanSoloAndLazerGun();
         int shots = 0;
 
         String[] string = scanner.next().split(" ");
         int n = Integer.parseInt(string[0]);
 
-        HanSoloAndLazerGun2.Point center = main.new Point(
+        HanSoloAndLazerGun.Point center = main.new Point(
                 Integer.parseInt(string[1]), Integer.parseInt(string[2]));
 
-        List<HanSoloAndLazerGun2.Point> list = new ArrayList<HanSoloAndLazerGun2.Point>();
-        List<HanSoloAndLazerGun2.Point> list_2 = new ArrayList<HanSoloAndLazerGun2.Point>();
-        List<HanSoloAndLazerGun2.Point> list_3 = new ArrayList<HanSoloAndLazerGun2.Point>();
+        List<HanSoloAndLazerGun.Point> list = new ArrayList<HanSoloAndLazerGun.Point>();
+        List<HanSoloAndLazerGun.Point> list_2 = new ArrayList<HanSoloAndLazerGun.Point>();
+        List<HanSoloAndLazerGun.Point> list_3 = new ArrayList<HanSoloAndLazerGun.Point>();
 
         Set<Double> set = new HashSet<Double>();
 
@@ -93,7 +93,7 @@ public class HanSoloAndLazerGun2 {
                     .parseInt(string[1])));
         }
 
-        HanSoloAndLazerGun2.Point p;
+        HanSoloAndLazerGun.Point p;
         for (int i = 0; i < n; i++) {
             p = list.get(i);
             p.changeXY(center);

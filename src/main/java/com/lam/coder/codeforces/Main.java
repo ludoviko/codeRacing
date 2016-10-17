@@ -7,7 +7,7 @@ import java.io.PrintStream;
 
 /**
  * 
- * @author Solution by: L.Azuaje.
+ * @author Code Forces.  Solution by: L.Azuaje.
  *
  * Codeforces: .
  *

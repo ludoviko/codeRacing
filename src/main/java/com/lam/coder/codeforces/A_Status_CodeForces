@@ -92,6 +92,8 @@
 
    513A	  	   	   	       Game                           constructive algorithms, math	           Not needed.  2015  Aug.       Too easy.
    514A   #291 Div 2	   Chewbaсca and Number           greedy, implementation	               Done it.     2016  Oct.       Done.
+   514B	  #291 Div 2       Han Solo and Lazer Gun   brute force, data structures, geometry, math   Not tested   2015  Feb        Not. KATA.
+
    515A	      	           Drazil And Date                math                                     Done it.     2015  Sept.      Done.
    519A	 	   	   	       A And B And Chess              implementation	                       Not needed.  2015  Aug.       Too easy.
 
@@ -128,12 +130,10 @@
    
 
 
-   Code   Contest           Name                           Method                                               Points    Tested       Date         See
+   Code   Contest             Name                            Method                                               Points      Tested      Date         See
 
-   500A	  Good Bye 2014	   	 New Year Transportation        dfs and similar, graphs, implementation             408/500      Yes       2014  Dec.   Competition
-
-
-   514B	 	   	     Han Solo and Lazer Gun         brute force, data structures, geometry, math	            544/1000  XDone it.     2014  Feb.   Competition
+   500A	  Good Bye 2014	   	  New Year Transportation         dfs and similar, graphs, implementation             408 /  500      Yes       2014  Dec.   Competition
+   514B	  #291 Div 2	   	  Han Solo and Lazer Gun          brute force, data structures, geometry, math	      544 / 1000     X No       2015  Feb.   Competition
 
 
    574A		   	     Bear and Elections             data structures, implementation                           Done it.     2014  Feb.   Competition

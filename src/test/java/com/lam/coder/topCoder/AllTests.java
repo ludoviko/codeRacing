@@ -32,6 +32,7 @@ import org.junit.runners.Suite.SuiteClasses;
         BonusesTest.class,
         BritishCoinsTest.class,
         // C
+        CalcTestTest.class,
         CandidatesSelectionEasyTest.class,
         CarBuyerTest.class,
         CCipherTest.class,

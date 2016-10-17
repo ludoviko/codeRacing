@@ -205,8 +205,12 @@ MostProfitable         SRM 223, 153   12.18.2004 	 Simple Math 			              
 BlackAndRed            SRM 223 	      12.18.2004 	 Brute Force, Simple Search,Iteration II.2       Done it. Value:  500      Mar 2014.  System Test: Passed. Editorial Review: Done.
 
  XX QuizShow 	           SRM 223 	      12.18.2004 	 Brute Force, Simple Math 	           I.1       XXX Done it. Value:  250   Oct 2013.  System Test: . Editorial Review:
- 
+
+
+VLNString	           SRM 226	      01.05.2005	 String Manipulation, String Parsing  II.1       Done it. Value:  250   Oct 2016.  System Test: Passed. Editorial Review: Done.
+
 PascalCount            SRM 230 	      02.08.2005 	 Math 	                               I.2 	     XXX: Out of memory Error Done it. Value: 500   Nov 2013.  System Test: . Editorial Review:
+
 GolfScore 	           SRM 231, 186   02.19.2005 	 Simple Math, String Manipulation 	   I.1 	     Done it. Value:  250   Jun 2014.  System Test: Passed. Editorial Review: Done.
 BritishCoins           SRM 232, 165   02.23.2005 	 Simple Math 			              II.1       Done it. Value:  250   Nov 2013.  System Test: Passed. Editorial Review: Done.
 PipeCuts 	           SRM 233 	      03.03.2005 	 Simple Math, Simulation 	          II.2,I.1       XXX Done it. Value:  500   Oct 2013.  System Test: . Editorial Review:

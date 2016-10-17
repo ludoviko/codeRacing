@@ -210,6 +210,7 @@ PascalCount            SRM 230 	      02.08.2005 	 Math 	                       
 GolfScore 	           SRM 231, 186   02.19.2005 	 Simple Math, String Manipulation 	   I.1 	     Done it. Value:  250   Jun 2014.  System Test: Passed. Editorial Review: Done.
 BritishCoins           SRM 232, 165   02.23.2005 	 Simple Math 			              II.1       Done it. Value:  250   Nov 2013.  System Test: Passed. Editorial Review: Done.
 PipeCuts 	           SRM 233 	      03.03.2005 	 Simple Math, Simulation 	          II.2,I.1       XXX Done it. Value:  500   Oct 2013.  System Test: . Editorial Review:
+CalcTest	           SRM 246	      06.09.2005	 String Manipulation			      II.1	     Done it. Value:  250   Oct 2016.  System Test: Passed. Editorial Review: Done.
 PiCalculator	       SRM 246	      06.09.2005	 String Manipulation	               I.1       Done it. Value:  250   Oct 2016.  System Test: Passed. Editorial Review: Done.
 
 MedianOfNumbers	       SRM 308	      06.24.2006	 Simple Math			              II.1  	 Done it. Value:  250   Abr 2014.  System Test: Passed. Editorial Review: Done.

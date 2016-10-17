@@ -27,7 +27,6 @@ public class PashmakAndFlowers {
 
         Iterator<Long> itera = keys.iterator();
 
-        long count = 0;
         BigInteger countBI = BigInteger.ZERO;
         long k = 0;
 
@@ -41,7 +40,6 @@ public class PashmakAndFlowers {
         } else {
             while (itera.hasNext()) {
                 k = itera.next();
-                count += map.get(k) * map.getOrDefault(k + dif, 0L);
                 countBI = countBI.add(new BigInteger(map.get(k) + "").multiply(new BigInteger(map.getOrDefault(k + dif, 0L) + "")));
             }
         }
@@ -62,8 +60,6 @@ public class PashmakAndFlowers {
     public static void main(String[] args) throws IOException {
         MyScanner scanner = new MyScanner();
         PrintStream out = System.out;
-
-        PashmakAndFlowers main = new PashmakAndFlowers();
 
         int n = scanner.nextInt();
         Long[] data = scanner.nextLongArray();

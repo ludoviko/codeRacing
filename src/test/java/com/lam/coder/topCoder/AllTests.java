@@ -205,6 +205,7 @@ import org.junit.runners.Suite.SuiteClasses;
         UserNameTest.class,
         // V
         VigenereTest.class,
+        VLNStringTest.class,
         VolumeGuessTest.class,
         VowelLatinTest.class,
         // W

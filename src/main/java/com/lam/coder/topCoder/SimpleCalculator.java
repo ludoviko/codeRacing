@@ -1,7 +1,10 @@
 package com.lam.coder.topCoder;
 
 /**
- * Created by Usuario on 18/10/2016.
+ * @author TopCoder Solution by L.Azuaje.
+ *
+ * Problem: SimpleCalculator.
+ *  Single Round Match 178 Round 1 - Division II, Level One
  */
 public class SimpleCalculator {
 

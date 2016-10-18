@@ -19,8 +19,7 @@ public class CopyClassFromTemplate {
 
 		Scanner sc = new Scanner(System.in);
 
-		String name = sc.nextLine().replace(" ", "");
-
+		String name = toFirstUpperCase( sc.nextLine()).replace(" ", "");
 
 		Scanner s = null;
 		StringBuilder output = new StringBuilder();
@@ -60,4 +59,25 @@ public class CopyClassFromTemplate {
 		}
 		sc.close();
 	}
+
+    public static String toFirstUpperCase(String title) {
+        char separator = ' ';
+        char[] output = title.toCharArray();
+        boolean space = true;
+
+        for (int i = 0; i < output.length; i++) {
+            if (output[i] == separator) {
+                space = true;
+                continue;
+            }
+
+            if (space) {
+                output[i] = Character.toUpperCase(output[i]);
+                space = false;
+            }
+
+        }
+
+        return new String(output);
+    }
 }

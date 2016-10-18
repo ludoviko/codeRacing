@@ -84,6 +84,7 @@ import org.junit.runners.Suite.SuiteClasses;
 //	GravityBombTest.class,
         // H
         HappyLetterDiv2Test.class,
+        HiddenNumbersTest.class,
         HowEasyTest.class,
         HuffmanDecodingTest.class,
         // I

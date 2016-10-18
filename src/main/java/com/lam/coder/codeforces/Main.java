@@ -11,15 +11,15 @@ import java.io.PrintStream;
  *
  * Problem: .
  *
- * Used for Codeforces:
+ * Used at Codeforces:
  *
  */
 
 public class Main {
-	
+
 //	public find() {
 //	}
-	
+
 	public static void main(String[] args) throws IOException {
 		MyScanner scanner = new MyScanner();
 		PrintStream out = System.out;

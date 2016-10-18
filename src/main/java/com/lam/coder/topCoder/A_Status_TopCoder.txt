@@ -104,118 +104,120 @@ PR        	            SRM 01                                                   
 PR        	            SRM 01                                                                 I-II.2      2014.  System Test: . No practice room. No editorial.
 PR        	            SRM 01                                                                 I-II.3      2014.  System Test: . No practice room. No editorial.
 
-Average 	           SRM 089, 205        	         Simple Math, Simple Search,Iterat.   II.1 	     Done it. Value:  250   May 2014.  System Test: Passed. Editorial Review: Done.
-Time 	               SRM 144 	      04.30.2003 	 Simple Math, String Manipulation 	  II.1       Done it. Value:  200   Oct 2013.  System Test: Passed. Editorial Review: Done.
-BinaryCode 	           SRM 144 	      04.30.2003 	 Encryption/Compres.,  Simulation     II.2       Done it. Value:  550   Oct 2014.  System Test: Passed. Editorial Review: Done.
-BinaryCode 	           SRM 144 	      04.30.2003 	 Encryption/Compres.,  Simulation      I.1       Done it. Value:  300   Oct 2013.  System Test: Passed. Editorial Review: Done.
-DitherCounter          SRM 145, 208   05.06.2003 	 Simple Search, Itera., String Manip. II.1	     Done it. Value:  250   Nov 2013.  System Test: Passed. Editorial Review: Done.
-ExerciseMachine 	   SRM 145 	      05.06.2003 	 Math, String Parsing 			      II.2       Done it. Value:  500   Nov 2013.  System Test: Passed. Editorial Review: Done.
-YahtzeeScore           SRM 146, 212   05.14.2003 	 Simple Math, Simple Search,Iteration II.1       Done it. Value:  250   July 2013. System Test: Passed. Editorial Review: Done.
-CCipher 	           SRM 147 	      05.22.2003     Encryption/Compression, String Man   II.1		 Done it. Value:  250   July 2013. System Test: Passed. Editorial Review: Done.
-DivisorDigits          SRM 148, 215   05.28.2003 	 Simple Math, String Manipulation 	  II.1       Done it. Value:  250   Nov 2013.  System Test: Passed. Editorial Review: Done.
-CircleGame 	           SRM 148 	      05.28.2003 	 Simulation, String Manipulation 	   I.1       Done it. Value:  250   Nov 2013.  System Test: Passed. Editorial Review: Done.
-CeyKaps 	           SRM 148 	      05.28.2003 	 Simulation                           II.2       Done it. Value:  500   Nov 2013.  System Test: Passed. Editorial Review: Done.
-FormatAmt 	           SRM 149 	      06.02.2003 	 String Manipulation 			      II.1 	     Done it. Value:  250   Nov 2013.  System Test: Passed. Editorial Review: Done.
-BigBurger 	           SRM 149 	      06.02.2003 	 Simulation 	                      II.2       Done it. Value:  500   Dec 2013.  System Test: Passed. Editorial Review: Done.
-BigBurger 	           SRM 149 	      06.02.2003 	 Simulation 	                       I.1       Done it. Value:  250   Dec 2013.  System Test: Passed. Editorial Review: Done.
-PrefixCode 	           SRM 151 	      06.17.2003 	 String Manipulation 			      II.1 	     Done it. Value:  250   Nov 2013.  System Test: Passed. Editorial Review: Done.
-Birthday 	           SRM 151 	      06.17.2003 	 Simple Math, String Parsing 		  II.2       Done it. Value:  500   Nov 2013.  System Test: Passed. Editorial Review: Done.
-MergeSort 	           SRM 151 	      06.17.2003 	 Simulation, Sorting 	              II.3       Done it. Value: 1000   Nov 2013.  System Test: Passed. Editorial Review: Done.
-Archimedes 	           SRM 151 	      06.17.2003 	 Simulation 	                       I.1 	     Done it. Value:  250   Nov 2013.  System Test: Passed. Editorial Review: Done.
-MergeSort 	           SRM 151 	      06.17.2003 	 Simulation, Sorting 	               I.2       Done it. Value:  500   Nov 2013.  System Test: Passed. Editorial Review: Done.
-LeaguePicks   	       SRM 152 	      06.25.2003 	 Simulation 	                      II.2       Done it. Value:  500   Nov 2013.  System Test: Passed. Editorial Review: Done.
-LeaguePicks            SRM 152 	      06.25.2003 	 Simulation 	                       I.1       Done it. Value:  500   Nov 2013.  System Test: Passed. Editorial Review: Done.
-MostProfitable  	   SRM 153, 223   07.01.2003 	 Simple Math 			              II.1       Done it. Value:  250   Oct 2013.  System Test: Passed. Editorial Review: Done.
+Average 	           SRM 089, 205        	         Simple Math, Simple Search,Iterat.    II.1     Done it. Value:  250   May 2014.  System Test: Passed. Editorial Review: Done.
+Time 	               SRM 144 	      04.30.2003 	 Simple Math, String Manipulation 	   II.1       Done it. Value:  200   Oct 2013.  System Test: Passed. Editorial Review: Done.
+BinaryCode 	           SRM 144 	      04.30.2003 	 Encryption/Compres.,  Simulation      II.2       Done it. Value:  550   Oct 2014.  System Test: Passed. Editorial Review: Done.
+BinaryCode 	           SRM 144 	      04.30.2003 	 Encryption/Compres.,  Simulation       I.1       Done it. Value:  300   Oct 2013.  System Test: Passed. Editorial Review: Done.
+DitherCounter          SRM 145, 208   05.06.2003 	 Simple Search, Itera., String Manip.  II.1	     Done it. Value:  250   Nov 2013.  System Test: Passed. Editorial Review: Done.
+ExerciseMachine 	   SRM 145 	      05.06.2003 	 Math, String Parsing 			       II.2       Done it. Value:  500   Nov 2013.  System Test: Passed. Editorial Review: Done.
+YahtzeeScore           SRM 146, 212   05.14.2003 	 Simple Math, Simple Search,Iteration  II.1       Done it. Value:  250   July 2013. System Test: Passed. Editorial Review: Done.
+CCipher 	           SRM 147 	      05.22.2003     Encryption/Compression, String Man    II.1		 Done it. Value:  250   July 2013. System Test: Passed. Editorial Review: Done.
+DivisorDigits          SRM 148, 215   05.28.2003 	 Simple Math, String Manipulation 	   II.1       Done it. Value:  250   Nov 2013.  System Test: Passed. Editorial Review: Done.
+CircleGame 	           SRM 148 	      05.28.2003 	 Simulation, String Manipulation 	    I.1       Done it. Value:  250   Nov 2013.  System Test: Passed. Editorial Review: Done.
+CeyKaps 	           SRM 148 	      05.28.2003 	 Simulation                            II.2       Done it. Value:  500   Nov 2013.  System Test: Passed. Editorial Review: Done.
+FormatAmt 	           SRM 149 	      06.02.2003 	 String Manipulation 			       II.1 	     Done it. Value:  250   Nov 2013.  System Test: Passed. Editorial Review: Done.
+BigBurger 	           SRM 149 	      06.02.2003 	 Simulation 	                       II.2       Done it. Value:  500   Dec 2013.  System Test: Passed. Editorial Review: Done.
+BigBurger 	           SRM 149 	      06.02.2003 	 Simulation 	                        I.1       Done it. Value:  250   Dec 2013.  System Test: Passed. Editorial Review: Done.
+PrefixCode 	           SRM 151 	      06.17.2003 	 String Manipulation 			       II.1 	     Done it. Value:  250   Nov 2013.  System Test: Passed. Editorial Review: Done.
+Birthday 	           SRM 151 	      06.17.2003 	 Simple Math, String Parsing 		   II.2       Done it. Value:  500   Nov 2013.  System Test: Passed. Editorial Review: Done.
+MergeSort 	           SRM 151 	      06.17.2003 	 Simulation, Sorting 	               II.3       Done it. Value: 1000   Nov 2013.  System Test: Passed. Editorial Review: Done.
+Archimedes 	           SRM 151 	      06.17.2003 	 Simulation 	                        I.1 	     Done it. Value:  250   Nov 2013.  System Test: Passed. Editorial Review: Done.
+MergeSort 	           SRM 151 	      06.17.2003 	 Simulation, Sorting 	                I.2       Done it. Value:  500   Nov 2013.  System Test: Passed. Editorial Review: Done.
+LeaguePicks   	       SRM 152 	      06.25.2003 	 Simulation 	                       II.2       Done it. Value:  500   Nov 2013.  System Test: Passed. Editorial Review: Done.
+LeaguePicks            SRM 152 	      06.25.2003 	 Simulation 	                        I.1       Done it. Value:  500   Nov 2013.  System Test: Passed. Editorial Review: Done.
+MostProfitable  	   SRM 153, 223   07.01.2003 	 Simple Math 			               II.1       Done it. Value:  250   Oct 2013.  System Test: Passed. Editorial Review: Done.
 
-XXX CheatCode 	           SRM 154 	  07.09.2003 	 String Manipulation 	               I.1       XXX. Value: 350       Oct 2013.  System Test: Failure. Editorial Review: .
+XXX CheatCode 	           SRM 154 	  07.09.2003 	 String Manipulation 	                I.1       XXX. Value: 350       Oct 2013.  System Test: Failure. Editorial Review: .
 
-Quipu 	               SRM 155 	      07.17.2003 	 String Parsing 			          II.1 	     Done it. Value:  250   July 2013. System Test: Passed. Editorial Review: Done.
-BenfordsLaw            SRM 155 	      07.17.2003 	 Math, Simulation 			          II.2       Done it. Value:  500   Oct 2013.  System Test: Passed. Editorial Review: Done.
-PaternityTest 	       SRM 155 	      07.17.2003 	 Brute Force 	                      II.3       Done it. Value: 1000   Oct 2013.  System Test: Passed. Editorial Review: Done.
-PaternityTest          SRM 155 	      07.17.2003 	 Brute Force 	                       I.1       Done it. Value:  300   Oct 2013.  System Test: Passed. Editorial Review: Done.
-PaperFold 	           SRM 162 	      09.03.2003     Brute Force, Simple Math 	          II.2,I.1   	 XXX Done it. Value:  250   July 2013. System Test: Failure. Editorial Review:
-Inchworm 	           SRM 163 	      09.08.2003 	 Simple Math, Simulation 			  II.1 	     Done it. Value:  250   May 2014.  System Test: Passed. Editorial Review: Done.
+Quipu 	               SRM 155 	      07.17.2003 	 String Parsing 			           II.1 	     Done it. Value:  250   July 2013. System Test: Passed. Editorial Review: Done.
+BenfordsLaw            SRM 155 	      07.17.2003 	 Math, Simulation 			           II.2       Done it. Value:  500   Oct 2013.  System Test: Passed. Editorial Review: Done.
+PaternityTest 	       SRM 155 	      07.17.2003 	 Brute Force 	                       II.3       Done it. Value: 1000   Oct 2013.  System Test: Passed. Editorial Review: Done.
+PaternityTest          SRM 155 	      07.17.2003 	 Brute Force 	                        I.1       Done it. Value:  300   Oct 2013.  System Test: Passed. Editorial Review: Done.
+PaperFold 	           SRM 162 	      09.03.2003     Brute Force, Simple Math 	           II.2,I.1   	 XXX Done it. Value:  250   July 2013. System Test: Failure. Editorial Review:
+Inchworm 	           SRM 163 	      09.08.2003 	 Simple Math, Simulation 			   II.1 	     Done it. Value:  250   May 2014.  System Test: Passed. Editorial Review: Done.
 
 XXX_CalendarRecycle 	SRM 163 	09.08.2003 	Eeyore 	Math, Simple Search, Iteration 			2 	64.18% 	details 	
 
-Rochambo 	           SRM 163 	      09.08.2003 	 Simulation 	                      I.1 	 	 Done it. Value:  250   May 2014.  System Test: Passed. Editorial Review: Done.
-BritishCoins           SRM 165, 232   09.23.2003 	 Simple Math 			              II.1       Done it. Value:  250   Nov 2013.  System Test: Passed. Editorial Review: Done.
-LevelUp 	           SRM 170 	      11.08.2003 	 Simple Search, Iteration 			  II.1       Done it. Value:  250   Oct 2013.  System Test: Passed. Editorial Review: Done.
-RecurrenceRelation 	   SRM 170 	      11.08.2003 	 String Manipulation 		          II.2	     Done it. Value:  500   Aug 2014. System Test: Passed. Editorial Review: Done.
-RecurrenceRelation 	   SRM 170 	      11.08.2003 	 String Manipulation 		           I.1	     Done it. Value:  250   Aug 2014. System Test: Passed. Editorial Review: Done.
+Rochambo 	           SRM 163 	      09.08.2003 	 Simulation 	                       I.1 	 	 Done it. Value:  250   May 2014.  System Test: Passed. Editorial Review: Done.
+BritishCoins           SRM 165, 232   09.23.2003 	 Simple Math 			               II.1       Done it. Value:  250   Nov 2013.  System Test: Passed. Editorial Review: Done.
+LevelUp 	           SRM 170 	      11.08.2003 	 Simple Search, Iteration 			   II.1       Done it. Value:  250   Oct 2013.  System Test: Passed. Editorial Review: Done.
+RecurrenceRelation 	   SRM 170 	      11.08.2003 	 String Manipulation 		           II.2	     Done it. Value:  500   Aug 2014. System Test: Passed. Editorial Review: Done.
+RecurrenceRelation 	   SRM 170 	      11.08.2003 	 String Manipulation 		            I.1	     Done it. Value:  250   Aug 2014. System Test: Passed. Editorial Review: Done.
 
     XXX  Poetry 	               SRM 170 	      11.08.2003 	 String Manipulation 			      II.3 	     XXX Done it. Value: 1000  July 2013. System Test: Failure. Editorial Review:
 
-SkipRope 	           SRM 172 	      11.20.2003 	 Simple Search, Iteration 			  II.1 	     Done it. Value:  250   May 2014.  System Test: Passed. Editorial Review: Done.
-WordForm 	           SRM 173 	      11.25.2003 	 String Manipulation 	              II.2 	     Done it. Value:  500   July 2013. System Test: Passed. Editorial Review: Done.
-BirthdayOdds           SRM 174 	      12.13.2003 	 Math 	                              II.2 	     Done it. Value:  500   Oct 2013.  System Test: Passed. Editorial Review: Done.
-BirthdayOdds           SRM 174 	      12.13.2003 	 Math 	                               I.1 	     Done it. Value:  250   Oct 2013.  System Test: Passed. Editorial Review: Done.
-ClockWalk 	           SRM 175  	  12.17.2003 	 Simple Math 			              II.1  	 Done it. Value:  250   May 2014.  System Test: Passed. Editorial Review: Done.
-InstantRunoff          SRM 175 	      12.17.2003 	 Simulation 	                      II.2 	     Done it. Value:  550   May 2014.  System Test: Passed. Editorial Review: Done.
-InstantRunoff          SRM 175 	      12.17.2003 	 Simulation 	                       I.1 	     Done it. Value:  300   May 2014.  System Test: Passed. Editorial Review: Done.
-DinkyFish 	           SRM 180 	      01.22.2004 	 Simulation 			              II.1 	     Done it. Value:  250   May 2014.  System Test: Passed. Editorial Review: Done.
-PassingGrade           SRM 185 	      03.01.2004 	 Simple Math 			              II.1 	     Done it. Value:  250   July 2013  System Test: Passed. Editorial Review: Done.
-GolfScore 	           SRM 186,231 	  03.13.2004 	 Simple Math, String Manipulation 	   I.1 	     Done it. Value:  250   Jun 2014.  System Test: Passed. Editorial Review: Done.
-WordWrap 	           SRM 186 	      03.13.2004 	 String Manipulation 	              II.2       Done it. Value:  500   Jun 2014.  System Test: Passed. Editorial Review: Done.
-WordWrap 	           SRM 186 	      03.13.2004 	 String Manipulation 	               I.1 	 	 Done it. Value:  250   Jun 2014.  System Test: Passed. Editorial Review: Done.
-BettingMoney   	       SRM 191 	      04.24.2004 	 Simple Math, Simulation 			  II.1 	     Done it. Value:  250   July 2013. System Test: Passed. Editorial Review: Done.
-VolumeGuess	           SRM 191	      04.24.2004	 Brute Force	                      II.2	     Done it. Value:  500   Nov 2013.  System Test: Passed. Editorial Review: Done.
-VolumeGuess	           SRM 191	      04.24.2004	 Brute Force	                       I.1	     Done it. Value:  250       Nov 2013.  System Test: Passed. Editorial Review: Done.
-NoOrderOfOperations    SRM 200 	      06.21.2004 	 String Parsing 			          II.1 	     Done it. Value:  250   July 2013. System Test: Passed. Editorial Review: Done.
-GravityBomb            SRM 200 	      06.21.2004 	 Simulation, String Manipulation 	  II.2       XXX Done it. Value: 500   Nov 2013.  System Test: . Editorial Review:
-WindowManager          SRM 200 	      06.21.2004 	 String Manipulation 	              II.3,I.1 	     XXX Done it. Value: 900   Nov 2013.  System Test: . Editorial Review:
-UserName 	  		   SRM 203 	      07.15.2004 	 Simple Search, Iteration,  	      II.1       Done it. Value:  250   July 2013. System Test: Passed. Editorial Review: Done.
-MatchMaking   		   SRM 203 		  07.15.2004 	 Simulation, Sorting 	              II.2 	 	 Done it. Value:  600      July 2014. System Test: Passed. Editorial Review: Done.
-UnLinker               SRM 203 	      07.15.2004 	 String Manipulation                  II.3       Done it. Value:  900      July 2014. System Test: Passed. Editorial Review: Done.
-MatchMaking   		   SRM 203 		  07.15.2004 	 Simulation, Sorting 	               I.1 	 	 Done it. Value:  325   July 2014. System Test: Passed. Editorial Review: Done.
+SkipRope 	           SRM 172 	      11.20.2003 	 Simple Search, Iteration 			   II.1 	     Done it. Value:  250   May 2014.  System Test: Passed. Editorial Review: Done.
+WordForm 	           SRM 173 	      11.25.2003 	 String Manipulation 	               II.2 	     Done it. Value:  500   July 2013. System Test: Passed. Editorial Review: Done.
+BirthdayOdds           SRM 174 	      12.13.2003 	 Math 	                               II.2 	     Done it. Value:  500   Oct 2013.  System Test: Passed. Editorial Review: Done.
+BirthdayOdds           SRM 174 	      12.13.2003 	 Math 	                                I.1 	     Done it. Value:  250   Oct 2013.  System Test: Passed. Editorial Review: Done.
+ClockWalk 	           SRM 175  	  12.17.2003 	 Simple Math 			               II.1  	 Done it. Value:  250   May 2014.  System Test: Passed. Editorial Review: Done.
+InstantRunoff          SRM 175 	      12.17.2003 	 Simulation 	                       II.2 	     Done it. Value:  550   May 2014.  System Test: Passed. Editorial Review: Done.
+InstantRunoff          SRM 175 	      12.17.2003 	 Simulation 	                        I.1 	     Done it. Value:  300   May 2014.  System Test: Passed. Editorial Review: Done.
+SimpleCalculator	   SRM 178        01.07.2004	 String Parsing			               II.1       Done it. Value:  250   Oct 2016.  System Test: Passed. Editorial Review: Done.
+DinkyFish 	           SRM 180 	      01.22.2004 	 Simulation 			               II.1 	     Done it. Value:  250   May 2014.  System Test: Passed. Editorial Review: Done.
+PassingGrade           SRM 185 	      03.01.2004 	 Simple Math 			               II.1 	     Done it. Value:  250   July 2013  System Test: Passed. Editorial Review: Done.
+GolfScore 	           SRM 186,231 	  03.13.2004 	 Simple Math, String Manipulation 	    I.1 	     Done it. Value:  250   Jun 2014.  System Test: Passed. Editorial Review: Done.
+WordWrap 	           SRM 186 	      03.13.2004 	 String Manipulation 	               II.2       Done it. Value:  500   Jun 2014.  System Test: Passed. Editorial Review: Done.
+WordWrap 	           SRM 186 	      03.13.2004 	 String Manipulation 	                I.1 	 	 Done it. Value:  250   Jun 2014.  System Test: Passed. Editorial Review: Done.
+BettingMoney   	       SRM 191 	      04.24.2004 	 Simple Math, Simulation 			   II.1 	     Done it. Value:  250   July 2013. System Test: Passed. Editorial Review: Done.
+VolumeGuess	           SRM 191	      04.24.2004	 Brute Force	                       II.2	     Done it. Value:  500   Nov 2013.  System Test: Passed. Editorial Review: Done.
+VolumeGuess	           SRM 191	      04.24.2004	 Brute Force	                        I.1	     Done it. Value:  250       Nov 2013.  System Test: Passed. Editorial Review: Done.
+NoOrderOfOperations    SRM 200 	      06.21.2004 	 String Parsing 			           II.1 	     Done it. Value:  250   July 2013. System Test: Passed. Editorial Review: Done.
+GravityBomb            SRM 200 	      06.21.2004 	 Simulation, String Manipulation 	   II.2       XXX Done it. Value: 500   Nov 2013.  System Test: . Editorial Review:
+WindowManager          SRM 200 	      06.21.2004 	 String Manipulation 	               II.3,I.1 	     XXX Done it. Value: 900   Nov 2013.  System Test: . Editorial Review:
+UserName 	  		   SRM 203 	      07.15.2004 	 Simple Search, Iteration,  	       II.1       Done it. Value:  250   July 2013. System Test: Passed. Editorial Review: Done.
+MatchMaking   		   SRM 203 		  07.15.2004 	 Simulation, Sorting 	               II.2 	 	 Done it. Value:  600      July 2014. System Test: Passed. Editorial Review: Done.
+UnLinker               SRM 203 	      07.15.2004 	 String Manipulation                   II.3       Done it. Value:  900      July 2014. System Test: Passed. Editorial Review: Done.
+MatchMaking   		   SRM 203 		  07.15.2004 	 Simulation, Sorting 	                I.1 	 	 Done it. Value:  325   July 2014. System Test: Passed. Editorial Review: Done.
 ZZZ Combinatorics  TinSoldiers	           SRM 203	            07.15.2004	 Advanced Math, Combinatorics	                       I.2       XDone it. Value:  500  XJuly 2014. System Test: XPassed. Editorial Review: XDone.
-Average 	           SRM 205, 089   07.31.2004 	 Simple Math, Simple Search, Iter. 	  II.1 	     Done it. Value:  250   May 2014. System Test: Passed. Editorial Review: Done.
-SpamDetector           SRM 205 	      07.31.2004 	 String Manipulation 	              II.2       Done it. Value:  500   May 2014. System Test: Passed. Editorial Review: Done.
-SpamDetector           SRM 205 	      07.31.2004 	 String Manipulation 	               I.1       Done it. Value:  250   May 2014. System Test: Passed. Editorial Review: Done.
-Bits 	               SRM 206 	      08.04.2004 	 Simple Math 			              II.1 		 Done it. Value:  250   Nov 2013.  System Test: Passed . Editorial Review: Done.
+Average 	           SRM 205, 089   07.31.2004 	 Simple Math, Simple Search, Iter. 	   II.1 	     Done it. Value:  250   May 2014. System Test: Passed. Editorial Review: Done.
+SpamDetector           SRM 205 	      07.31.2004 	 String Manipulation 	               II.2       Done it. Value:  500   May 2014. System Test: Passed. Editorial Review: Done.
+SpamDetector           SRM 205 	      07.31.2004 	 String Manipulation 	                I.1       Done it. Value:  250   May 2014. System Test: Passed. Editorial Review: Done.
+Bits 	               SRM 206 	      08.04.2004 	 Simple Math 			               II.1 		 Done it. Value:  250   Nov 2013.  System Test: Passed . Editorial Review: Done.
 
     OmahaLow 	           SRM 206 	    08.04.2004 Brute Force,Sorting,String Manipulation     I.1;,I.2   XXX Done it. Value:  500   Nov 2013.  System Test: . Editorial Review:
 
 Spamatronic
 
-TransportCounting      SRM 207 	      08.10.2004 	 Brute Force, Simple Math 			  II.1 	     Done it. Value:  500   Nov 2013.  System Test: Passed. Editorial Review: Done.
-RegularSeason          SRM 207 	      08.10.2004 	 Brute Force, Simple Math,Sorting     II.2       Done it. Value:  500   May 2014.  System Test: Passed. Editorial Review: Done.
-RegularSeason          SRM 207 	      08.10.2004 	 Brute Force, Simple Math,Sorting      I.1       Done it. Value:  250   May 2014.  System Test: Passed. Editorial Review: Done.
-DitherCounter          SRM 208,SRM 145  05.06.2003 	 Simple Search, Itera., String Manip. II.1	     Done it. Value:  250   Nov 2013.  System Test: Passed. Editorial Review: Done.
+TransportCounting      SRM 207 	      08.10.2004 	 Brute Force, Simple Math 			   II.1 	     Done it. Value:  500   Nov 2013.  System Test: Passed. Editorial Review: Done.
+RegularSeason          SRM 207 	      08.10.2004 	 Brute Force, Simple Math,Sorting      II.2       Done it. Value:  500   May 2014.  System Test: Passed. Editorial Review: Done.
+RegularSeason          SRM 207 	      08.10.2004 	 Brute Force, Simple Math,Sorting       I.1       Done it. Value:  250   May 2014.  System Test: Passed. Editorial Review: Done.
+DitherCounter          SRM 208,SRM 145  05.06.2003 	 Simple Search, Itera., String Manip.  II.1	     Done it. Value:  250   Nov 2013.  System Test: Passed. Editorial Review: Done.
 
 ZZZ rather slow the tests, almost 3 seconds. TallPeople 	           SRM 208 	            08.18.2004 	 Simple Search, Iteration, Sorting     I.1 	     XXX Done it. Value: 250   July 2013. System Test: . Editorial Review: Done.
 
-MovingAverages         SRM 209 	      08.28.2004 	 Simple Math 			              II.1       Done it. Value:  250   Jul 2014. System Test: Passed. Editorial Review: Done.
-TitleString            SRM 210 	      09.01.2004 	 String Manipulation, String Parsing  II.1       Done it. Value:  250   May 2014. System Test: Passed. Editorial Review: Done.
-DrivingDirections      SRM 210 	      09.01.2004 	 String Manipulation, String Parsing  II.2 	     Done it. Value:  500   May 2014. System Test: Passed. Editorial Review: Done.
-GrafixClick            SRM 211 	      09.14.2004 	 Simple Math 			              II.1 	 	 Done it. Value:  300   May 2014. System Test: Passed. Editorial Review: Done
-GrafixCorrupt          SRM 211 	      09.14.2004 	 Simple Search, Iteration 	          II.2  	 Done it. Value:  400   May 2014. System Test: Passed. Editorial Review: Done
-GrafixGlobs            SRM 211 	      09.14.2004 	 Search, Simulation, String Manip. 	  II.3 	 	 Done it. Value:  900   May 2014. System Test: Passed. Editorial Review: Done
-GrafixCorrupt          SRM 211 	      09.14.2004 	 Simple Search, Iteration 	           I.1 	     Done it. Value:  250   May 2014. System Test: Passed. Editorial Review: Done.
-YahtzeeScore           SRM 212, 146   09.25.2004 	 Simple Math, Simple Search,Iteration II.1       Done it. Value:  250   July 2013. System Test: Passed. Editorial Review: Done.
-Chivalry 	           SRM 213 	      09.28.2004 	 String Manipulation 			      II.1 	     Done it. Value:  250   May 2014. System Test: Passed. Editorial Review: Done.
-ShoelaceLength         SRM 213 	      09.28.2004 	 Geometry, Math 			          II.2       Done it. Value:  500   May 2014. System Test: Passed. Editorial Review: Done.
-BloggoShortcuts        SRM 214 	      10.06.2004 	 String Manipulation 			      II.1 	 	 Done it. Value:  250   May 2014. System Test: Passed. Editorial Review: Done.
+MovingAverages         SRM 209 	      08.28.2004 	 Simple Math 			               II.1       Done it. Value:  250   Jul 2014. System Test: Passed. Editorial Review: Done.
+TitleString            SRM 210 	      09.01.2004 	 String Manipulation, String Parsing   II.1       Done it. Value:  250   May 2014. System Test: Passed. Editorial Review: Done.
+DrivingDirections      SRM 210 	      09.01.2004 	 String Manipulation, String Parsing   II.2 	     Done it. Value:  500   May 2014. System Test: Passed. Editorial Review: Done.
+GrafixClick            SRM 211 	      09.14.2004 	 Simple Math 			               II.1 	 	 Done it. Value:  300   May 2014. System Test: Passed. Editorial Review: Done
+GrafixCorrupt          SRM 211 	      09.14.2004 	 Simple Search, Iteration 	           II.2  	 Done it. Value:  400   May 2014. System Test: Passed. Editorial Review: Done
+GrafixGlobs            SRM 211 	      09.14.2004 	 Search, Simulation, String Manip. 	   II.3 	 	 Done it. Value:  900   May 2014. System Test: Passed. Editorial Review: Done
+GrafixCorrupt          SRM 211 	      09.14.2004 	 Simple Search, Iteration 	            I.1 	     Done it. Value:  250   May 2014. System Test: Passed. Editorial Review: Done.
+YahtzeeScore           SRM 212, 146   09.25.2004 	 Simple Math, Simple Search,Iteration  II.1       Done it. Value:  250   July 2013. System Test: Passed. Editorial Review: Done.
+Chivalry 	           SRM 213 	      09.28.2004 	 String Manipulation 			       II.1 	     Done it. Value:  250   May 2014. System Test: Passed. Editorial Review: Done.
+ShoelaceLength         SRM 213 	      09.28.2004 	 Geometry, Math 			           II.2       Done it. Value:  500   May 2014. System Test: Passed. Editorial Review: Done.
+BloggoShortcuts        SRM 214 	      10.06.2004 	 String Manipulation 			       II.1 	 	 Done it. Value:  250   May 2014. System Test: Passed. Editorial Review: Done.
 
  XXX to slow  BloggoHyphenate                SRM 214 	            10.06.2004 	 Search, String Manipulation 	      I.1:II.2   To slow. Done it. Value:  250   May 2014. System Test: XXXPassed. Editorial Review: Done.
 
-DivisorDigits          SRM 215, 148   10.16.2004   Simple Math, String Manipulation 	  II.1       Done it. Value:  250   Nov 2013.  System Test: Passed. Editorial Review: Done.
-
-MostProfitable         SRM 223, 153   12.18.2004 	 Simple Math 			              II.1       Done it. Value:  250   Oct  2013. System Test: Passed. Editorial Review: Done.
-BlackAndRed            SRM 223 	      12.18.2004 	 Brute Force, Simple Search,Iteration II.2       Done it. Value:  500      Mar 2014.  System Test: Passed. Editorial Review: Done.
+HiddenNumbers	       SRM 220	      11.23.2004	 String Parsing	                       II.2	      Done it. Value:  550   Oct 2016.  System Test: Passed. Editorial Review: Done.
+HiddenNumbers	       SRM 220	      11.23.2004	 String Parsing	                        I.1	      Done it. Value:  3000  Oct 2016.  System Test: Passed. Editorial Review: Done.
+DivisorDigits          SRM 215, 148   10.16.2004     Simple Math, String Manipulation 	   II.1       Done it. Value:  250   Nov 2013.  System Test: Passed. Editorial Review: Done.
+MostProfitable         SRM 223, 153   12.18.2004 	 Simple Math 			               II.1       Done it. Value:  250   Oct  2013. System Test: Passed. Editorial Review: Done.
+BlackAndRed            SRM 223 	      12.18.2004 	 Brute Force, Simple Search,Iteration  II.2       Done it. Value:  500   Mar 2014.  System Test: Passed. Editorial Review: Done.
 
  XX QuizShow 	           SRM 223 	      12.18.2004 	 Brute Force, Simple Math 	           I.1       XXX Done it. Value:  250   Oct 2013.  System Test: . Editorial Review:
 
 
-VLNString	           SRM 226	      01.05.2005	 String Manipulation, String Parsing  II.1       Done it. Value:  250   Oct 2016.  System Test: Passed. Editorial Review: Done.
+VLNString	           SRM 226	      01.05.2005	 String Manipulation, String Parsing   II.1       Done it. Value:  250   Oct 2016.  System Test: Passed. Editorial Review: Done.
 
-PascalCount            SRM 230 	      02.08.2005 	 Math 	                               I.2 	     XXX: Out of memory Error Done it. Value: 500   Nov 2013.  System Test: . Editorial Review:
+PascalCount            SRM 230 	      02.08.2005 	 Math 	                                I.2 	     XXX: Out of memory Error Done it. Value: 500   Nov 2013.  System Test: . Editorial Review:
 
-GolfScore 	           SRM 231, 186   02.19.2005 	 Simple Math, String Manipulation 	   I.1 	     Done it. Value:  250   Jun 2014.  System Test: Passed. Editorial Review: Done.
-BritishCoins           SRM 232, 165   02.23.2005 	 Simple Math 			              II.1       Done it. Value:  250   Nov 2013.  System Test: Passed. Editorial Review: Done.
-PipeCuts 	           SRM 233 	      03.03.2005 	 Simple Math, Simulation 	          II.2,I.1       XXX Done it. Value:  500   Oct 2013.  System Test: . Editorial Review:
-CalcTest	           SRM 246	      06.09.2005	 String Manipulation			      II.1	     Done it. Value:  250   Oct 2016.  System Test: Passed. Editorial Review: Done.
-PiCalculator	       SRM 246	      06.09.2005	 String Manipulation	               I.1       Done it. Value:  250   Oct 2016.  System Test: Passed. Editorial Review: Done.
+GolfScore 	           SRM 231, 186   02.19.2005 	 Simple Math, String Manipulation 	    I.1 	     Done it. Value:  250   Jun 2014.  System Test: Passed. Editorial Review: Done.
+BritishCoins           SRM 232, 165   02.23.2005 	 Simple Math 			               II.1       Done it. Value:  250   Nov 2013.  System Test: Passed. Editorial Review: Done.
+PipeCuts 	           SRM 233 	      03.03.2005 	 Simple Math, Simulation 	           II.2,I.1       XXX Done it. Value:  500   Oct 2013.  System Test: . Editorial Review:
+CalcTest	           SRM 246	      06.09.2005	 String Manipulation			       II.1	     Done it. Value:  250   Oct 2016.  System Test: Passed. Editorial Review: Done.
+PiCalculator	       SRM 246	      06.09.2005	 String Manipulation	                I.1       Done it. Value:  250   Oct 2016.  System Test: Passed. Editorial Review: Done.
 
 MedianOfNumbers	       SRM 308	      06.24.2006	 Simple Math			              II.1  	 Done it. Value:  250   Abr 2014.  System Test: Passed. Editorial Review: Done.
 HuffmanDecoding	       SRM 308	      06.24.2006	 String Manipulation	              II.2	     Done it. Value:  450   Abr 2014.  System Test: Passed. Editorial Review: Done.

@@ -11,7 +11,7 @@ import java.io.PrintStream;
  *
  * Problem: .
  *
- * Codeforces: .
+ * Used for Codeforces:
  *
  */
 

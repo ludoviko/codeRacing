@@ -172,6 +172,7 @@ import org.junit.runners.Suite.SuiteClasses;
         ShoelaceLengthTest.class,
         ShorterSuperSumTest.class,
         ShoutterDiv2Test.class,
+        SimpleCalculatorTest.class,
         SkipRopeTest.class,
         SnakyTest.class,
         SoccerLeaguesTest.class,

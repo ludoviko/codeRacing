@@ -1,10 +1,11 @@
    Code   Contest          Name                           Method                                  Tested       Date             Tutorial
 
-     1A	  Beta 1           Theatre Square                 math	                                   Done it.     2014  Dec.       Done.
-     1B	  Beta 1           Spreadssheets                  String manipulation, math	               Done it.     2016  Mar.       Done.
-     4A	  Beta 4 Div-2     Watermelon                     brute force, math	                       Done it.     2014  Dec.       Done.
-     4C	  Beta 4 Div-2     Registration System        data structures, hashing, implementation     Done it.     2016  Oct.       Done.
-    25A	                   IQ Test                        brute force                             Not needed.  2015  Aug.        Done.
+     1A	  Beta   1         Theatre Square                 math	                                   Done it.     2014  Dec.       Done.
+     1B	  Beta   1         Spreadssheets                  String manipulation, math	               Done it.     2016  Mar.       Done.
+     4A	  Beta   4 Div-2   Watermelon                     brute force, math	                       Done it.     2014  Dec.       Done.
+     4C	  Beta   4 Div-2   Registration System        data structures, hashing, implementation     Done it.     2016  Oct.       Done.
+    25A	                   IQ Test                        brute force                              Not needed.  2015  Aug.       Done.
+    37A	  Beta  37          Towers                         sortings                                 Not needed.  2016  Oct.       Done.
     41A	                   Translation                    implementation, strings	               Not needed.  2015  Aug.       Done.
     50A	                   Domino piling                  greedy, math                        	   Done it.     2015  Jan.       Done.
     58A  	               Chat room                      greedy, strings                         Done it.     2015  Aug.        Done.
@@ -78,7 +79,8 @@
    469A	 	   	           I Wanna Be The Guy             greedy, implementation	               Not needed.  2016  Oct.       Done.
    471A	 	   	           MUH And Sticks                 implementation	                       Not needed.  2015  Aug.       Cumbersome.
    472A	 	   	           Design Tutorial: Learn from Math  math, number theory	               Not needed.  2016  Oct.       Done.
-   474A	 	   	           Keyboard                       implementation	                       Done it.     2015  Aug.       Done.
+   474A	  #271 Div-2       Keyboard                       implementation	                       Done it.     2015  Aug.       Done.
+   474B	  #271 Div-2       Worms                          binary search, implementation            Not needed.  2016  Oct.       Done.
    476A	 	   	           Dreamoon And Stairs            implementation, math	                   Done it.     2015  Aug.       Done.
    478A	 	   	           Initial Bet                    implementation	                       Not needed.  2015  Aug.       Done.
    479A	 	   	           Expression                     brute force, math	                   Not needed.  2016  Oct.       Done.
@@ -100,14 +102,12 @@
    519B		   	           A And B And Compilation Errors data structures, implementation         Kata....
 
    520A	 	   	           Pangram                        implementation, strings	               Done it.     2015  Aug.       Done.
-
-   527A	Playing with Paper implementation, math
-
-
    540A	 	   	           Combination Lock               implementation	                       Not needed.  2015  Aug.       Done.
    546A	 	   	           Soldier And Bananas            implementation, math	                   Not needed.  2015  Aug.       Done.
    551A	  #307 Div-2       GukiZ And Contest              implementation, sortings                 Not needed.  2016  Oct.       Done.
    556A	 	   	           Case Of The Zeros And Ones     greedy                                   Not needed.  2016  Oct.       Done.
+   560A	  #313 Div-22      Currency System in Geraldion   geometry, implementation, sortings       Not needed.  2016  Oct.       Done.
+
    567A	 	   	           Lineland Mail                  implementation	                       Done it.     2016  Oct.       Done.
    570A	 	   	           Elections                      implementation	                       Not needed.  2016  Oct.       Done.
    574A	  #318 Div-2       Bear and Elections             data structures, implementation          Done it.     2015  Aug.       No editorial.  Competition
@@ -127,15 +127,19 @@
    621A   #341 Div-2       Wet Shark and Odd and Even     implementation                           Not needed.  2016  Oct.       Done.
    658B  VK Cup 2016 Div2 R-1  Bear and Displayed Friends     implementation                           X No        2016  Mar        Done.
    677A	 	               Vanya And Fence                implementation	                       Not needed.  2016  Oct.       Done.
-   703A	  #365 Div-2       Mishka And Game                implementation                          Not needed.  2016  Oct.        Done.
-   705A      	           Hulk                           implementation                          Not needed.  2016  Oct.        Done.
+
+   701A	  #364 Div-2       Cards                          greedy                                   Not needed.  2016  Oct.       Done.
+   703A	  #365 Div-2       Mishka And Game                implementation                           Not needed.  2016  Oct.        Done.
+   705A      	           Hulk                           implementation                           Not needed.  2016  Oct.        Done.
    707A	 	   	           Brain's Photos                 implementation	                       Not needed.  2016  Oct.       Done.
    709A   AIM Tech Round 3 Div2     Juicer                implementation                           Not needed.  2016  Aug        Done. Competition.
-   711A	  	   	           Bus To Udayland                brute force, implementation             Not needed.  2016  Oct.        Done.
+   711A	  	   	           Bus To Udayland                brute force, implementation              Not needed.  2016  Oct.        Done.
+   716A	  #372 Div-2       Crazy Computer                 implementation                           Not needed.  2016  Oct.        Done.
+   723A	  #375 Div-2       The New Year: Meeting Friends  sortings                                 Not needed.  2016  Oct.        Done.
+
    727A  Technocup 2017 R-1 Div2   TransformationFromAToB         dfs                               XNo        2016  Oct.        No editorial. Competion.
 
-
-... Missing...    
+... Missing...
    
 
 

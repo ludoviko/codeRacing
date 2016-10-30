@@ -5,7 +5,7 @@
      4A	  Beta   4 Div-2   Watermelon                     brute force, math	                       Done it.     2014  Dec.       Done.
      4C	  Beta   4 Div-2   Registration System        data structures, hashing, implementation     Done it.     2016  Oct.       Done.
     25A	                   IQ Test                        brute force                              Not needed.  2015  Aug.       Done.
-    37A	  Beta  37          Towers                         sortings                                 Not needed.  2016  Oct.       Done.
+    37A	  Beta  37         Towers                         sortings                                 Not needed.  2016  Oct.       Done.
     41A	                   Translation                    implementation, strings	               Not needed.  2015  Aug.       Done.
     50A	                   Domino piling                  greedy, math                        	   Done it.     2015  Jan.       Done.
     58A  	               Chat room                      greedy, strings                         Done it.     2015  Aug.        Done.
@@ -58,6 +58,7 @@
    339A	   	 	           Helpful Maths              greedy, implementation, sortings, strings    Done it.     2015  Aug.       Done.
    339B	  	   	           Xenia And Ringroad             implementation	                       Not needed.  2015  Aug.       Done.
    344A		   	           Magnets                        implementation	                       Not needed.  2015  Aug.       Done.
+   349A	 #202 Div-2        Cinema Line                    greedy, implementation                   Not needed.  2016  Oct.       Done.
    353A  #205 Div-2        Domino                         implementaion, math                      Not needed.  2016  Oct.       Done.
    379A	 	   	           New Year Candles               implementation                           Done it.     2015  Aug.       Done.
 
@@ -68,6 +69,7 @@
    443A	 	   	   	       Anton And Letters              constructive algorithms, implementation  Not needed.  2015  Aug.       Done.
    448A	 	   	           Rewards                        implementation	                       Not needed.  2015  Aug.       Done.
    451A	  	   	           Game With Sticks               implementation                           Done it.     2015  Aug.       Done.
+   456A  #260 Div-2 	   Laptops                        sortings                                 Done it.     2016  Oct.       Done.
    459A	 #261 Div 2        Pashmak And Garden             implementation                           Done it.     2016  Oct.       Done.
    459B	 #261 Div 2        Pashmak And Flowers            implementation, sortings                 Not needed.  2016  Oct.       Done.
    460A	 	   	           Vasya And Socks                brute force, implementation	           Done it.     2015  Aug.       Done.
@@ -90,9 +92,9 @@
    499A	 	   	           Watching a movie              implementation	 	                       Done it.     2014  Dec.       Done.
 
    500A	 Good Bye 2014     New Year Transportation    dfs and similar, graphs, implementation      Done it.     2014  Dec.		 Done. Competition.
+   507A  #287 Div-2	       Amr and Music                  greedy, implementation, sortings         Not needed.  2016  Oct.       Done.
    509A	 	   	           Maximum In Table               brute force, implementation	           Not needed.  2015  Aug.       Done.
    510A		   	           Fox And Snake                  implementation	                       Not needed.  2015  Aug.       Done.
-
    513A	  	   	   	       Game                           constructive algorithms, math	           Not needed.  2015  Aug.       Done.
    514A   #291 Div 2	   Chewbaсca and Number           greedy, implementation	               Done it.     2016  Oct.       Done.
    514B	  #291 Div 2       Han Solo and Lazer Gun   brute force, data structures, geometry, math   Not tested   2015  Feb        No. KATA.
@@ -123,6 +125,9 @@
    599A	 	   	           Patrick And Shopping           implementation                           Not needed.  2016  Oct.       Done.
 
    608A	  #336 Div-2	   Saitama Destroys Hotel         implementation, math	                   Yes          2015  Dec        Done.
+
+   611A	  Good Bye 2015    New Year and Days              implementation
+
    617A 	               Elephant                       math, greedy                             Not needed.  2016  Oct.       Done.
    621A   #341 Div-2       Wet Shark and Odd and Even     implementation                           Not needed.  2016  Oct.       Done.
    658B  VK Cup 2016 Div2 R-1  Bear and Displayed Friends     implementation                           X No        2016  Mar        Done.
@@ -135,6 +140,10 @@
    709A   AIM Tech Round 3 Div2     Juicer                implementation                           Not needed.  2016  Aug        Done. Competition.
    711A	  	   	           Bus To Udayland                brute force, implementation              Not needed.  2016  Oct.        Done.
    716A	  #372 Div-2       Crazy Computer                 implementation                           Not needed.  2016  Oct.        Done.
+
+   721A #374 Div-2	One-dimensional Japanese Crossword implementation
+
+
    723A	  #375 Div-2       The New Year: Meeting Friends  sortings                                 Not needed.  2016  Oct.        Done.
 
    727A  Technocup 2017 R-1 Div2   TransformationFromAToB         dfs                               XNo        2016  Oct.        No editorial. Competion.

@@ -5,64 +5,46 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.io.PrintStream;
 import java.util.Arrays;
-import java.util.List;
 
 /**
  * 
- * @author 
+ * @author Code Forces.  Solution by: L.Azuaje.
  *
+ * Problem: 461A  Appleman And Toastman.
  *
+ * Used at Codeforces: #263 Div-1 .
  *
  */
 
 public class ApplemanAndToastman {
+    public long sum(long[] data) {
+        long sum = 0;
 
-    private int sum;
-
-	public int find(Integer[] data) {
-        Arrays.sort(data);
-        List<Integer> list = Arrays.asList(data);
-
-		return find(list);
-	}
-
-    private int find(List<Integer> list) {
-        int sum = 0;
-        List<Integer> subList;
-
-        sum +=  sum(list);
-
-        while (  list.size() > 1) {
-            subList = list.subList(0, 1);
-            list = list.subList(1, list.size());
-            sum +=  sum(subList);
-            sum +=  sum(list);
+        for (int i = 0; i < data.length; i++) {
+            if (i < data.length -1) {
+                sum += data[i] * (i + 2);
+            } else {
+                sum += data[i] * (i + 1);
+            }
         }
 
         return sum;
     }
-
-    private Integer  sum(List<Integer> list) {
-        int sum  = 0;
-        for (int i : list) {
-            sum+= i;
-        }
-
-        return sum;
-    }
-
-   // 1 2 2 2 4 5 6 7 8 10: 376
 
 	public static void main(String[] args) throws IOException {
 		MyScanner scanner = new MyScanner();
 		PrintStream out = System.out;
 
 		ApplemanAndToastman main = new ApplemanAndToastman();
+		
+		int n = scanner.nextInt();
+        long[] data = scanner.nextLongArray();
 
-        scanner.next();
-		out.println(main.find(scanner.nextIntegerArray()));
+        Arrays.sort(data);
 
-		scanner.reader.close();
+		out.println(main.sum(data));
+
+		scanner.close();
 		out.close();
 	}
 

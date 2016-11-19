@@ -16,16 +16,16 @@
     82A	                   Double Cola                    implementation, math	                   Done it.     2015  Aug.       Done.
     96A	                   Football                       implementation, strings	               Not needed.  2015  July.      Done.
 
-   110A	   	   	   	       Nearly Lucky Number            implementation                          Done it.     2015  Aug.        Done.
+   110A	   	   	   	       Nearly Lucky Number            implementation                           Done it.     2015  Aug.        Done.
    112A	   	   	   	       Petya and Strings              implementation, strings	               Done it.     2015  Aug.       Done.
    116A	   	   	   	       Tram                           implementation                     	   Done it.     2015  Jan.       Done.
-   118A	 Beta  89 Div-2    String Task                    implementation, strings	               Done it.     2014  Dec.       Done.
+   118A	 Beta #89 Div-2    String Task                    implementation, strings	               Done it.     2014  Dec.       Done.
+   118B	 Beta #89 Div-2    Present from Lena              constructive algorithms, implementation  Not needed.   2016  Nov.       Done.
    119A	   	   	   	   	   Epic Game                      implementation	                       Done it.     2015  Aug.       Done.
 
    122A	XXX Lucky Division brute force, number theory
 
-   124A	The number of positions math
-
+   124A	 Beta #92 Div-2    The number of positions        math                                     Not needed.  2016  Nov.       Done.
    131A	                   cAPS lOCK                      implementation, strings	               Done it.     2015  Feb.       Done.
    133A	                   HQ9+                           implementation	                       Not needed.  2015  Aug.       Done.
    136A	                   Presents                       implementation	                       Done it.     2015  Aug.       Done.
@@ -48,14 +48,13 @@
    263A		   	           Beautiful Matrix               implementation	                       Not needed.  2015  Aug.       Done.
    266A	 	   	           Stones on the Table            implementation                           Done it.     2015  July.      Done.
    266B		   	           Queue at the School       constructive algorithms, graph matchings	   Done it.     2015  Aug.       Done.
-   268A		   	           Games brute force              brute force 	                           Not needed.  2015  Aug.       Done.
+   268A		   	           Games                          brute force 	                           Not needed.  2015  Aug.       Done.
    268B		   	           Buttons                        implementation, math	                   Done it.     2015  Aug.       Done.
    271A 	   	     	   Beautiful Year                 brute force	                           Not needed.  2015  Aug.       Done.
    281A	  	   	   	       Word Capitalization            strings	                               Not needed.  2015  Aug.       Done.
    282A	 	   	   	       Bit++                          implementation                           Not needed.  2015  Feb.       Done.
 
    318A	  	   	           Even Odds                      math	                                   Not needed.  2015  Aug.       Done.
-
    337A		    	       Puzzles                        dp, graph matchings, greedy	           Done it.     2016  Oct.       Done.
    339A	   	 	           Helpful Maths              greedy, implementation, sortings, strings    Done it.     2015  Aug.       Done.
    339B	  	   	           Xenia And Ringroad             implementation	                       Not needed.  2015  Aug.       Done.
@@ -75,7 +74,6 @@
    459A	 #261 Div 2        Pashmak And Garden             implementation                           Done it.     2016  Oct.       Done.
    459B	 #261 Div 2        Pashmak And Flowers            implementation, sortings                 Not needed.  2016  Oct.       Done.
    460A	 	   	           Vasya And Socks                brute force, implementation	           Done it.     2015  Aug.       Done.
-
    461A	 #263 Div-1        Appleman And Toastman          greedy, sortings                         Not needed.  2016  Nov.       Done.
 
    466A	 	   	           Cheap Travel                   implementation	                   	   Done it.     2015  Aug.       Done.
@@ -112,7 +110,6 @@
    551A	  #307 Div-2       GukiZ And Contest              implementation, sortings                 Not needed.  2016  Oct.       Done.
    556A	 	   	           Case Of The Zeros And Ones     greedy                                   Not needed.  2016  Oct.       Done.
    560A	  #313 Div-22      Currency System in Geraldion   geometry, implementation, sortings       Not needed.  2016  Oct.       Done.
-
    567A	 	   	           Lineland Mail                  implementation	                       Done it.     2016  Oct.       Done.
    570A	 	   	           Elections                      implementation	                       Not needed.  2016  Oct.       Done.
    574A	  #318 Div-2       Bear and Elections             data structures, implementation          Done it.     2015  Aug.       No editorial.  Competition
@@ -128,6 +125,7 @@
    599A	 	   	           Patrick And Shopping           implementation                           Not needed.  2016  Oct.       Done.
    608A	  #336 Div-2	   Saitama Destroys Hotel         implementation, math	                   Yes          2015  Dec        Done.
    611A	  Good Bye 2015    New Year and Days              implementation                           Not needed.  2016  Oct.       Done.
+   615A	  #338 Div-2       Bulbs                          implementation                           Not needed.  2016  Nov.       Done.
    617A 	               Elephant                       math, greedy                             Not needed.  2016  Oct.       Done.
    621A   #341 Div-2       Wet Shark and Odd and Even     implementation                           Not needed.  2016  Oct.       Done.
 

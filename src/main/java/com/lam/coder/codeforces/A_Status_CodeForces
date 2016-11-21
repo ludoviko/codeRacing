@@ -40,11 +40,14 @@
 
    200B	   	   	    	          Drinks                         implementation, math	                   Not needed.  2016  Oct.       Done.
    208A	   	   	   	              Dubstep                        strings	                               Not needed.  2015  Aug.       Done.
-   228A	   	   	                  Is Your Horseshoe On The Other Hoof ? implementation	                   Not needed.  2015  Aug.       Done.
-   230A	    	   	   	          Dragons                        greedy, sortings	                       Not needed.  2015  Aug.       Done.
+   228A	   	   	          Is Your Horseshoe On The Other Hoof ?  implementation	                           Not needed.  2015  Aug.       Done.
+   230A	 #142 Div-2  		      Dragons                        greedy, sortings	                       Not needed.  2015  Aug.       Done.
+
+   XXX 230B	 #142 Div-2               T-primes                       implementation, math, number theory
+
    231A	   	   	   	              Team                           brute force, greedy                       Not needed.  2015  Jan.       Done.
    236A	 	   	   	              Boy or Girl                    implementation	                           Not needed.  2015  Aug.       Done.
-   237A		   	                  Free Cash implementation	      implementation	                       Not needed.  2015  Aug.       Done.
+   237A		   	                  Free Cash implementation	     implementation	                           Not needed.  2015  Aug.       Done.
    263A		   	                  Beautiful Matrix               implementation	                           Not needed.  2015  Aug.       Done.
    266A	 	   	                  Stones on the Table            implementation                            Done it.     2015  July.      Done.
    266B		   	                  Queue at the School       constructive algorithms, graph matchings	   Done it.     2015  Aug.       Done.
@@ -67,6 +70,9 @@
    427A	 	   	                  Police Recruits                implementation	                           Not needed.  2015  Aug.       Done.
    432A	   	   	                  Choosing Teams                 greedy, implementation, sortings          Not needed.  2016  Oct.       Done.
    439A	 	   	                  Devu, The Singer and Churu, The Joker   greedy, implementation	       Not needed.  2016  Oct.       Done.
+
+   441A  #252 Div-2	              Valera and Antique Items       implementation
+
    443A	 	   	   	              Anton And Letters              constructive algorithms, implementation   Not needed.  2015  Aug.       Done.
    448A	 	   	                  Rewards                        implementation	                           Not needed.  2015  Aug.       Done.
    451A	  	   	                  Game With Sticks               implementation                            Done it.     2015  Aug.       Done.
@@ -92,7 +98,7 @@
    492A	 	   	                  Vanya And Cubes                implementation	                           Not needed.  2015  Aug.       Done.
    499A	 	   	                  Watching a movie              implementation	 	                       Done it.     2014  Dec.       Done.
 
-   500A	 Good Bye 2014            New Year Transportation    dfs and similar, graphs, implementation       Done it.     2014  Dec.		 Done. Competition.
+   500A	 Good Bye 2014            New Year Transportation    dfs and similar, graphs, implementation       Done it.     2014  Dec.		 Done. Contest.
    507A  #287 Div-2	              Amr and Music                  greedy, implementation, sortings          Not needed.  2016  Oct.       Done.
    509A	 	   	                  Maximum In Table               brute force, implementation	           Not needed.  2015  Aug.       Done.
    510A		   	                  Fox And Snake                  implementation	                           Not needed.  2015  Aug.       Done.
@@ -112,7 +118,7 @@
    560A	  #313 Div-22             Currency System in Geraldion   geometry, implementation, sortings        Not needed.  2016  Oct.       Done.
    567A	 	   	                  Lineland Mail                  implementation	                           Done it.     2016  Oct.       Done.
    570A	 	   	                  Elections                      implementation	                           Not needed.  2016  Oct.       Done.
-   574A	  #318 Div-2              Bear and Elections             data structures, implementation           Done it.     2015  Aug.       No editorial.  Competition
+   574A	  #318 Div-2              Bear and Elections             data structures, implementation           Done it.     2015  Aug.       No editorial.  Contest.
 
    577A	 	   	                  Multiplication Table           implementation, number theory           ....KATA....
 
@@ -136,18 +142,18 @@
    701A	  #364 Div-2              Cards                          greedy                                    Not needed.  2016  Oct.       Done.
    703A	  #365 Div-2              Mishka And Game                implementation                            Not needed.  2016  Oct.        Done.
    705A      	                  Hulk                           implementation                            Not needed.  2016  Oct.        Done.
-   707A	 	   	                  Brain's Photos                 implementation	                           Not needed.  2016  Oct.       Done.
-   709A   AIM Tech Round 3        Div2     Juicer                implementation                            Not needed.  2016  Aug        Done. Competition.
+   707A	 	   	                  Brain's Photos                 implementation	                           Not needed.  2016  Oct.        Done.
+   709A   AIM Tech Round 3        Div2     Juicer                implementation                            Not needed.  2016  Aug         Done. Contest.
    711A	  	   	                  Bus To Udayland                brute force, implementation               Not needed.  2016  Oct.        Done.
    716A	  #372 Div-2              Crazy Computer                 implementation                            Not needed.  2016  Oct.        Done.
    721A   #374 Div-2	          One-dimensional Japanese Crossword implementation                        Not needed.  2016  Oct.        Done.
    723A	  #375 Div-2              The New Year: Meeting Friends  sortings                                  Not needed.  2016  Oct.        Done.
    732A	  #377 Div-2              Buy a Shovel              brute force, constructive algorithms, math     Yes.         2016  Nov.        Done.
 
-   727A  Technocup 2017 R-1 Div2  TransformationFromAToB         dfs                               XNo        2016  Oct.        No editorial. Competion.
+   727A  Technocup 2017 R-1 Div2  TransformationFromAToB         dfs                               XNo        2016  Oct.        No editorial. Contest.
+   738A  #380 Div-2               Interview with Oleg            implementation, string                    Not needed   2016  Nov.        Done.  Contest.
 
-... Missing...
-   
+
 
    Code   Contest                   Name                            Method                                              Points         Tested       Date
 
@@ -158,8 +164,8 @@
    658B   VK Cup 2016 Div2 R-1      Bear and Displayed Friends      implementation                                      640 / 1000     X No         2016  Mar
    709A   AIM Tech Round 3 Div2     Juicer                          implementation                                      470 /  500     Not needed.  2016  Aug
    727A   Technocup 2017 R-1 Div2   TransformationFromAToB          dfs                                                 704 / 1000     X No         2016  Oct.
+   738A   #380 Div-2                Interview with Oleg             implementation, string                              468 /  500     Not needed   2016  Nov.
 
    14675	Espartacus	104
 
 
-Куплю лопату

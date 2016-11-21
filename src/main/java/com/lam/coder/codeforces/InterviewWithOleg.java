@@ -11,7 +11,7 @@ import java.io.PrintStream;
  *
  * Problem: A. Interview with Oleg.
  *
- * Used at Codeforces: #380.
+ * Used at Codeforces: #380 Div-2.
  *
  */
 

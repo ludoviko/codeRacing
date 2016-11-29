@@ -1,0 +1,11 @@
+  ID  	 Problem                  Method                           State      Tested       Date          Comments
+ 1001    Reverse Root             Arithmetic, lists                Done       Pending      Feb-2016
+ 1068    Sum                      Sum formula                      Done       Pending      Feb-2016      Rewrite and kata.
+ 1025    Democracy in Danger      Simple math                      Done       Pending      Feb-2016
+ 1224    Spiral                   Arithmetic, formula              Done       Not needed   April-2016
+ 1264    Workdays                 Too simple                       Done       Not needed   Feb-2016
+ 1327    Fuses                    Too simple                       Done       Not needed   April-2016
+ 1638    Bookworm                 Problem modeling                 Done       Pending      April-2016
+
+Source:  http://acm.timus.ru/
+

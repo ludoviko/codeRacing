@@ -1,0 +1,18 @@
+   ID  	 Problem                 Section       Method                           State      Tested       Date          Comments
+ 0002    Sum                     Main          Arithmetic.                      Done       Not needed   April-2016
+ 0003    FiveByFive25            Main          Arithmetic.                      Done       Pending      April-2016
+ 0086    QueenPuzzleSimple       Main          Simple math, chess problems.     Done       Pending      April-2016
+ 0294    BoltsAndNuts            Main          Simple math                      Done       Not needed   April-2016
+ 0263    Metro                   Main          Math modulo.                     Done       Not needed   April-2016
+ 0328    DotsOnDominoesPieces    Main          Arithmetic sequence.             Done       Pending      April-2016     Use one formula and not cycles. See http://acm.timus.ru/ forum.
+ 0513    Salads                  Main          Combinatorics.                   Done       Pending      May-2016
+ 0528    Fortress                Main          Arithmetic sequence.             Done       Pending      April-2016
+ 0554    Pizza                   Main          Arithmetic sequence, recursion   Done       Done         April-2016     Formula sum n member can be used.
+ 0685	 GoldenSand	             Main          Greedy.                          Done       Not needed   April-2016
+ 0697	 Repairs	             Main          Simple math.                     Done       Pending      April-2016
+ 1114    MKAD	                 C++ Course    Math modulo.                     Done       Pending      April-2016
+ 1115    DivideApples	         C++ Course    Math modulo.                     Done       Pending      April-2016
+
+
+Source: http://acmp.ru/
+

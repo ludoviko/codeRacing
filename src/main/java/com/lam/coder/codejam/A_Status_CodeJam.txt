@@ -1,5 +1,3 @@
-Source:  https://code.google.com/codejam/contests.html Google Jam
-
 Source  	        Section                Level   Problem                   Method                             State      Tested       Date          Comments
 CJ 2009             Qualification Round        A   Alien Language            String manipulation                Done it    Not needed   Feb-2016
 CJ Africa 2010      Qualification Round        A   Store Credit              Brute force, looping               Done it    Not needed   Feb-2016
@@ -8,3 +6,5 @@ CJ 2008             Round 1A                   A   Minimum Scalar Product    Sim
 CJ 2010             Round 1B                   A   File Fix-it               String manipulation                Done it    Not needed   Feb-2016
 CJ 2010             Round 1C                   A   Rope Intranet             Simple math                        Done it    Not needed   Feb-2016
 
+
+Source:  https://code.google.com/codejam/contests.html Google Jam

@@ -4,6 +4,7 @@ import org.junit.After;
 import org.junit.Assert;
 import org.junit.Before;
 import org.junit.Test;
+import org.hamcrest.CoreMatchers;
 
 import com.lam.coder.rosalind.Main;
 
@@ -22,6 +23,7 @@ public class MainTest {
 
 	@Test
 	public void test() {
+//        Assert.assertThat("Should be the same.", main , CoreMatchers.is("expected"));
 //		Assert.assertEquals(0, this.main);
 //		Assert.assertEquals("", main.);
 //		Assert.assertArrayEquals(new int[] {}, main.);

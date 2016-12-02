@@ -1,5 +1,9 @@
  Name                         Method                                Difficulty         Tested             Date         Comments
+
+ Collatz Conjecture	          Mathematics                                  3.9         Pending          2016-08        XXX Time Limit Exceeded
+ Permutation Encryption       String manipulation                          2.5         Done it.         2016-08        XXX: solution rejected
+
+
  Flexible Space               Simple math                                  1.7         Not needed       2016-07        https://algo.is/t-414-aflv-competitive-programming-course-2016/
  Secret Message               Array manipulation                           1.5         Done it.         2016-08
- Permutation Encryption       String manipulation                          2.5         Done it.         2016-08        XXX: solution rejected
- Collatz Conjecture	          Mathematics                                  3.9         Pending          2016-08        XXX Time Limit Exceeded
+ Symmetric Order              String manipulatio                           1.4         Done it.         2016-08

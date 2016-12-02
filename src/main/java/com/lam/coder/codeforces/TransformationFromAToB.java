@@ -19,7 +19,7 @@ import java.util.List;
 
 public class TransformationFromAToB {
 		public static List<Integer> find(int a, int b) {
-        List<Integer> list = new LinkedList<>();
+        List<Integer> list = new LinkedList<Integer>();
 
         int bx = b;
         list.add(bx);

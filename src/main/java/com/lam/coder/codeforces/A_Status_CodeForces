@@ -94,7 +94,10 @@
    489B	  #277.5 Div-2            BerSU Ball.  dfs and similar, dp, graph matchings, greedy, sortings, two pointers  Not needed.  2016  Oct.       Done.
    490A	 	   	                  Team Olympiad                  greedy, implementation, sortings	       Not needed.  2016  Oct.       Done.
    492A	 	   	                  Vanya And Cubes                implementation	                           Not needed.  2015  Aug.       Done.
-   499A	 	   	                  Watching a movie              implementation	 	                       Done it.     2014  Dec.       Done.
+   499A	  #284 Div-2		      Watching a movie               implementation	 	                       Done it.     2014  Dec.       Done.
+
+   499B	  #284 Div-2              Lecture                        strings
+
 
    500A	 Good Bye 2014            New Year Transportation    dfs and similar, graphs, implementation       Done it.     2014  Dec.		 Done. Contest.
    507A  #287 Div-2	              Amr and Music                  greedy, implementation, sortings          Not needed.  2016  Oct.       Done.
@@ -140,18 +143,21 @@
    701A	  #364 Div-2              Cards                          greedy                                    Not needed.  2016  Oct.       Done.
    703A	  #365 Div-2              Mishka And Game                implementation                            Not needed.  2016  Oct.       Done.
    705A      	                  Hulk                           implementation                            Not needed.  2016  Oct.       Done.
-   706A   #367 Div-2              Beru-taxi	                     brute force, geometry, implementation     Not needed.  2016  Dec.        Done.
-   707A	 	   	                  Brain's Photos                 implementation	                           Not needed.  2016  Oct.        Done.
-   709A   AIM Tech Round 3        Div2     Juicer                implementation                            Not needed.  2016  Aug         Done. Contest.
-   711A	  	   	                  Bus To Udayland                brute force, implementation               Not needed.  2016  Oct.        Done.
-   716A	  #372 Div-2              Crazy Computer                 implementation                            Not needed.  2016  Oct.        Done.
-   719A   #373 Div-2	          Vitya in the Countryside       implementation                            Not needed.  2016  Nov.        Done.
-   721A   #374 Div-2	          One-dimensional Japanese Crossword implementation                        Not needed.  2016  Oct.        Done.
-   723A	  #375 Div-2              The New Year: Meeting Friends  sortings                                  Not needed.  2016  Oct.        Done.
-   732A	  #377 Div-2              Buy a Shovel              brute force, constructive algorithms, math     Yes.         2016  Nov.        Done.
+   706A   #367 Div-2              Beru-taxi	                     brute force, geometry, implementation     Not needed.  2016  Dec.       Done.
+   707A	 	   	                  Brain's Photos                 implementation	                           Not needed.  2016  Oct.       Done.
+   709A   AIM Tech Round 3        Div2     Juicer                implementation                            Not needed.  2016  Aug        Done. Contest.
+   711A	  	   	                  Bus To Udayland                brute force, implementation               Not needed.  2016  Oct.       Done.
+   716A	  #372 Div-2              Crazy Computer                 implementation                            Not needed.  2016  Oct.       Done.
+   719A   #373 Div-2	          Vitya in the Countryside       implementation                            Not needed.  2016  Nov.       Done.
+   721A   #374 Div-2	          One-dimensional Japanese Crossword implementation                        Not needed.  2016  Oct.       Done.
+   723A	  #375 Div-2              The New Year: Meeting Friends  sortings                                  Not needed.  2016  Oct.       Done.
+   732A	  #377 Div-2              Buy a Shovel              brute force, constructive algorithms, math     Yes.         2016  Nov.       Done.
 
-   727A  Technocup 2017 R-1 Div2  TransformationFromAToB         dfs                               XNo        2016  Oct.        No editorial. Contest.
-   738A  #380 Div-2               Interview with Oleg            implementation, string                    Not needed   2016  Nov.        Done.  Contest.
+   727A  Technocup 2017 R-1 Div2  TransformationFromAToB          dfs                               XNo        2016  Oct.        No editorial. Contest.
+
+   733A	 #378 Div-2               Grasshopper And the String     implementation                            Not needed.  2016  Dec.       Done.
+   734A	 #379 Div-2               Anton and Danik                implementation, strings                   Not needed.  2016  Dec.       Done.
+   738A  #380 Div-2               Interview with Oleg            implementation, string                    Not needed   2016  Nov.       Done.  Contest.
 
 
 

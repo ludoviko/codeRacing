@@ -97,8 +97,8 @@
    492A	 	   	                  Vanya And Cubes                implementation	                           Not needed.  2015  Aug.       Done.
    499A	  #284 Div-2		      Watching a movie               implementation	 	                       Yes.         2014  Dec.       Done.
    499B	  #284 Div-2              Lecture                        strings                                   Yes.         2016  Dec.       Done.
-   500A	 Good Bye 2014            New Year Transportation    dfs and similar, graphs, implementation       Yes.         2014  Dec.		 Done. Contest.
-   507A  #287 Div-2	              Amr and Music                  greedy, implementation, sortings          Not needed.  2016  Oct.       Done.
+   500A	  Good Bye 2014           New Year Transportation    dfs and similar, graphs, implementation       Yes.         2014  Dec.		 Done. Contest.
+   507A   #287 Div-2	          Amr and Music                  greedy, implementation, sortings          Not needed.  2016  Oct.       Done.
    509A	 	   	                  Maximum In Table               brute force, implementation	           Not needed.  2015  Aug.       Done.
    510A		   	                  Fox And Snake                  implementation	                           Not needed.  2015  Aug.       Done.
    513A	  	   	   	              Game                           constructive algorithms, math	           Not needed.  2015  Aug.       Done.
@@ -141,7 +141,9 @@
 
    659A  #346 Div.2	              Round House                    implementation, math                      Not needed.  2016  Nov.       Done.
    677A	 	                      Vanya And Fence                implementation	                           Not needed.  2016  Oct.       Done.
+   686A   #359 Div-2	          Free Ice Cream                 constructive algorithms, implementation   Not needed.  2016  Dec.       Done.
    688A   #360 Div-2	          Opponents                      implementation                            Not needed.  2016  Oct.       Done.
+   688B   #360 Div-2	          Lovely Palindromes             constructive algorithms, math             Not needed.  2016  Dec.       Done.
 
    701A	  #364 Div-2              Cards                          greedy                                    Not needed.  2016  Oct.       Done.
    703A	  #365 Div-2              Mishka And Game                implementation                            Not needed.  2016  Oct.       Done.

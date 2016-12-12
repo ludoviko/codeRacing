@@ -10,10 +10,7 @@ import java.io.PrintStream;
  *
  * @author UVA on Line. Solution by L.Azuaje.
  *
- *
- *
- *
- *
+ *  Vol/Cod/Name: .
  *
  */
 

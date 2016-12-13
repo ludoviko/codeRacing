@@ -33,6 +33,7 @@
    144A	                          Arrival Of The General         implementation	                           Yes.         2015  Aug.       Done.
    148A	                          Insomnia Cure       constructive algorithms, implementation, math	       Yes.         2015  Aug.       Done.
    149A	   	   	    	          Business Trip                  greedy, implementation, sortings          Not needed.  2016  Oct.       Not needed.
+   151A	 #107 Div-2               Soft Drinking                  implementation                            Not needed.  2016  Dec.       Done.
    155A	   	   	   	              I_love_\%username\%            brute force	                           Not needed.  2015  Aug.       Done.
    158A	 VK Cup 2012 R-1          Next Round                     implementation	                           Yes.         2014  Dec.       Done.
    158B		   	                  Taxi                           greedy, implementation                    Yes.         2015  Jan.       Done. Kata. A better algorithm wanted.
@@ -163,6 +164,7 @@
    727A  Technocup 2017 R-1 Div2  TransformationFromAToB          dfs                               XNo        2016  Oct.        No editorial. Contest.
 
    732A	  #377 Div-2              Buy a Shovel              brute force, constructive algorithms, math     Yes.         2016  Nov.       Done.
+   732B	  #377 Div-2              Cormen, The Best Friend Of a Man  dp, greedy                             Not needed.  2016  Dec.       Done.
    733A	  #378 Div-2              Grasshopper And the String     implementation                            Not needed.  2016  Dec.       Done.
    734A	  #379 Div-2              Anton and Danik                implementation, strings                   Not needed.  2016  Dec.       Done.
    734B	  #379 Div-2              Anton and Digits               implementation, math                      Not needed.  2016  Dec.       Done.

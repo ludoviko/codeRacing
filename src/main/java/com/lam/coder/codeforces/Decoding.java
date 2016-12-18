@@ -19,8 +19,8 @@ public class Decoding {
 	public static String decode(String string) {
 	    String decode = "";
 
-	    int middle = -1;
         char[] data = null;
+        int middle = -1;
 
 	    if (string.length() < 3) {
 	        return string;

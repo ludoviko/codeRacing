@@ -20,7 +20,7 @@ public class CopyIntoMain {
 
 		Scanner sc = new Scanner(System.in);
 
-		String name  = sc.nextLine().replace(" " , ""); 
+		String name  = sc.nextLine().replace(" " , "");
 
 		Scanner s = null;
 		StringBuilder output = new StringBuilder();

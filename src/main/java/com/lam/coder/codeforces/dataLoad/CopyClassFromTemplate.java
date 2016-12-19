@@ -20,6 +20,7 @@ public class CopyClassFromTemplate {
 		Scanner sc = new Scanner(System.in);
 
 		String name = toFirstUpperCase( sc.nextLine()).replace(" ", "");
+        name = name.replace("'", "");
 
 		Scanner s = null;
 		StringBuilder output = new StringBuilder();

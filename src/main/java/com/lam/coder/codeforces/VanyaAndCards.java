@@ -20,7 +20,6 @@ public class VanyaAndCards {
 		MyScanner scanner = new MyScanner();
 		PrintStream out = System.out;
 
-		VanyaAndCards main = new VanyaAndCards();
         int[] data = scanner.nextIntArray();
         int[] data2 = scanner.nextIntArray();
         int[] sumArray = new int[data2.length];

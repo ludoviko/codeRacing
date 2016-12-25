@@ -108,7 +108,9 @@
    492A	 	   	                  Vanya And Cubes                implementation	                           Not needed.  2015  Aug.       Done.
    499A	  #284 Div-2		      Watching a movie               implementation	 	                       Yes.         2014  Dec.       Done.
    499B	  #284 Div-2              Lecture                        strings                                   Yes.         2016  Dec.       Done.
+
    500A	  Good Bye 2014           New Year Transportation    dfs and similar, graphs, implementation       Yes.         2014  Dec.		 Done. Contest.
+   501A	  #285 Div-2              Contest                        implementation                            Not needed.  2016 Dec.        Done.
    507A   #287 Div-2	          Amr and Music                  greedy, implementation, sortings          Not needed.  2016  Oct.       Done.
    509A	 	   	                  Maximum In Table               brute force, implementation	           Not needed.  2015  Aug.       Done.
    510A		   	                  Fox And Snake                  implementation	                           Not needed.  2015  Aug.       Done.
@@ -121,7 +123,9 @@
    519B		   	                  A And B And Compilation Errors data structures, implementation         Kata....
 
    520A	 	   	                  Pangram                        implementation, strings	               Yes.         2015  Aug.       Done.
+   535A   #299 Div-2	          Tavas and Nafas                implementation                            Not needed.  2016  Dec.       Done.
    540A	 	   	                  Combination Lock               implementation	                           Not needed.  2015  Aug.       Done.
+   545A   #303 Div-2	          Toy Cars                       implementation                            Not needed.  2016  Dec.        Done.
    546A	  #304 Div-2              Soldier And Bananas            implementation, math	                   Not needed.  2015  Aug.       Done.
    546B	  #304 Div-2              Soldier and Badges       brute force, greedy, implementation, sortings   Not needed.  2016  Dec.       Done.
    550A	  #306 Div-2              Two Substrings                 brute force, dp, implementation, strings  Yes          2016  Dec        Done.
@@ -144,19 +148,22 @@
    584A	 	   	                  Olesya And Rodion              math	                                   Not needed.  2016  Oct.       Done.
    588A	 	   	                  Duff And Meat                  greedy	 	                               Not needed.  2016  Oct.       Done.
    591A   #327 Div-2	          Wizards' Duel                  math                                      Not needed.  2016  Dec.       Done.
+   598A	  Educational CF #1       Tricky Sum                     math                                      Not needed.  2016  Dec.       Done.
    599A	 	   	                  Patrick And Shopping           implementation                            Not needed.  2016  Oct.       Done.
    608A	  #336 Div-2	          Saitama Destroys Hotel         implementation, math	                   Yes.         2015  Dec        Done.
    611A	  Good Bye 2015           New Year and Days              implementation                            Not needed.  2016  Oct.       Done.
    615A	  #338 Div-2              Bulbs                          implementation                            Not needed.  2016  Nov.       Done.
    617A 	                      Elephant                       math, greedy                              Not needed.  2016  Oct.       Done.
    621A   #341 Div-2              Wet Shark and Odd and Even     implementation                            Not needed.  2016  Oct.       Done.
-
+   630A   VolBIT Formulas Blitz	  Again Twenty Five!             number theory                             Not needed.  2016  Dec.       Done.
    658B  VK Cup 2016 Div2 R-1     Bear and Displayed Friends     implementation                           X No        2016  Mar          Done.
 
    659A   #346 Div.2	          Round House                    implementation, math                      Not needed.  2016  Nov.       Done.
    675A	  #353 Div-2              Infinite Sequence              math                                      Not needed.  2016  Dec.       Done.
    676A   #354 Div-2 	          Nicholas and Permutation       implementation                            Not needed.  2016  Dec.       No editorial.
    677A	 	                      Vanya And Fence                implementation	                           Not needed.  2016  Oct.       Done.
+   680A   #356 Div-2	          Bear and Five Cards            constructive algorithms, implementation   Not needed.  2016  Dec.       Done.
+   681A   #357 Div-2	          A Good Contest                 implementation                            Not needed.  2016  Dec.       Done.
    686A   #359 Div-2	          Free Ice Cream                 constructive algorithms, implementation   Not needed.  2016  Dec.       Done.
    688A   #360 Div-2	          Opponents                      implementation                            Not needed.  2016  Oct.       Done.
    688B   #360 Div-2	          Lovely Palindromes             constructive algorithms, math             Not needed.  2016  Dec.       Done.
@@ -179,6 +186,7 @@
 
    727A  Technocup 2017 R-1 Div2  TransformationFromAToB          dfs                               XNo        2016  Oct.        No editorial. Contest.
 
+   731A	  #376 Div-2              Night at the Museum            implementation, strings                   Not needed.  2016  Dec.       Done.
    732A	  #377 Div-2              Buy a Shovel              brute force, constructive algorithms, math     Yes.         2016  Nov.       Done.
    732B	  #377 Div-2              Cormen, The Best Friend Of a Man  dp, greedy                             Not needed.  2016  Dec.       Done.
    733A	  #378 Div-2              Grasshopper And the String     implementation                            Not needed.  2016  Dec.       Done.

@@ -23,7 +23,7 @@
    118B	 Beta #89 Div-2           Present from Lena              constructive algorithms, implementation   Not needed.   2016  Nov.       Done.
    119A	   	   	   	   	          Epic Game                      implementation	                           Yes.         2015  Aug.       Done.
 
-   122A	XXX                       Lucky Division brute force, number theory
+   122A	XXX                       Lucky Division                 brute force, number theory
 
    124A	 Beta #92 Div-2           The number of positions        math                                      Not needed.  2016  Nov.       Done.
    131A	                          cAPS lOCK                      implementation, strings	               Yes.         2015  Feb.       Done.
@@ -57,6 +57,7 @@
    268A		   	                  Games                          brute force 	                           Not needed.  2015  Aug.       Done.
    268B		   	                  Buttons                        implementation, math	                   Yes.         2015  Aug.       Done.
    271A 	   	     	          Beautiful Year                 brute force	                           Not needed.  2015  Aug.       Done.
+   276A	 #169 Div-2               Lunch Rush                     implementation                            Not needed.  2016  Dec.       Done.
    281A	  	   	   	              Word Capitalization            strings	                               Not needed.  2015  Aug.       Done.
    282A	 	   	   	              Bit++                          implementation                            Not needed.  2015  Feb.       Done.
 
@@ -71,7 +72,7 @@
    353A  #205 Div-2               Domino                         implementaion, math                       Not needed.  2016  Oct.       Done.
    378A	 #222 Div-2               Playing with Dice              brute force                               Not needed.  2016  Dec.       Done.
    379A	 	   	                  New Year Candles               implementation                            Yes.         2015  Aug.       Done.
-
+   385A  #226 Div-2	              Bear and Raspberry             brute force, greedy, implementation       Not needed.  2016  Dec.       Done.
 
    401A  #235 Div-2	              Vanya and Cards                implementation, math                      Not needed.  2016  Dec.       Done.
    405A	 	   	                  Gravity Flip                   greedy, implementation, sortings	       Not needed.  2015  Aug.       Done.
@@ -148,6 +149,7 @@
    584A	 	   	                  Olesya And Rodion              math	                                   Not needed.  2016  Oct.       Done.
    588A	 	   	                  Duff And Meat                  greedy	 	                               Not needed.  2016  Oct.       Done.
    591A   #327 Div-2	          Wizards' Duel                  math                                      Not needed.  2016  Dec.       Done.
+   595A   #330 Div-2 	          Vitaly and Night               implementation                            Not needed.  2016  Dec.       Done.
    598A	  Educational CF #1       Tricky Sum                     math                                      Not needed.  2016  Dec.       Done.
    599A	 	   	                  Patrick And Shopping           implementation                            Not needed.  2016  Oct.       Done.
    608A	  #336 Div-2	          Saitama Destroys Hotel         implementation, math	                   Yes.         2015  Dec        Done.
@@ -156,9 +158,10 @@
    617A 	                      Elephant                       math, greedy                              Not needed.  2016  Oct.       Done.
    621A   #341 Div-2              Wet Shark and Odd and Even     implementation                            Not needed.  2016  Oct.       Done.
    630A   VolBIT Formulas Blitz	  Again Twenty Five!             number theory                             Not needed.  2016  Dec.       Done.
-   658B  VK Cup 2016 Div2 R-1     Bear and Displayed Friends     implementation                           X No        2016  Mar          Done.
+   658B   VK Cup 2016 Div2 R-1    Bear and Displayed Friends     implementation                           X No        2016  Mar          Done.
 
    659A   #346 Div.2	          Round House                    implementation, math                      Not needed.  2016  Nov.       Done.
+   672A	  #352 Div-2              Summer Camp                    implementation, brute force               Not needed.  2016  Dec.       Done.
    675A	  #353 Div-2              Infinite Sequence              math                                      Not needed.  2016  Dec.       Done.
    676A   #354 Div-2 	          Nicholas and Permutation       implementation                            Not needed.  2016  Dec.       No editorial.
    677A	 	                      Vanya And Fence                implementation	                           Not needed.  2016  Oct.       Done.

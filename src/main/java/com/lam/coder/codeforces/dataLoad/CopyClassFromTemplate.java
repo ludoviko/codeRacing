@@ -21,6 +21,7 @@ public class CopyClassFromTemplate {
 
 		String name = toFirstUpperCase( sc.nextLine()).replace(" ", "");
         name = name.replace("'", "");
+        name = name.replace("-", "");
 
 		Scanner s = null;
 		StringBuilder output = new StringBuilder();

@@ -7,6 +7,9 @@
     25A	                          IQ Test                        brute force                               Not needed.  2015  Aug.       Done.
     37A	  Beta  37                Towers                         sortings                                  Not needed.  2016  Oct.       Done.
     41A	                          Translation                    implementation, strings	               Not needed.  2015  Aug.       Done.
+
+    43A   Beta #42 Div-2          Football                       string manipulation, counting             Not needed.  2017  Jan.       Done.
+
     50A	                          Domino piling                  greedy, math                        	   Yes.         2015  Jan.       Done.
     58A  	                      Chat room                      greedy, strings                           Yes.         2015  Aug.        Done.
     59A	                          Word                           implementation, strings	               Not needed.  2015  Sept.      Done.
@@ -56,6 +59,10 @@
    266B		   	                  Queue at the School       constructive algorithms, graph matchings	   Yes.         2015  Aug.       Done.
    268A		   	                  Games                          brute force 	                           Not needed.  2015  Aug.       Done.
    268B		   	                  Buttons                        implementation, math	                   Yes.         2015  Aug.       Done.
+
+   270A  #165 Div-2	   	     	  Fancy Fence
+
+
    271A 	   	     	          Beautiful Year                 brute force	                           Not needed.  2015  Aug.       Done.
    276A	 #169 Div-2               Lunch Rush                     implementation                            Not needed.  2016  Dec.       Done.
    281A	  	   	   	              Word Capitalization            strings	                               Not needed.  2015  Aug.       Done.
@@ -63,6 +70,7 @@
 
    313B	 #186 Div-2               Ilya and Queries               dp, implementation                        Not needed.  2016  Dec.       Done.
    318A	  	   	                  Even Odds                      math	                                   Not needed.  2015  Aug.       Done.
+   320A  #189 Div-2 	          Magic Numbers                  brute force, greedy, regular expression   Not needed.  2017  Jan.       Done.
    330A	 #192 Div-2               Cakeminator                    brute force, implementation               Not needed.  2016  Dec.       Done.
    334A  #194 Div-2	              Candy Bags                     implementation                            Not needed.  2017  Jan.       Done.
    337A		    	              Puzzles                        dp, graph matchings, greedy	           Yes.         2016  Oct.       Done.
@@ -115,7 +123,11 @@
 
    500A	  Good Bye 2014           New Year Transportation    dfs and similar, graphs, implementation       Yes.         2014  Dec.		 Done. Contest.
    501A	  #285 Div-2              Contest                        implementation                            Not needed.  2016 Dec.        Done.
+
    507A   #287 Div-2	          Amr and Music                  greedy, implementation, sortings          Not needed.  2016  Oct.       Done.
+
+
+
    509A	 	   	                  Maximum In Table               brute force, implementation	           Not needed.  2015  Aug.       Done.
    510A		   	                  Fox And Snake                  implementation	                           Not needed.  2015  Aug.       Done.
    513A	  	   	   	              Game                           constructive algorithms, math	           Not needed.  2015  Aug.       Done.
@@ -127,15 +139,17 @@
    519B		   	                  A And B And Compilation Errors data structures, implementation         Kata....
 
    520A	 	   	                  Pangram                        implementation, strings	               Yes.         2015  Aug.       Done.
+   534A   #298 DIv-2	          Exam                           constructive algorithms, implementation   Not needed.  2017  Jan.       Done
    535A   #299 Div-2	          Tavas and Nafas                implementation                            Not needed.  2016  Dec.       Done.
    540A	 	   	                  Combination Lock               implementation	                           Not needed.  2015  Aug.       Done.
-   545A   #303 Div-2	          Toy Cars                       implementation                            Not needed.  2016  Dec.        Done.
+   545A   #303 Div-2	          Toy Cars                       implementation                            Not needed.  2016  Dec.       Done.
    546A	  #304 Div-2              Soldier And Bananas            implementation, math	                   Not needed.  2015  Aug.       Done.
    546B	  #304 Div-2              Soldier and Badges       brute force, greedy, implementation, sortings   Not needed.  2016  Dec.       Done.
    550A	  #306 Div-2              Two Substrings                 brute force, dp, implementation, strings  Yes          2016  Dec        Done.
    551A	  #307 Div-2              GukiZ And Contest              implementation, sortings                  Not needed.  2016  Oct.       Done.
    552A   #308 Div-2              Vanya and Table                implementation, math                      Not needed.  2016  Dec.       Done.
    552B	  #308 Div-2              Vanya and Books                implementation, math, recursion           Not needed.  2016  Dec.       Done.
+   554A   #309 Div-2	          Kyoya and Photobooks           brute force, math                         Not needed.  2017  Jan.       Done.
    556A	 	   	                  Case Of The Zeros And Ones     greedy                                    Not needed.  2016  Oct.       Done.
    560A	  #313 Div-22             Currency System in Geraldion   geometry, implementation, sortings        Not needed.  2016  Oct.       Done.
    567A	 	   	                  Lineland Mail                  implementation	                           Yes.         2016  Oct.       Done.
@@ -189,6 +203,7 @@
    707A	 	   	                  Brain's Photos                 implementation	                           Not needed.  2016  Oct.       Done.
    709A   AIM Tech Round 3        Div2     Juicer                implementation                            Not needed.  2016  Aug        Done. Contest.
    711A	  	   	                  Bus To Udayland                brute force, implementation               Not needed.  2016  Oct.       Done.
+   712A	  #370 Div-2              Memory and Crow                implementation                            Not needed.  2017  Jan.       Done.
    716A	  #372 Div-2              Crazy Computer                 implementation                            Not needed.  2016  Oct.       Done.
    719A   #373 Div-2	          Vitya in the Countryside       implementation                            Not needed.  2016  Nov.       Done.
    721A   #374 Div-2	          One-dimensional Japanese Crossword implementation                        Not needed.  2016  Oct.       Done.
@@ -200,6 +215,7 @@
    732A	  #377 Div-2              Buy a Shovel              brute force, constructive algorithms, math     Yes.         2016  Nov.       Done.
    732B	  #377 Div-2              Cormen, The Best Friend Of a Man  dp, greedy                             Not needed.  2016  Dec.       Done.
    733A	  #378 Div-2              Grasshopper And the String     implementation                            Not needed.  2016  Dec.       Done.
+   733B	  #378 Div-2              Parade                         math                                      Not needed.  2017  Jan.       Done.
    734A	  #379 Div-2              Anton and Danik                implementation, strings                   Not needed.  2016  Dec.       Done.
    734B	  #379 Div-2              Anton and Digits               implementation, math                      Not needed.  2016  Dec.       Done.
    738A   #380 Div-2              Interview with Oleg            implementation, string                    Not needed   2016  Nov.       Done.  Contest.
@@ -208,7 +224,7 @@
    746A   #386 Div-2              Compot                         String manipulation                       Not needed   2016  Dec.       Done.  Contest.
    746B   #386 Div-2              Decoding                       Simple math                               Not needed   2016  Dec.       Done.  Contest.
    750A   Good Bye 2016           New Year And Hurry             Simple math, sequences                    Not needed   2016  Dec.       Not any.  Contest.
-   750A   Good Bye 2016           New Year And North Pole        Implementation                            Not needed   2016  Dec.       Not any.  Contest.
+   750B   Good Bye 2016           New Year And North Pole        Implementation                            Not needed   2016  Dec.       Not any.  Contest.
    754B   #390 Div-2	          Ilya and tic-tac-toe game      brute force, implementation               Not needed   2017  Jan.       Not any.  Contest.
 
    Code   Contest                   Name                            Method                                              Points         Tested       Date
@@ -225,5 +241,5 @@
    746A   #386 Div-2                Compot                          String manipulation                                 464 /  500     Not needed   2016  Dec.
    746B   #386 Div-2                Decoding                        Simple math                                         664 / 1000     Not needed   2016  Dec.
    750A   Good Bye 2016             New Year And Hurry              Simple math, sequences                              244 /  500     Not needed   2016  Dec.
-   750A   Good Bye 2016             New Year And North Pole         Implementation                                      594 /  750     Not needed   2016  Dec.
+   750B   Good Bye 2016             New Year And North Pole         Implementation                                      594 /  750     Not needed   2016  Dec.
    754B   #390 Div-2	            Ilya and tic-tac-toe game       brute force, implementation                         700 / 1000     Not needed   2017  Jan.

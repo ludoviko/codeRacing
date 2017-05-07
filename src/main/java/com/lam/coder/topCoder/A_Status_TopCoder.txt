@@ -296,6 +296,13 @@ WinterAndMandarins     SRM 601 	      12.22.2013 	 Brute Force, Greedy 			      
 TypoCoderDiv2          SRM 602 	      12.28.2013 	 Simulation 			              II.1 	     Done it. Value:  250   Mar 2014. System Test: Passed. Editorial Review: Done.
 FoxAndWord 	           SRM 604 	      01.11.2014     Simple Search, Iteration             II.1       Done it. Value:  250   Mar 2014. System Test: Passed. Editorial Review: Done.
 MagicalStringDiv1      SRM 609 	      02.15.2014 	 Greedy, Simple Search, Iteration 	  II.1 	     Done it. Value:  250   Mar 2014. System Test: Passed. Editorial Review: Done.
+
+TaroString	           SRM 613	       03.21.2014	 String Manipulation			      II.1       Done it. Value:  250   May 2017. System Test: Passed. Editorial Review: Done.
+
+	TaroCards	SRM 613	03.21.2014	Witaliy	Dynamic Programming			3	40.43%	details
+	TaroCheckers	SRM 613	03.21.2014	Witaliy	Brute Force, Math	3	75.00%			details
+	TaroFriends	SRM 613	03.21.2014	Witaliy	Brute Force	1	76.55%	2	22.55%	details
+
 MicroStrings           SRM 614 	      03.29.2014 	 Brute Force, Simulation 			  II.1 	     Done it. Value:  250   Mar 2014. System Test: Passed. Editorial Review: Done.
 AmebaDiv2 	           SRM 615 	      04.04.2014 	 Simulation                           II.1 	     Done it. Value:  250   Apr 2014. System Test: Passed. Editorial Review: Done.
 WakingUpEasy           SRM 616 	      04.10.2014 	 Simulation 		                  II.1       Done it. Value:  250   Apr 2014. System Test: Passed. Editorial Review: Done.

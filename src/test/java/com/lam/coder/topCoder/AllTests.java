@@ -189,6 +189,7 @@ import org.junit.runners.Suite.SuiteClasses;
         SyntaxTest.class,
         // T
 //	TallPeopleTest.class,
+        TaroStringTest.class,
         TeamsSelectionTest.class,
         TheAirTripDivTwoTest.class,
         TheKingsArmyDiv2Test.class,

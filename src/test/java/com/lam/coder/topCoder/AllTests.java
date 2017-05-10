@@ -162,6 +162,7 @@ import org.junit.runners.Suite.SuiteClasses;
         // R
         RaceTest.class,
         RaiseThisBarnTest.class,
+        RangeEncodingTest.class,
         RectangleCoveringEasyTest.class,
         RegularSeasonTest.class,
         RochamboTest.class,

@@ -7,9 +7,14 @@
     25A	                          IQ Test                        brute force                               Not needed.  2015  Aug.       Done.
     37A	  Beta  37                Towers                         sortings                                  Not needed.  2016  Oct.       Done.
     41A	                          Translation                    implementation, strings	               Not needed.  2015  Aug.       Done.
-
     43A   Beta #42 Div-2          Football                       string manipulation, counting             Not needed.  2017  Mar.       Done.
     43B   Beta #42 Div-2          Letter                         string manipulation                       Not needed.  2017  Mar.       Done.
+    43C   Beta #42 Div-2          Lucky Tickets                  simple math                               Not needed.  2017  Mar.       Done.
+
+Journey
+
+
+Teixido, Salvador" <SalvadorTeixido@pagepersonnel.es
 
     50A	                          Domino piling                  greedy, math                        	   Yes.         2015  Jan.       Done.
     58A  	                      Chat room                      greedy, strings                           Yes.         2015  Aug.        Done.
@@ -196,11 +201,8 @@
    701A	  #364 Div-2              Cards                          greedy                                    Not needed.  2016  Oct.       Done.
    703A	  #365 Div-2              Mishka And Game                implementation                            Not needed.  2016  Oct.       Done.
    705A      	                  Hulk                           implementation                            Not needed.  2016  Oct.       Done.
-
    706A   #367 Div-2              Beru-taxi	                     brute force, geometry, implementation     Not needed.  2016  Dec.       Done.
-
-   X 706B	  #367 Div-2              Interesting drink              binary search, implementation
-
+   706B	  #367 Div-2              Interesting drink              binary search, implementation, memory     Not needed.  2017  May.       Done.
    707A	 	   	                  Brain's Photos                 implementation	                           Not needed.  2016  Oct.       Done.
    709A   AIM Tech Round 3        Div2     Juicer                implementation                            Not needed.  2016  Aug        Done. Contest.
    711A	  	   	                  Bus To Udayland                brute force, implementation               Not needed.  2016  Oct.       Done.
@@ -224,6 +226,8 @@
    745A   #385 Div-2              Hongcow Learns the Cyclic Shift String manipulation                      Not needed   2016  Dec.       Done.  Contest.
    746A   #386 Div-2              Compot                         String manipulation                       Not needed   2016  Dec.       Done.  Contest.
    746B   #386 Div-2              Decoding                       Simple math                               Not needed   2016  Dec.       Done.  Contest.
+
+
    750A   Good Bye 2016           New Year And Hurry             Simple math, sequences                    Not needed   2016  Dec.       Not any.  Contest.
    750B   Good Bye 2016           New Year And North Pole        Implementation                            Not needed   2016  Dec.       Not any.  Contest.
    754B   #390 Div-2	          Ilya and tic-tac-toe game      brute force, implementation               Not needed   2017  Jan.       Not any.  Contest.

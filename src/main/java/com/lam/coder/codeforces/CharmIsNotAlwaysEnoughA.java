@@ -1,0 +1,131 @@
+package com.lam.coder.codeforces;
+
+import java.io.BufferedReader;
+import java.io.IOException;
+import java.io.InputStreamReader;
+import java.io.PrintStream;
+
+/**
+ * 
+ * @author Code Forces.  Solution by: L.Azuaje.
+ *
+ * Problem: A - Charm Is Not Always Enough.
+ *
+ * Used at Codeforces: Gym from 2017 Bangladesh National High School Programming Contest (
+ * National Round, Senior Group ), NHSPC 2017.
+ *
+ */
+
+public class CharmIsNotAlwaysEnoughA {
+	public static void main(String[] args) throws IOException {
+		MyScanner scanner = new MyScanner();
+		PrintStream out = System.out;
+
+		CharmIsNotAlwaysEnoughA main = new CharmIsNotAlwaysEnoughA();
+		
+		int testCases  = scanner.nextInt();
+        int[] data ;
+        int size;
+        int capacity;
+        int[] bottles;
+        int sum = 0;
+
+        for (int i = 0; i < testCases; i++) {
+            data = scanner.nextIntArray();
+            size = data[0];
+            capacity = data[1];
+            bottles = scanner.nextIntArray();
+
+            for (int j = 0; j < bottles.length; j++) {
+                if ( bottles[j] % capacity != 0) {
+                    sum += capacity - (bottles[j] % capacity);
+                }
+            }
+            out.println(sum);
+            sum = 0;
+        }
+
+
+		scanner.close();
+		out.close();
+	}
+
+	// -----------MyScanner class for faster input----------
+	public static class MyScanner {
+		BufferedReader reader;
+
+		public MyScanner() {
+			this.reader = new BufferedReader(new InputStreamReader(System.in));
+		}
+
+		public void close() throws IOException {
+			this.reader.close();
+		}
+
+		int nextInt() {
+			return Integer.parseInt(this.next());
+		}
+
+		long nextLong() {
+			return Long.parseLong(this.next());
+		}
+
+		double nextDouble() {
+			return Double.parseDouble(this.next());
+		}
+
+		String next() {
+			String str = "";
+			try {
+				str = this.reader.readLine().trim();
+			} catch (IOException e) {
+				e.printStackTrace();
+			}
+			return str;
+		}
+
+		String[] nextStringArray() {
+			String[] str = null;
+			try {
+				str = this.reader.readLine().trim().split(" ");
+			} catch (IOException e) {
+				e.printStackTrace();
+			}
+			return str;
+		}
+
+		int[] nextIntArray() {
+			String[] data  = nextStringArray();
+			int[] a  = new int[data.length];
+
+			for (int i = 0; i < a.length; i++) {
+				a[i] = Integer.parseInt(data[i]);
+			}
+
+			return a;
+		}
+
+		Integer[] nextIntegerArray() {
+			String[] data  = nextStringArray();
+			Integer[] a  = new Integer[data.length];
+
+			for (int i = 0; i < a.length; i++) {
+				a[i] = Integer.parseInt(data[i]);
+			}
+
+			return a;
+		}
+
+		long[] nextLongArray() {
+			String[] data  = nextStringArray();
+			long[] a  = new long[data.length];
+
+			for (int i = 0; i < a.length; i++) {
+				a[i] = Long.parseLong(data[i]);
+			}
+
+			return a;
+		}
+	}
+}
+

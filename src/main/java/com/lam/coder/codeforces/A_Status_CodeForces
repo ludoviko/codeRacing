@@ -11,10 +11,6 @@
     43B   Beta #42 Div-2          Letter                         string manipulation                       Not needed.  2017  Mar.       Done.
     43C   Beta #42 Div-2          Lucky Tickets                  simple math                               Not needed.  2017  Mar.       Done.
 
-Journey
-
-
-Teixido, Salvador" <SalvadorTeixido@pagepersonnel.es
 
     50A	                          Domino piling                  greedy, math                        	   Yes.         2015  Jan.       Done.
     58A  	                      Chat room                      greedy, strings                           Yes.         2015  Aug.        Done.
@@ -187,7 +183,10 @@ Teixido, Salvador" <SalvadorTeixido@pagepersonnel.es
 
    659A   #346 Div.2	          Round House                    implementation, math                      Not needed.  2016  Nov.       Done.
    670A   #350 Div-2	          Holidays                       brute force, constructive algorithms      Not needed.  2017  Jan.       Done.
+
    672A	  #352 Div-2              Summer Camp                    implementation, brute force               Not needed.  2016  Dec.       Done.
+
+
    675A	  #353 Div-2              Infinite Sequence              math                                      Not needed.  2016  Dec.       Done.
    676A   #354 Div-2 	          Nicholas and Permutation       implementation                            Not needed.  2016  Dec.       No editorial.
    677A	 	                      Vanya And Fence                implementation	                           Not needed.  2016  Oct.       Done.
@@ -226,11 +225,14 @@ Teixido, Salvador" <SalvadorTeixido@pagepersonnel.es
    745A   #385 Div-2              Hongcow Learns the Cyclic Shift String manipulation                      Not needed   2016  Dec.       Done.  Contest.
    746A   #386 Div-2              Compot                         String manipulation                       Not needed   2016  Dec.       Done.  Contest.
    746B   #386 Div-2              Decoding                       Simple math                               Not needed   2016  Dec.       Done.  Contest.
-
-
+   748A    Technocup 2017 R-3  Santa Claus and a Place in a Class   Math, implementation                   Not needed   2017  Jue.       Done.  See http://codeforces.com/blog/entry/49311
    750A   Good Bye 2016           New Year And Hurry             Simple math, sequences                    Not needed   2016  Dec.       Not any.  Contest.
    750B   Good Bye 2016           New Year And North Pole        Implementation                            Not needed   2016  Dec.       Not any.  Contest.
    754B   #390 Div-2	          Ilya and tic-tac-toe game      brute force, implementation               Not needed   2017  Jan.       Not any.  Contest.
+
+   Gym    Bangladesh NHSPC 2017   A - Charm Is Not Always Enough  greedy                                   Not needed   2017  May        Done.
+
+
 
    Code   Contest                   Name                            Method                                              Points         Tested       Date
 
@@ -248,3 +250,4 @@ Teixido, Salvador" <SalvadorTeixido@pagepersonnel.es
    750A   Good Bye 2016             New Year And Hurry              Simple math, sequences                              244 /  500     Not needed   2016  Dec.
    750B   Good Bye 2016             New Year And North Pole         Implementation                                      594 /  750     Not needed   2016  Dec.
    754B   #390 Div-2	            Ilya and tic-tac-toe game       brute force, implementation                         700 / 1000     Not needed   2017  Jan.
+

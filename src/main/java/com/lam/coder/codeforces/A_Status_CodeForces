@@ -61,10 +61,7 @@
    266B		   	                  Queue at the School       constructive algorithms, graph matchings	   Yes.         2015  Aug.       Done.
    268A		   	                  Games                          brute force 	                           Not needed.  2015  Aug.       Done.
    268B		   	                  Buttons                        implementation, math	                   Yes.         2015  Aug.       Done.
-
-   270A  #165 Div-2	   	     	  Fancy Fence
-
-
+   270A  #165 Div-2	   	     	  Fancy Fence                    geometry, math                            Not needed.  2017  May.       Done.
    271A 	   	     	          Beautiful Year                 brute force	                           Not needed.  2015  Aug.       Done.
    276A	 #169 Div-2               Lunch Rush                     implementation                            Not needed.  2016  Dec.       Done.
    281A	  	   	   	              Word Capitalization            strings	                               Not needed.  2015  Aug.       Done.
@@ -109,6 +106,9 @@
    469A	 	   	                  I Wanna Be The Guy             greedy, implementation	                   Not needed.  2016  Oct.       Done.
    471A	 	   	                  MUH And Sticks                 implementation	                           Not needed.  2015  Aug.       Cumbersome.
    472A	 	   	                  Design Tutorial: Learn from Math  math, number theory	                   Not needed.  2016  Oct.       Done.
+
+
+
    474A	  #271 Div-2              Keyboard                       implementation	                           Yes.         2015  Aug.       Done.
    474B	  #271 Div-2              Worms                          binary search, implementation             Not needed.  2016  Oct.       Done.
    476A	 	   	                  Dreamoon And Stairs            implementation, math	                   Yes.         2015  Aug.       Done.

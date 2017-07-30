@@ -9,9 +9,8 @@ import java.util.Map;
  * 
  * @author Code Forces.  Solution by: L.Azuaje.
  *
- * Problem: .
+ * Problem: 785A   #392 Div-2              Anton and Polyhedrons.
  *
- * Used at Codeforces: .
  *
  */
 

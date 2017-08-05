@@ -109,5 +109,31 @@ public class Main {
 
 			return a;
 		}
-	}
+
+          float[] nextFloatArray() {
+            String[] data  = nextStringArray();
+            float[] a  = new float[data.length];
+
+            for (int i = 0; i < a.length; i++) {
+                a[i] = Float.parseFloat(data[i]);
+            }
+
+            return a;
+        }
+
+        double[] nextDoubleArray() {
+            String[] data  = nextStringArray();
+            double[] a  = new double[data.length];
+
+            for (int i = 0; i < a.length; i++) {
+                a[i] = Double.parseDouble(data[i]);
+            }
+
+            return a;
+        }
+
+
+    }
+
+
 }

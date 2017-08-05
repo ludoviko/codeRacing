@@ -10,6 +10,7 @@
   74	 Clock Hands                  Trigonometry                              Yes            No              2017-08-05
   85	 Rotation in 2D Space         Math vectors                              Yes            Yes             2017-07-15     Testing and coding done in math lib.
  104	 Triangle Area                Heron's formula                           Yes            No              2017-08-04
+ 105     Convex Polygon Area          Heron's formula                           Yes            No              2017-08-05
  171     Tree Height Measurement      Trigonometry                              Yes            No              2017-08-05
 
 

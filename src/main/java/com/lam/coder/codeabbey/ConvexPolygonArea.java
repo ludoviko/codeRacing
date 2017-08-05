@@ -4,30 +4,61 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.io.PrintStream;
+import java.util.Locale;
 
 /**
  * 
- * @author 
+ * @author : L.Azuaje.
  *
- *
+ * Find the area of a convex polygon using the Heron's formula.
  *
  */
 
-public class Main {
-	
-//	public find() {
-//	}
-	
+public class ConvexPolygonArea {
+    public static double findDistance(int x1, int y1, int x2, int y2) {
+        return Math.sqrt( (x1 - x2)*(x1 - x2) + (y1-y2)*(y1-y2) );
+    }
+
+    public static double findArea(double a, double b, double c) {
+        double k = (a + b + c)/2;
+        return Math.sqrt( k * (k-a) * (k-b) * (k-c));
+    }
+
 	public static void main(String[] args) throws IOException {
 		MyScanner scanner = new MyScanner();
 		PrintStream out = System.out;
 
-		Main main = new Main();
-		
 		int n = scanner.nextInt();
-		String string = scanner.next();
+		int m = 0;
+		double area = 0;
 
-		out.println();
+		// m: number of triangles.
+		if (n > 3) {
+		    m = n - 2;
+        }
+
+        String[] data  = new String[n];
+
+        for (int i = 0; i < n; i++) {
+            data[i] = scanner.next();
+        }
+
+        double a, b, c;
+
+        for (int i = 1; i < n - 1; i++) {
+            a = findDistance(Integer.parseInt(data[0].split(" ")[0]), Integer.parseInt(data[0].split(" ")[1]),
+                    Integer.parseInt(data[i].split(" ")[0]), Integer.parseInt(data[i].split(" ")[1]));
+
+            b = findDistance(Integer.parseInt(data[0].split(" ")[0]), Integer.parseInt(data[0].split(" ")[1]),
+                    Integer.parseInt(data[i+1].split(" ")[0]), Integer.parseInt(data[i+1].split(" ")[1]));
+
+            c = findDistance(Integer.parseInt(data[i].split(" ")[0]), Integer.parseInt(data[i].split(" ")[1]),
+                    Integer.parseInt(data[i+1].split(" ")[0]), Integer.parseInt(data[i+1].split(" ")[1]));
+
+            area += findArea(a, b, c);
+        }
+
+        out.format(Locale.US, "%f ", area);
 
 		scanner.reader.close();
 		out.close();
@@ -133,3 +164,4 @@ public class Main {
         }
     }
 }
+

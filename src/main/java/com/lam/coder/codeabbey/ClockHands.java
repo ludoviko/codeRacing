@@ -1,0 +1,156 @@
+package com.lam.coder.codeabbey;
+
+import java.io.BufferedReader;
+import java.io.IOException;
+import java.io.InputStreamReader;
+import java.io.PrintStream;
+import java.util.Locale;
+
+/**
+ * 
+ * @author L.Azuaje.
+ *
+ * Convert from hours -or analogic clock- to Cartesian Coordinate System .
+ *
+ */
+
+public class ClockHands {
+    public static double CENTER_X = 10;
+    public static double CENTER_Y = 10;
+
+    public static double MODULE_HOUR = 6;
+    public static double MODULE_MINUTE = 9;
+
+    public static double fromHoursToDegrees(double hours ) {
+        double degrees = -30 * hours + 90;
+        degrees = degrees > 0 ? degrees : degrees + 360;
+        return degrees;
+    }
+
+    public static double fromMinuteToDegrees(double minutes ) {
+        double degrees = -6 * minutes + 90;
+        degrees = degrees > 0 ? degrees : degrees + 360;
+        return degrees;
+    }
+
+    public static double getXAxis(double angle, double module ) {
+        return Math.cos(angle *  Math.PI / 180.0) * module;
+    }
+
+    public static double getYAxis(double angle, double module ) {
+        return Math.sin(angle *  Math.PI / 180.0) * module;
+    }
+
+    public static double  convertHourToDecimal(String hour, String minute) {
+        return  Double.parseDouble(hour) + Double.parseDouble(minute) / 60.0;
+    };
+
+	public static void main(String[] args) throws IOException {
+		MyScanner scanner = new MyScanner();
+		PrintStream out = System.out;
+
+		int n = scanner.nextInt();
+		String string = scanner.next();
+		String[] data = string.split(" ");
+		double time;
+        double timeMinutes;
+        double xH;
+        double yH;
+        double xM;
+        double yM;
+
+        for (int i = 0; i < n; i++) {
+            time = convertHourToDecimal(data[i].split(":")[0], data[i].split(":")[1]);
+            xH = getXAxis(fromHoursToDegrees(time), MODULE_HOUR) + CENTER_X;
+            yH = getYAxis(fromHoursToDegrees(time), MODULE_HOUR) + CENTER_Y;
+
+            timeMinutes = Double.parseDouble(data[i].split(":")[1]);
+            xM = getXAxis(fromMinuteToDegrees(timeMinutes), MODULE_MINUTE) + CENTER_X;
+            yM = getYAxis(fromMinuteToDegrees(timeMinutes), MODULE_MINUTE) + CENTER_Y;
+
+            out.format(Locale.US, "%8.8f %8.8f %8.8f %8.8f ", xH, yH, xM, yM);
+        }
+
+		scanner.reader.close();
+		out.close();
+	}
+
+	// -----------MyScanner class for faster input----------
+	public static class MyScanner {
+		BufferedReader reader;
+
+		public MyScanner() {
+			this.reader = new BufferedReader(new InputStreamReader(System.in));
+		}
+
+		public void close() throws IOException {
+			this.reader.close();
+		}
+
+		int nextInt() {
+			return Integer.parseInt(this.next());
+		}
+
+		long nextLong() {
+			return Long.parseLong(this.next());
+		}
+
+		double nextDouble() {
+			return Double.parseDouble(this.next());
+		}
+
+		String next() {
+			String str = "";
+			try {
+				str = this.reader.readLine().trim();
+			} catch (IOException e) {
+				e.printStackTrace();
+			}
+			return str;
+		}
+
+		String[] nextStringArray() {
+			String[] str = null;
+			try {
+				str = this.reader.readLine().trim().split(" ");
+			} catch (IOException e) {
+				e.printStackTrace();
+			}
+			return str;
+		}
+
+		int[] nextIntArray() {
+			String[] data  = nextStringArray();
+			int[] a  = new int[data.length];
+
+			for (int i = 0; i < a.length; i++) {
+				a[i] = Integer.parseInt(data[i]);
+			}
+
+			return a;
+		}
+
+		Integer[] nextIntegerArray() {
+			String[] data  = nextStringArray();
+			Integer[] a  = new Integer[data.length];
+
+			for (int i = 0; i < a.length; i++) {
+				a[i] = Integer.parseInt(data[i]);
+			}
+
+			return a;
+		}
+
+		long[] nextLongArray() {
+			String[] data  = nextStringArray();
+			long[] a  = new long[data.length];
+
+			for (int i = 0; i < a.length; i++) {
+				a[i] = Long.parseLong(data[i]);
+			}
+
+			return a;
+		}
+	}
+}
+

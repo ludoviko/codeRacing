@@ -6,5 +6,7 @@
   37	 Mortgage Calculator          Sum of a geometric progression.           Yes            Yes             2016-09-01
   52     Pythagorean Theorem          Triangle side properties                  Yes            No              2017-08-04
   53     King And Queen               Games, chess, matrix operations.          Yes            Yes             2016-09-01
+  74	 Clock Hands                  Trigonometry                              Yes            No              2017-08-05
   85	 Rotation in 2D Space         Math vectors                              Yes            Yes             2017-07-15     Testing and coding done in math lib.
  104	 Triangle Area                Heron's formula                           Yes            No              2017-08-04
+ 171     Tree Height Measurement      Trigonometry                              Yes            No              2017-08-05

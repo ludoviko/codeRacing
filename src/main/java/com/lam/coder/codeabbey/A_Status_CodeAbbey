@@ -1,11 +1,14 @@
   ID     Name                         Method                                    Accepted       Tested          Date             Comments
-
    1     Sum A + B                    Arithmetic                                Yes            No              2017-08-06
    2     Sum in Loop                  Arithmetic                                Yes            No              2017-08-06
    3     Sums in Loop                 Arithmetic                                Yes            No              2017-08-06
    4     Minimum of Two               Arithmetic                                Yes            No              2017-08-06
    5     Minimum of Three             Arithmetic                                Yes            No              2017-08-06
+   6     Rounding                     Arithmetic                                Yes            No              2017-08-06
+   7     Fahrenheit to Celsius        Arithmetic                                Yes            No              2017-08-06
    9     Triangle                     Triangle side properties                  Yes            No              2017-08-04
+
+  15	 Maximum of array             Arithmetic                                Yes            No              2017-08-04
 
   24     Neumann's Random Generator   Implementation                            Yes            Not needed      2016-09-01
   27     Bubble Sort                  Bubble Sort Algorithm                     Yes            Yes             2016-09-01

@@ -13,26 +13,23 @@ import java.io.PrintStream;
  *
  */
 
-public class Main {
-	
-//	public find() {
-//	}
-	
-	public static void main(String[] args) throws IOException {
-		MyScanner scanner = new MyScanner();
-		PrintStream out = System.out;
+public class MinimumOfTwo {
+    public static void main(String[] args) throws IOException {
+        MyScanner scanner = new MyScanner();
+        PrintStream out = System.out;
 
-		Main main = new Main();
-		
-		int n = scanner.nextInt();
-		String string = scanner.next();
+        int n = scanner.nextInt() ;
+        int[] data;
 
-		out.println();
+        for (int i = 0; i < n; i++) {
+            data = scanner.nextIntArray();
 
-		scanner.reader.close();
-		out.close();
-	}
+            out.format("%d ", Math.min(data[0],data[1]));
+        }
 
+        scanner.reader.close();
+        out.close();
+    }
 	// -----------MyScanner class for faster input----------
 	public static class MyScanner {
 		BufferedReader reader;
@@ -133,3 +130,4 @@ public class Main {
         }
     }
 }
+

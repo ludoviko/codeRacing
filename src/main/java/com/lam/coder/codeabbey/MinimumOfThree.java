@@ -13,21 +13,18 @@ import java.io.PrintStream;
  *
  */
 
-public class Main {
-	
-//	public find() {
-//	}
-	
+public class MinimumOfThree {
 	public static void main(String[] args) throws IOException {
 		MyScanner scanner = new MyScanner();
 		PrintStream out = System.out;
 
-		Main main = new Main();
-		
-		int n = scanner.nextInt();
-		String string = scanner.next();
+        int n = scanner.nextInt() ;
+        int[] data;
 
-		out.println();
+        for (int i = 0; i < n; i++) {
+            data = scanner.nextIntArray();
+            out.format("%d ", Math.min (Math.min(data[0],data[1]), data[2]) );
+        }
 
 		scanner.reader.close();
 		out.close();
@@ -133,3 +130,4 @@ public class Main {
         }
     }
 }
+

@@ -7,27 +7,29 @@ import java.io.PrintStream;
 
 /**
  * 
- * @author L.Azuaje.
+ * @author  L.Azuaje.
  *
  *
  *
  */
 
-public class Main {
-	
-//	public find() {
-//	}
+public class SumInLoop {
 	
 	public static void main(String[] args) throws IOException {
 		MyScanner scanner = new MyScanner();
 		PrintStream out = System.out;
 
-		Main main = new Main();
-		
 		int n = scanner.nextInt();
-		String string = scanner.next();
+		int[] data = scanner.nextIntArray();
 
-		out.println();
+		int i = 0;
+		int sum = 0;
+
+		do {
+		    sum += data[i];
+        } while ( ++i < data.length);
+
+		out.println(sum);
 
 		scanner.reader.close();
 		out.close();
@@ -133,3 +135,4 @@ public class Main {
         }
     }
 }
+

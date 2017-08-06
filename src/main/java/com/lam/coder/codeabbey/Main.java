@@ -14,10 +14,10 @@ import java.io.PrintStream;
  */
 
 public class Main {
-	
+
 //	public find() {
 //	}
-	
+
 	public static void main(String[] args) throws IOException {
 		MyScanner scanner = new MyScanner();
 		PrintStream out = System.out;

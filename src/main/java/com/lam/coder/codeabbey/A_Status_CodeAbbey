@@ -8,12 +8,16 @@
    7     Fahrenheit to Celsius        Arithmetic                                Yes            No              2017-08-06
    9     Triangle                     Triangle side properties                  Yes            No              2017-08-04
 
+  11	 Sum of digits                Arithmetic                                Yes            No              2017-08-07
   15	 Maximum of array             Arithmetic                                Yes            No              2017-08-04
 
+  20     Vowel Count                  String manipulation                       Yes            No              2017-08-07
   24     Neumann's Random Generator   Implementation                            Yes            Not needed      2016-09-01
   27     Bubble Sort                  Bubble Sort Algorithm                     Yes            Yes             2016-09-01
 
   37	 Mortgage Calculator          Sum of a geometric progression.           Yes            Yes             2016-09-01
+
+  41     Median of Three              Arithmetic                                Yes            No              2017-08-07
 
   52     Pythagorean Theorem          Triangle side properties                  Yes            No              2017-08-04
   53     King And Queen               Games, chess, matrix operations.          Yes            Yes             2016-09-01
@@ -22,6 +26,8 @@
   74	 Clock Hands                  Trigonometry                              Yes            No              2017-08-05
 
   85	 Rotation in 2D Space         Math vectors                              Yes            Yes             2017-07-15     Testing and coding done in math lib.
+
+  98     Azimuth at Treasure Island   Trigonometry                              Yes            No              2017-08-07
 
  104	 Triangle Area                Heron's formula                           Yes            No              2017-08-04
  105     Convex Polygon Area          Heron's formula                           Yes            No              2017-08-05

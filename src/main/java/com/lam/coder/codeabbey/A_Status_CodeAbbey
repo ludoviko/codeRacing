@@ -8,12 +8,14 @@
    7     Fahrenheit to Celsius        Arithmetic                                Yes            No              2017-08-06
    9     Triangle                     Triangle side properties                  Yes            No              2017-08-04
 
-  11	 Sum of digits                Arithmetic                                Yes            No              2017-08-07
+  11	 Sum of digits                Algebra                                   Yes            No              2017-08-07
+  13	 Weighted sum of digits       Algebra                                   Yes            No              2017-08-08
   15	 Maximum of array             Arithmetic                                Yes            No              2017-08-04
 
   20     Vowel Count                  String manipulation                       Yes            No              2017-08-07
   24     Neumann's Random Generator   Implementation                            Yes            Not needed      2016-09-01
   27     Bubble Sort                  Bubble Sort Algorithm                     Yes            Yes             2016-09-01
+  28	 Body Mass Index              Arithmetic                                Yes            No              2017-08-07
 
   37	 Mortgage Calculator          Sum of a geometric progression.           Yes            Yes             2016-09-01
 
@@ -24,6 +26,8 @@
 
   73	 Hexagonal Grid               Trigonometry                              Yes            No              2017-08-05
   74	 Clock Hands                  Trigonometry                              Yes            No              2017-08-05
+
+  77     Point to Segment Distance
 
   85	 Rotation in 2D Space         Math vectors                              Yes            Yes             2017-07-15     Testing and coding done in math lib.
 

@@ -13,16 +13,10 @@ import java.io.PrintStream;
  *
  */
 
-public class SumOfDigits {
-	public static int sumOfDigits(long n) {
-	    int sum = 0;
+public class BodyMassIndex {
 
-	    while (n > 0) {
-	        sum +=  n % 10;
-	        n /= 10;
-        }
-
-        return sum;
+	public static double find( double weight, double height) {
+	    return weight / (height * height);
 	}
 
 	public static void main(String[] args) throws IOException {
@@ -30,13 +24,23 @@ public class SumOfDigits {
 		PrintStream out = System.out;
 
 		int n = scanner.nextInt();
-		long m = 0;
-		int[] data;
+		double[] data;
+		String description;
+		double BMI;
 
         for (int i = 0; i < n; i++) {
-            data = scanner.nextIntArray();
-            m = data[0] * data[1] + data[2];
-            out.format("%d ", sumOfDigits(m));
+            data = scanner.nextDoubleArray();
+            BMI = find(data[0], data[1]);
+            if ( BMI  < 18.5  ) {
+                description = "under";
+            } else if ( BMI  < 25  ) {
+                description = "normal";
+            } else if ( BMI  < 30 ) {
+                description = "over";
+            } else  {
+                description = "obese";
+            }
+            out.format("%s ", description);
         }
 
 		scanner.reader.close();

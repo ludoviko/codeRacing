@@ -13,30 +13,30 @@ import java.io.PrintStream;
  *
  */
 
-public class SumOfDigits {
-	public static int sumOfDigits(long n) {
-	    int sum = 0;
+public class WeightedSumOfDigits {
+    public static int weightedSumOfDigits(long n) {
+        int sum = 0;
 
-	    while (n > 0) {
-	        sum +=  n % 10;
-	        n /= 10;
+        int len = (int )Math.floor(Math.log10(n)) + 1;
+
+        while (n > 0) {
+            sum +=  (n % 10) * (len--);
+            n /= 10;
         }
 
         return sum;
-	}
+    }
 
 	public static void main(String[] args) throws IOException {
 		MyScanner scanner = new MyScanner();
 		PrintStream out = System.out;
 
 		int n = scanner.nextInt();
-		long m = 0;
-		int[] data;
 
-        for (int i = 0; i < n; i++) {
-            data = scanner.nextIntArray();
-            m = data[0] * data[1] + data[2];
-            out.format("%d ", sumOfDigits(m));
+		long[] data = scanner.nextLongArray();
+
+        for (int i = 0; i < data.length; i++) {
+            out.format("%d ", weightedSumOfDigits(data[i]));
         }
 
 		scanner.reader.close();

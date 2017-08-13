@@ -18,9 +18,12 @@
 
   20     Vowel Count                  String manipulation                       Yes            No              2017-08-07
   21	 Array Counters               Array manipulation                        Yes            No              2017-08-11
-  24     Neumann's Random Generator   Implementation                            Yes            Not needed      2016-09-01
+  23	 Bubble in Array              Bubble sorting                            Yes            No              2017-08-13
+  24     Neumann's Random Generator   Implementation                            Yes            No              2016-09-01
+  26	 Greatest Common Divisor      Euclid's algorithm                        Yes            No              2017-08-13
   27     Bubble Sort                  Bubble Sort Algorithm                     Yes            Yes             2016-09-01
   28	 Body Mass Index              Arithmetic                                Yes            No              2017-08-07
+  29	 Sort with Indexes            Sorting data                              Yes            No              2017-08-13
 
   37	 Mortgage Calculator          Sum of a geometric progression.           Yes            Yes             2016-09-01
 

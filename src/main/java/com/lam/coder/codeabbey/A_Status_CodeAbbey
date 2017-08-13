@@ -9,7 +9,9 @@
    9     Triangle                     Triangle side properties                  Yes            No              2017-08-04
 
   11	 Sum of digits                Algebra                                   Yes            No              2017-08-07
+  12	 Modulo and time difference   Modular math                              Yes            No              2017-08-13
   13	 Weighted sum of digits       Algebra                                   Yes            No              2017-08-08
+  14	 Modular Calculator           Modular math                              Yes            No              2017-08-13
   15	 Maximum of array             Arithmetic                                Yes            No              2017-08-04
   16	 Average of an array          Arithmetic                                Yes            No              2017-08-11
   17	 Array Checksum               Modular math                              Yes            No              2017-08-11
@@ -24,6 +26,7 @@
 
   41     Median of Three              Arithmetic                                Yes            No              2017-08-07
   43     Dice Rolling                 Random generator                          Yes            No              2017-08-08
+  48	 Collatz Sequence             Collatz Conjecture                        Yes            No              2017-08-12
 
   52     Pythagorean Theorem          Triangle side properties                  Yes            No              2017-08-04
   53     King And Queen               Games, chess, matrix operations.          Yes            Yes             2016-09-01

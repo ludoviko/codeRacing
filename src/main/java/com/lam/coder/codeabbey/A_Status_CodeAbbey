@@ -25,6 +25,7 @@
   28	 Body Mass Index              Arithmetic                                Yes            No              2017-08-07
   29	 Sort with Indexes            Sorting data                              Yes            No              2017-08-13
 
+  32	 Josephus Problem             Modular math                              Yes            No              2017-08-15
   37	 Mortgage Calculator          Sum of a geometric progression.           Yes            Yes             2016-09-01
 
   41     Median of Three              Arithmetic                                Yes            No              2017-08-07
@@ -33,6 +34,9 @@
 
   52     Pythagorean Theorem          Triangle side properties                  Yes            No              2017-08-04
   53     King And Queen               Games, chess, matrix operations.          Yes            Yes             2016-09-01
+  57	 Smoothing the Weather        Arithmetic                                Yes            No              2017-08-15
+
+  67	 Fibonacci Sequence           Fibonacci Sequence                        Yes            No              2017-08-15
 
   73	 Hexagonal Grid               Trigonometry                              Yes            No              2017-08-05
   74	 Clock Hands                  Trigonometry                              Yes            No              2017-08-05

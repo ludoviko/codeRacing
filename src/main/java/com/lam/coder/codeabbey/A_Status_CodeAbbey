@@ -36,6 +36,7 @@
   53     King And Queen               Games, chess, matrix operations.          Yes            Yes             2016-09-01
   57	 Smoothing the Weather        Arithmetic                                Yes            No              2017-08-15
 
+  61	 Prime Numbers Generation     Number Theory                             Yes            No              2017-08-16
   67	 Fibonacci Sequence           Fibonacci Sequence                        Yes            No              2017-08-15
 
   73	 Hexagonal Grid               Trigonometry                              Yes            No              2017-08-05
@@ -43,12 +44,15 @@
 
   77     Point to Segment Distance
 
+  81	 Bit Count                    Bitwise mathematics                       Yes            No              2017-08-16
   85	 Rotation in 2D Space         Math vectors                              Yes            Yes             2017-07-15     Testing and coding done in math lib.
 
   98     Azimuth at Treasure Island   Trigonometry                              Yes            No              2017-08-07
 
  104	 Triangle Area                Heron's formula                           Yes            No              2017-08-04
  105     Convex Polygon Area          Heron's formula                           Yes            No              2017-08-05
+
+ 128	 Combinations Counting        Combinations, counting                    Yes            No              2017-08-17
 
  171     Tree Height Measurement      Trigonometry                              Yes            No              2017-08-05
  172     Cloud Altitude Measurement   Trigonometry                              Yes            No              2017-08-06

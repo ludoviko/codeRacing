@@ -26,6 +26,7 @@
   29	 Sort with Indexes            Sorting data                              Yes            No              2017-08-13
 
   32	 Josephus Problem             Modular math                              Yes            No              2017-08-15
+  34	 Binary Search                Binary Search                             Yes            No              2017-08-18
   37	 Mortgage Calculator          Sum of a geometric progression.           Yes            Yes             2016-09-01
 
   41     Median of Three              Arithmetic                                Yes            No              2017-08-07
@@ -52,6 +53,8 @@
  104	 Triangle Area                Heron's formula                           Yes            No              2017-08-04
  105     Convex Polygon Area          Heron's formula                           Yes            No              2017-08-05
 
+ 120	 Selection Sort               Sorting                                   Yes            No              2017-08-19
+ 121	 Insertion Sort               Sorting                                   Yes            No              2017-08-20
  128	 Combinations Counting        Combinations, counting                    Yes            No              2017-08-17
 
  171     Tree Height Measurement      Trigonometry                              Yes            No              2017-08-05

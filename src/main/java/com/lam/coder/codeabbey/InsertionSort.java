@@ -4,6 +4,7 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.io.PrintStream;
+import java.util.Arrays;
 
 /**
  * 
@@ -13,26 +14,58 @@ import java.io.PrintStream;
  *
  */
 
-public class Main {
+public class InsertionSort {
+    private int[] data;
 
-    public Main() {
+    public int[] getData() {
+        return data;
     }
 
-//	public find() {
-//	}
+    public InsertionSort(int[] data) {
+        this.data = data;
+    }
 
-	public static void main(String[] args) throws IOException {
+    public void sort() {
+        int x;
+        int s = 0;
+
+        System.out.println();
+
+        for (int i = 1; i < this.data.length; i++) {
+            for (int j = 0; j < i; j++) {
+                if (this.data[i] >= this.data[j]) {
+                } else {
+                    x = this.data[i];
+                    System.arraycopy(this.data, j, this.data, j + 1, i - j) ;
+                    this.data[j] = x;
+                    s = i - j;
+                    break;
+                }
+            }
+            System.out.print(s + " ");
+            s = 0;
+        }
+    }
+
+    public void print() {
+        System.out.println();
+        System.out.println();
+        for (int i = 0; i < this.getData().length; i++) {
+            System.out.format("%d ", this.getData()[i]);
+        }
+    }
+
+    public static void main(String[] args) throws IOException {
 		MyScanner scanner = new MyScanner();
 		PrintStream out = System.out;
 
-		Main main = new Main();
-		
 		int n = scanner.nextInt();
-		String string = scanner.next();
+		int[] data = scanner.nextIntArray();
 
-		out.println();
+        InsertionSort main = new InsertionSort(data);
+        main.sort();
 
-		scanner.reader.close();
+        scanner.reader.close();
 		out.close();
 	}
 
@@ -136,3 +169,4 @@ public class Main {
         }
     }
 }
+

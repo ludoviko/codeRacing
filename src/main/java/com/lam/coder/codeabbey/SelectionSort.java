@@ -9,28 +9,71 @@ import java.io.PrintStream;
  * 
  * @author L.Azuaje.
  *
- *
+ * Selection sort implementation.
  *
  */
 
-public class Main {
+public class SelectionSort {
+    private int[] data;
 
-    public Main() {
+    public int[] getData() {
+        return data;
     }
 
-//	public find() {
-//	}
+    SelectionSort(int[] data) {
+        this.data = data;
+    }
 
-	public static void main(String[] args) throws IOException {
+	public int findMaximumIndex(int upTo) {
+        int max = data[0];
+        int index = 0;
+
+        for (int i = 1; i <= upTo ; i++) {
+            if (data[i] > max) {
+                max = data[i];
+                index = i;
+            }
+        }
+
+        return index;
+    }
+
+    public void sort() {
+        int maxIndex = -1;
+
+        System.out.println();
+        for (int i = this.data.length - 1; i >= 1; i--) {
+            maxIndex = findMaximumIndex(i);
+            swapLastWith(maxIndex, i);
+            System.out.print(maxIndex + " ");
+        }
+    }
+
+    public void swapLastWith(int index, int lastIndex) {
+        int x = this.data[lastIndex];
+        this.data[lastIndex] = data[index];
+        this.data[index] = x;
+    }
+
+    public void print() {
+        System.out.println();
+        System.out.println();
+        for (int i = 0; i < this.getData().length; i++) {
+          System.out.format("%d ", this.getData()[i]);
+         }
+    }
+
+    public static void main(String[] args) throws IOException {
 		MyScanner scanner = new MyScanner();
 		PrintStream out = System.out;
 
-		Main main = new Main();
-		
 		int n = scanner.nextInt();
-		String string = scanner.next();
+		int[] data = scanner.nextIntArray();
 
-		out.println();
+		SelectionSort main = new SelectionSort( data );
+
+		main.sort();
+        main.print();
 
 		scanner.reader.close();
 		out.close();
@@ -136,3 +179,4 @@ public class Main {
         }
     }
 }
+

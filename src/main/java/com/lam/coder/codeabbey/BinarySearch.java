@@ -4,6 +4,7 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.io.PrintStream;
+import java.util.Locale;
 
 /**
  * 
@@ -13,24 +14,39 @@ import java.io.PrintStream;
  *
  */
 
-public class Main {
+public class BinarySearch {
+	public static double find( double a, double b, double c, double d) {
+	    double x = 50;
+	    double min = 0;
+        double max = 100;
+	    double delta = 0.0000000001;
+	    double f_of_x = 0;
 
-    public Main() {
-    }
+	    do {
+            f_of_x = a * x + b * Math.sqrt(x * x * x)  - c * Math.exp(-x/50) - d;
+            if (f_of_x  > 0) {
+                max = x;
+            } else {
+                min = x;
+            }
 
-//	public find() {
-//	}
+            x = (max + min) / 2.0;
+        } while ( Math.abs( f_of_x  ) > delta);
+
+	    return x;
+	}
 
 	public static void main(String[] args) throws IOException {
 		MyScanner scanner = new MyScanner();
 		PrintStream out = System.out;
 
-		Main main = new Main();
-		
 		int n = scanner.nextInt();
-		String string = scanner.next();
+		double[] data;
 
-		out.println();
+        for (int i = 0; i < n; i++) {
+            data = scanner.nextDoubleArray();
+            out.format(Locale.US, "%10.12f ", find(data[0], data[1], data[2], data[3]));
+        }
 
 		scanner.reader.close();
 		out.close();
@@ -136,3 +152,4 @@ public class Main {
         }
     }
 }
+

@@ -15,6 +15,27 @@ import java.util.Arrays;
  */
 
 public class MedianOfThree {
+    public static int findMedian(int[] data) {
+
+        if ( data[0] > data[1]) {
+            swap(data, 0, 1);
+        }
+        if ( data[1] > data[2]) {
+            swap(data, 1, 2);
+        }
+        if ( data[0] > data[1]) {
+            swap(data, 0, 1);
+        }
+
+        return data[1];
+    }
+
+    public static void swap(int[] data, int pos1, int pos2) {
+        int x = data[pos1];
+        data[pos1] = data[pos2];
+        data[pos2] = x;
+    }
+
     public static void main(String[] args) throws IOException {
         MyScanner scanner = new MyScanner();
         PrintStream out = System.out;
@@ -24,8 +45,8 @@ public class MedianOfThree {
 
         for (int i = 0; i < n; i++) {
             data = scanner.nextIntArray();
-            Arrays.sort(data);
-            out.format("%d ", data[1]);
+
+            out.format("%d ", findMedian(data));
         }
 
         scanner.reader.close();

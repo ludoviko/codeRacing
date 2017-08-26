@@ -7,33 +7,104 @@ import java.util.InputMismatchException;
  * 
  * @author Code Forces.  Solution by: L.Azuaje.
  *
- * Problem: .
- *
+ * Problem: 451A #258 Div-2: Sort the array.
  *
  */
 
-public class Main {
+public class SortTheArray {
+    private int[] array;
 
-//	public find() {
-//	}
+    public SortTheArray(int[] array) {
+        this.array = array;
+    }
 
 	public static void main(String[] args) throws IOException {
 		MyScanner scanner = new MyScanner();
 		PrintStream out = System.out;
 
-		Main main = new Main();
-		
 		int n = scanner.nextInt();
         int[] data = scanner.nextIntArray();
-        String string = scanner.next();
+        int[] indexes;
 
-		out.println();
+        SortTheArray main = new SortTheArray(data);
+        if (main.isSortedInAsc()) {
+            out.println("yes");
+            out.println(1 + " " + 1);
+        } else if (main.isSortedInDesc()) {
+            out.println("yes");
+            out.println(1 + " " + data.length);
+        } else {
+            indexes = main.findSubArrayIndexes();
+            main.swaps(indexes[0], indexes[1]);
+            if (main.isSortedInAsc()) {
+                out.println("yes");
+                out.format("%d %d", indexes[0] + 1, indexes[1] + 1);
+            } else {
+                out.println("no");
+            }
+        }
 
 		scanner.close();
 		out.close();
 	}
 
-	// -----------MyScanner class for faster input----------
+	public boolean isSortedInAsc() {
+        for (int i = 0; i < this.array.length -1; i++) {
+            if (this.array[i] > this.array[i+1]) {
+                return false;
+            }
+        }
+
+        return true;
+    }
+
+    public boolean isSortedInDesc() {
+        for (int i = 0; i < this.array.length -1; i++) {
+            if (this.array[i] < this.array[i+1]) {
+                return false;
+            }
+        }
+
+        return true;
+    }
+
+    public int[] findSubArrayIndexes() {
+        boolean isA0 = true;
+        int[] indexes = new int[2];
+        indexes[1] = this.array.length - 1;
+        boolean goOn = true;
+
+        for (int i = 0; i < this.array.length -1 && goOn; i++) {
+            if (this.array[i] > this.array[i + 1]) {
+                if (isA0) {
+                    indexes[0] = i;
+                    isA0 = false;
+                }
+            } else if ( ! isA0) {
+                indexes[1] = i;
+                goOn = false;
+            }
+        }
+
+        return indexes;
+    }
+
+    public void swap(int pos1, int pos2) {
+        int x = this.array[pos1];
+        this.array[pos1] = this.array[pos2];
+        this.array[pos2] = x;
+    }
+
+    public void swaps(int pos1, int pos2) {
+        int swaps = (int)Math.ceil((pos2 - pos1)/2.0);
+
+        for (int i = 0; i < swaps; i++) {
+            swap(pos1++, pos2--);
+        }
+    }
+
+
+    // -----------MyScanner class for faster input----------
     public static class FastInputReader {
         private byte[] buf = new byte[16384];
         private int    curChar;
@@ -247,3 +318,4 @@ public class Main {
         }
     }
 }
+

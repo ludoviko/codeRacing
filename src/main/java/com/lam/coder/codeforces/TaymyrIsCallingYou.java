@@ -12,28 +12,35 @@ import java.util.InputMismatchException;
  *
  */
 
-public class Main {
-    public  Main() {
+public class TaymyrIsCallingYou {
+    public  TaymyrIsCallingYou() {
     }
-
-//	public find() {
-//	}
 
 	public static void main(String[] args) throws IOException {
 		MyScanner scanner = new MyScanner();
 		PrintStream out = System.out;
 
-		Main main = new Main();
-		
-		int n = scanner.nextInt();
         int[] data = scanner.nextIntArray();
-        String string = scanner.next();
 
-		out.println();
+        long GCD = findGCD(data[0], data[1]);
+        long lcm = data[0] * data[1] / GCD;
+		out.println(  data[2] / lcm );
 
 		scanner.close();
 		out.close();
 	}
+
+    public static long findGCD(long a, long b ) {
+        long remainder;
+
+        do {
+            remainder = a % b;
+            a = b;
+            b = remainder;
+        } while (remainder != 0);
+
+        return a;
+    }
 
 	// -----------MyScanner class for faster input----------
     public static class FastInputReader {
@@ -249,3 +256,4 @@ public class Main {
         }
     }
 }
+

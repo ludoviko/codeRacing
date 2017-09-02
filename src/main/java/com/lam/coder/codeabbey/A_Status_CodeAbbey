@@ -6,7 +6,9 @@
    5     Minimum of Three             Arithmetic                                Yes            No              2017-08-06
    6     Rounding                     Arithmetic                                Yes            No              2017-08-06
    7     Fahrenheit to Celsius        Arithmetic                                Yes            No              2017-08-06
+   8	 Arithmetic Progression       Arithmetic                                Yes            No              2017-08-26
    9     Triangle                     Triangle side properties                  Yes            No              2017-08-04
+  10	 Linear Function              Linear Function                           Yes            No              2017-09-02
 
   11	 Sum of digits                Algebra                                   Yes            No              2017-08-07
   12	 Modulo and time difference   Modular math                              Yes            No              2017-08-13
@@ -15,6 +17,7 @@
   15	 Maximum of array             Arithmetic                                Yes            No              2017-08-04
   16	 Average of an array          Arithmetic                                Yes            No              2017-08-11
   17	 Array Checksum               Modular math                              Yes            No              2017-08-11
+  18	 Square Root                  Heron's method                            Yes            No              2017-09-02
 
   20     Vowel Count                  String manipulation                       Yes            No              2017-08-07
   21	 Array Counters               Array manipulation                        Yes            No              2017-08-11
@@ -53,14 +56,16 @@
  104	 Triangle Area                Heron's formula                           Yes            No              2017-08-04
  105     Convex Polygon Area          Heron's formula                           Yes            No              2017-08-05
 
- For sorting create testing classes.
+ For sorting problems create testing classes.
  120	 Selection Sort               Sorting                                   Yes            No              2017-08-19
  121	 Insertion Sort               Sorting                                   Yes            No              2017-08-20
- 122	 QuickSort                    Sorting                                   Yes            No              2017-08-20
+ 122	 QuickSort                    Sorting                                   Yes            No              2017-08-26
+ For sorting problems create testing classes.
+
 
  128	 Combinations Counting        Combinations, counting                    Yes            No              2017-08-17
 
- 134	 Flying Text Screensaver
+ 134	 Flying Text Screensaver      Movement on the cartesian plane           Yes            No              2017-08-22
 
  156	 Luhn Algorithm               Implementation, brute force               Yes            No              2017-08-22
 

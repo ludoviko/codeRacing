@@ -18,11 +18,12 @@
   16	 Average of an array          Arithmetic                                Yes            No              2017-08-11
   17	 Array Checksum               Modular math                              Yes            No              2017-08-11
   18	 Square Root                  Heron's method                            Yes            No              2017-09-02
-
   20     Vowel Count                  String manipulation                       Yes            No              2017-08-07
+
   21	 Array Counters               Array manipulation                        Yes            No              2017-08-11
   23	 Bubble in Array              Bubble sorting                            Yes            No              2017-08-13
   24     Neumann's Random Generator   Implementation                            Yes            No              2016-09-01
+  25	 Linear Congruential Generator Implementation                           Yes            No              2016-09-03
   26	 Greatest Common Divisor      Euclid's algorithm                        Yes            No              2017-08-13
   27     Bubble Sort                  Bubble Sort Algorithm                     Yes            Yes             2016-09-01
   28	 Body Mass Index              Arithmetic                                Yes            No              2017-08-07
@@ -30,7 +31,10 @@
 
   32	 Josephus Problem             Modular math                              Yes            No              2017-08-15
   34	 Binary Search                Binary Search                             Yes            No              2017-08-18
+  35	 Savings Calculator           Formula compound interest                 Yes            Yes             2017-09-02
   37	 Mortgage Calculator          Sum of a geometric progression.           Yes            Yes             2016-09-01
+
+  38	 Quadratic Equation
 
   41     Median of Three              Arithmetic                                Yes            No              2017-08-07
   43     Dice Rolling                 Random generator                          Yes            No              2017-08-08
@@ -51,6 +55,7 @@
   81	 Bit Count                    Bitwise mathematics                       Yes            No              2017-08-16
   85	 Rotation in 2D Space         Math vectors                              Yes            Yes             2017-07-15     Testing and coding done in math lib.
 
+  94	 Fool's Day 2014              Simple geometric sum                      Yes            No              2017-09-03
   98     Azimuth at Treasure Island   Trigonometry                              Yes            No              2017-08-07
 
  104	 Triangle Area                Heron's formula                           Yes            No              2017-08-04

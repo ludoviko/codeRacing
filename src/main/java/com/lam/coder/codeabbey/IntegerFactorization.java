@@ -13,25 +13,36 @@ import java.io.PrintStream;
  *
  */
 
-public class Main {
+public class IntegerFactorization {
 
-    public Main() {
+    public IntegerFactorization() {
     }
 
-//	public find() {
-//	}
+	public static String find(long n) {
+        long m = n;
+        String solution = "";
+        int d = 2;
+
+         while (m > 1) {
+             while (m % d == 0) {
+                 solution += d + "*" ;
+                 m = m / d;
+             }
+             d++;
+         }
+
+         solution = solution.substring(0, solution.length() - 1);
+         return solution;
+	}
 
 	public static void main(String[] args) throws IOException {
 		MyScanner scanner = new MyScanner();
 		PrintStream out = System.out;
 
-		Main main = new Main();
-		
 		int n = scanner.nextInt();
-		int[] data = scanner.nextIntArray();
-		String string = scanner.next();
-
-		out.format("%d ", 1);
+        for (int i = 0; i < n; i++) {
+            out.format("%s ", find(scanner.nextLong()));
+        }
 
 		scanner.reader.close();
 		out.close();
@@ -137,3 +148,4 @@ public class Main {
         }
     }
 }
+

@@ -33,8 +33,10 @@
   34	 Binary Search                Binary Search                             Yes            No              2017-08-18
   35	 Savings Calculator           Formula compound interest                 Yes            Yes             2017-09-02
   37	 Mortgage Calculator          Sum of a geometric progression.           Yes            Yes             2016-09-01
+  38	 Quadratic Equation           Quadratic Equation roots                  Yes            Yes             2016-09-04
 
-  38	 Quadratic Equation
+39	Share Price Volatility
+
 
   41     Median of Three              Arithmetic                                Yes            No              2017-08-07
   43     Dice Rolling                 Random generator                          Yes            No              2017-08-08
@@ -45,7 +47,9 @@
   57	 Smoothing the Weather        Arithmetic                                Yes            No              2017-08-15
 
   61	 Prime Numbers Generation     Number Theory                             Yes            No              2017-08-16
+  63	 Integer Factorization        Factorization                             Yes            No              2017-09-04
   67	 Fibonacci Sequence           Fibonacci Sequence                        Yes            No              2017-08-15
+  69	 Fibonacci Divisibility       Fibonacci Sequence                        Yes            No              2017-09-04
 
   73	 Hexagonal Grid               Trigonometry                              Yes            No              2017-08-05
   74	 Clock Hands                  Trigonometry                              Yes            No              2017-08-05

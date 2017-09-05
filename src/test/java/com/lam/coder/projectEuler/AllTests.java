@@ -56,6 +56,7 @@ import org.junit.runners.Suite.SuiteClasses;
 	PowerfulDigitCountsTest.class,
 	PowerfulDigitSumTest.class,
 	PrimePermutationsTest.class,
+    PythagoreanTriplesTest.class,
 	QuadraticPrimesTest.class,
 	ReciprocalCyclesTest.class,
 	RomanNumeralsTest.class,

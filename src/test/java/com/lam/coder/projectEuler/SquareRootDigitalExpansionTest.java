@@ -1,13 +1,12 @@
 package com.lam.coder.projectEuler;
 
 import junit.framework.Assert;
-
 import org.junit.After;
 import org.junit.Before;
+import org.junit.Ignore;
 import org.junit.Test;
 
-import com.lam.coder.projectEuler.SquareRootDigitalExpansion;
-
+@Ignore
 public class SquareRootDigitalExpansionTest {
 
 	@Before

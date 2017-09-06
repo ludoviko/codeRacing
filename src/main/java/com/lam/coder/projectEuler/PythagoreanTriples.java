@@ -35,6 +35,7 @@ import java.io.PrintStream;
  *         Solution:
  *         <p>
  *         b = (n . n - 2an)/2(n-a);
+ *
  */
 
 public class PythagoreanTriples {

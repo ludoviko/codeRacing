@@ -1,10 +1,8 @@
 package com.lam.coder.projectEuler;
 
-import java.util.ArrayList;
-import java.util.List;
-
 import com.lam.coder.kattis.CollatzConjecture;
-import com.lam.mathematics.CollatzSequence;
+
+import java.util.List;
 
 /**
  * 
@@ -32,6 +30,9 @@ public class LongestCollatzSequence {
 	private long LIMIT = 1000000;
 	private List<Long> list;
 
+    public static void main(String[] args) {
+    }
+
 	public long find() {
 		long indMax  = -1L;
         long max = 0;
@@ -47,8 +48,5 @@ public class LongestCollatzSequence {
 			}
 		}
 		return max;
-	}
-
-	public static void main(String[] args) {
 	}
 }

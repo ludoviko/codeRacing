@@ -1,5 +1,7 @@
 package com.lam.coder.projectEuler;
 
+import com.lam.mathematics.PythagoreanTriplet;
+
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
@@ -36,30 +38,18 @@ import java.io.PrintStream;
  */
 
 public class PythagoreanTriples {
-    private long a;
-    private long b;
-    private long c;
-    private long summa;
-
-    public PythagoreanTriples(long summa) {
-        this.a = 0;
-        this.b = 0;
-        this.c = 0;
-        // summa = a + b + c.
-        this.summa = summa;
-    }
 
     public static void main(String[] args) throws IOException {
         MyScanner scanner = new MyScanner();
         PrintStream out = System.out;
 
-        PythagoreanTriples main;
+        PythagoreanTriplet main;
 
         // Number of test cases.
         int n = scanner.nextInt();
 
         for (int i = 0; i < n; i++) {
-            main = new PythagoreanTriples(scanner.nextInt());
+            main = new PythagoreanTriplet(scanner.nextInt());
             main.find();
             if (main.getC() == -1) {
                 out.format("%d ", main.getC());
@@ -70,36 +60,6 @@ public class PythagoreanTriples {
 
         scanner.reader.close();
         out.close();
-    }
-
-    public long getC() {
-        return this.c;
-    }
-
-    public long getA() {
-        return this.a;
-    }
-
-    public long getB() {
-        return this.b;
-    }
-
-    public void find() {
-        while (++a < summa) {
-            if ((summa * summa - 2 * a * summa) % (2 * summa - 2 * a) == 0) {
-                b = (long) ((summa * summa - 2 * a * summa) / (2 * summa - 2 * a));
-                break;
-            }
-        }
-
-        if (b == 0) {
-            // no solution.
-            this.a = -1;
-            this.b = -1;
-            this.c = -1;
-        } else {
-            this.c = (long) Math.sqrt(a * a + b * b);
-        }
     }
 
     // -----------MyScanner class for faster input----------

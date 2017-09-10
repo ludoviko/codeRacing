@@ -1,6 +1,9 @@
 package com.lam.coder.codeforces;
 
-import java.io.*;
+import java.io.BufferedReader;
+import java.io.IOException;
+import java.io.InputStreamReader;
+import java.io.PrintStream;
 import java.util.InputMismatchException;
 
 /**
@@ -20,18 +23,17 @@ public class Main {
 //	}
 
 	public static void main(String[] args) throws IOException {
-		MyScanner scanner = new MyScanner();
-		PrintStream out = System.out;
+        FastInputReader scanner = new FastInputReader();
+        PrintStream out = System.out;
 
 		Main main = new Main();
 		
 		int n = scanner.nextInt();
-        int[] data = scanner.nextIntArray();
-        String string = scanner.next();
+        int[] data = scanner.nextIntArray(n);
+        String string = scanner.nextString();
 
 		out.println();
 
-		scanner.close();
 		out.close();
 	}
 

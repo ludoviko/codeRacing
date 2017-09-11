@@ -11,22 +11,21 @@
     43B   Beta #42 Div-2          Letter                         string manipulation                       Not needed.  2017  Mar.       Done.
     43C   Beta #42 Div-2          Lucky Tickets                  simple math                               Not needed.  2017  Mar.       Done.
     50A	                          Domino piling                  greedy, math                        	   Yes.         2015  Jan.       Done.
-    58A  	                      Chat room                      greedy, strings                           Yes.         2015  Aug.        Done.
+    58A  	                      Chat room                      greedy, strings                           Yes.         2015  Aug.       Done.
     59A	                          Word                           implementation, strings	               Not needed.  2015  Sept.      Done.
-    61A	                          Ultra-Fast Mathematician       implementation                            Not needed.  2015  Aug.        Done.
-    69A	                          Young Physicist                implementation, math                      Not needed.  2015  Aug.        Done.
+    61A	                          Ultra-Fast Mathematician       implementation                            Not needed.  2015  Aug.       Done.
+    69A	                          Young Physicist                implementation, math                      Not needed.  2015  Aug.       Done.
     71A	                          Way Too Long Words             strings	  	                           Yes.         2014  Dec.       Done.
     82A	                          Double Cola                    implementation, math	                   Yes.         2015  Aug.       Done.
-
-    90A Beta #74 Div-2            Cableway                       greedy, math, implementation              Not needed.  2017  Sept.
-
+    90A Beta #74 Div-2            Cableway                       greedy, math, implementation              Not needed.  2017  Sept.      Done
+    90B Beta #74 Div-2            African Crossword              implementation, string manipulation       Not needed.  2017  Sept.      Done
     96A	                          Football                       implementation, strings	               Not needed.  2015  July.      Done.
 
-   110A	   	   	   	              Nearly Lucky Number            implementation                            Yes.         2015  Aug.        Done.
+   110A	   	   	   	              Nearly Lucky Number            implementation                            Yes.         2015  Aug.       Done.
    112A	   	   	   	              Petya and Strings              implementation, strings	               Yes.         2015  Aug.       Done.
    116A	   	   	   	              Tram                           implementation                     	   Yes.         2015  Jan.       Done.
    118A	 Beta #89 Div-2           String Task                    implementation, strings	               Yes.         2014  Dec.       Done.
-   118B	 Beta #89 Div-2           Present from Lena              constructive algorithms, implementation   Not needed.   2016  Nov.       Done.
+   118B	 Beta #89 Div-2           Present from Lena              constructive algorithms, implementation   Not needed.   2016  Nov.      Done.
    119A	   	   	   	   	          Epic Game                      implementation	                           Yes.         2015  Aug.       Done.
 
    122A	XXX                       Lucky Division                 brute force, number theory
@@ -116,7 +115,8 @@
    474B	  #271 Div-2              Worms                          binary search, implementation             Not needed.  2016  Oct.       Done.
    476A	 	   	                  Dreamoon And Stairs            implementation, math	                   Yes.         2015  Aug.       Done.
    478A	  #273 Div-2	          Initial Bet                    implementation	                           Not needed.  2015  Aug.       Done.
-   478B   #273 Div-2              Random Teams
+
+   478B   #273 Div-2              Random Teams  XXX
 
 
    479A	 	   	                  Expression                     brute force, math	                       Not needed.  2016  Oct.       Done.

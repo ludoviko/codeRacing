@@ -31,8 +31,8 @@ public class Main {
 		int n = scanner.nextInt();
         int[] data = scanner.nextIntArray(n);
         String string = scanner.nextString();
-
-		out.println();
+        // out.format("%s %d %n", string, score);
+        out.println();
 
 		out.close();
 	}

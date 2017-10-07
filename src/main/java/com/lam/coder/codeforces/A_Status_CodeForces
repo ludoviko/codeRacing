@@ -1,7 +1,9 @@
    Code   Contest                 Name                           Method                                   Tested       Date             Tutorial
 
-     1A	  Beta   1                Theatre Square                 math	                                   Yes.         2014  Dec.       Done.
-     1B	  Beta   1                Spreadssheets                  String manipulation, math	               Yest.        2016  Mar.       Done.
+     1A	  Beta 1                  Theatre Square                 math	                                   Yes.         2014  Dec.       Done.
+     1B	  Beta 1                  Spreadssheets                  String manipulation, math	               Yes.         2016  Mar.       Done.
+     2A   Beta 2                  Winner                         implementation                            No           2017  Sept       Done.    Cumbersome problem.
+
      4A	  Beta   4 Div-2          Watermelon                     brute force, math	                       Yes.         2014  Dec.       Done.
      4C	  Beta   4 Div-2          Registration System        data structures, hashing, implementation      Yes.         2016  Oct.       Done.
     25A	                          IQ Test                        brute force                               Not needed.  2015  Aug.       Done.
@@ -240,7 +242,9 @@
    799B   #413 Div-1-2            T-shirt buying                 Sorting, pointers                         Not needed   2017  Sept.      Done.   Convoluted problem.
 
    822A	  #422 Div-2              I'm bored with life            implementation, math, number theory       Not needed   2017  Aug.       Not any.
-
+   832A   #425 Div-2	          Sasha and Sticks               games, math
+   864A   #436 Div-2              Fair Games                     implementation                            Not needed  2017  Oct         Done.
+   864B   #436 Div-2              Polycarp and Letters           string manipulation                       Not needed  2017  Sept        Done.  Contest.
 
    Gym    Bangladesh NHSPC 2017   A - Charm Is Not Always Enough  greedy                                   Not needed   2017  May        Done.
 
@@ -262,4 +266,4 @@
    750A   Good Bye 2016             New Year And Hurry              Simple math, sequences                              244 /  500     Not needed   2016  Dec.
    750B   Good Bye 2016             New Year And North Pole         Implementation                                      594 /  750     Not needed   2016  Dec.
    754B   #390 Div-2	            Ilya and tic-tac-toe game       brute force, implementation                         700 / 1000     Not needed   2017  Jan.
-
+   864B   #436 Div-2                Polycarp and Letters            string manipulation                                 856 / 1000     Not needed   2017  Sept.

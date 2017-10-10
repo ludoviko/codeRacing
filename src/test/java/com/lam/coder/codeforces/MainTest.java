@@ -1,11 +1,7 @@
 package com.lam.coder.codeforces;
 
 
-import com.lam.coder.codeforces.Main;
-
-import org.hamcrest.CoreMatchers;
 import org.junit.After;
-import org.junit.Assert;
 import org.junit.Before;
 import org.junit.Test;
 
@@ -28,6 +24,7 @@ public class MainTest {
 //		Assert.assertEquals("", main.);
 //		Assert.assertArrayEquals(new int[] {}, main.);
 //		Assert.assertArrayEquals(new String[] {}, main.);
+//        Assert.assertThat("string", CoreMatchers.instanceOf(String.class) );
     }
 }
 

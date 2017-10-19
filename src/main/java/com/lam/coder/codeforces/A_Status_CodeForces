@@ -25,6 +25,8 @@
 
    110A	   	   	   	              Nearly Lucky Number            implementation                            Yes.         2015  Aug.       Done.
    112A	   	   	   	              Petya and Strings              implementation, strings	               Yes.         2015  Aug.       Done.
+
+
    116A	   	   	   	              Tram                           implementation                     	   Yes.         2015  Jan.       Done.
    118A	 Beta #89 Div-2           String Task                    implementation, strings	               Yes.         2014  Dec.       Done.
    118B	 Beta #89 Div-2           Present from Lena              constructive algorithms, implementation   Not needed.   2016  Nov.      Done.
@@ -235,14 +237,17 @@
    754B   #390 Div-2	          Ilya and tic-tac-toe game      brute force, implementation               Not needed   2017  Jan.       Not any.  Contest.
    758A   #392 Div-2              Holiday Of Equality            simple math                               Not needed   2017  Jun.       Done.
    758B   #392 Div-2              Blown Garland                  math module                               Not needed   2017  Jun.       Done.
+   761A   #394 Div-2	          Dasha and Stairs               simple matn, implementation               Not needed   2017  Oct.       Done.
    764A	  #395 Div-2              Taymyr is calling you          implementation, GDC, LCM                  Not needed   2017  Aug.       Done.
    785A   #404 Div-2              Anton and Polyhedrons          implementation                            Not needed   2017  Jul.       Done.
    785B   #404 Div-2              Anton and Classes              greedy, sorting                           Not needed   2017  Jul.       Done.
    791A   #405 Div-2              Bear and Big Brother           math, logarithms                          Not needed   2017  Jun.       Done.
    799B   #413 Div-1-2            T-shirt buying                 Sorting, pointers                         Not needed   2017  Sept.      Done.   Convoluted problem.
-
    822A	  #422 Div-2              I'm bored with life            implementation, math, number theory       Not needed   2017  Aug.       Not any.
-   832A   #425 Div-2	          Sasha and Sticks               games, math
+   832A   #425 Div-2	          Sasha and Sticks               games, math                               Not needed   2017  Oct.       Done.
+    B. Petya and Exam XXX
+
+   839A	  #428 Div-2              Arya and Bran                  implementation                            Not needed  2017  Oct         Done.  Refactoring needed, kata.
    864A   #436 Div-2              Fair Games                     implementation                            Not needed  2017  Oct         Done.
    864B   #436 Div-2              Polycarp and Letters           string manipulation                       Not needed  2017  Sept        Done.  Contest.
 

@@ -202,8 +202,8 @@
    688A   #360 Div-2	          Opponents                      implementation                            Not needed.  2016  Oct.       Done.
    688B   #360 Div-2	          Lovely Palindromes             constructive algorithms, math             Not needed.  2016  Dec.       Done.
    697A   #362 Div-2	          Pineapple Incident             math                                      Not needed.  2017  Jan.       Done.
-
    701A	  #364 Div-2              Cards                          greedy                                    Not needed.  2016  Oct.       Done.
+   702A	  #15 Education           Maximum Increase               dp, greedy, implementation                Not needed.  2017  Oct.       Not any.
    703A	  #365 Div-2              Mishka And Game                implementation                            Not needed.  2016  Oct.       Done.
    705A      	                  Hulk                           implementation                            Not needed.  2016  Oct.       Done.
    706A   #367 Div-2              Beru-taxi	                     brute force, geometry, implementation     Not needed.  2016  Dec.       Done.
@@ -239,6 +239,7 @@
    758B   #392 Div-2              Blown Garland                  math module                               Not needed   2017  Jun.       Done.
    761A   #394 Div-2	          Dasha and Stairs               simple matn, implementation               Not needed   2017  Oct.       Done.
    764A	  #395 Div-2              Taymyr is calling you          implementation, GDC, LCM                  Not needed   2017  Aug.       Done.
+
    785A   #404 Div-2              Anton and Polyhedrons          implementation                            Not needed   2017  Jul.       Done.
    785B   #404 Div-2              Anton and Classes              greedy, sorting                           Not needed   2017  Jul.       Done.
    791A   #405 Div-2              Bear and Big Brother           math, logarithms                          Not needed   2017  Jun.       Done.
@@ -246,6 +247,7 @@
    822A	  #422 Div-2              I'm bored with life            implementation, math, number theory       Not needed   2017  Aug.       Not any.
    832A   #425 Div-2	          Sasha and Sticks               games, math                               Not needed   2017  Oct.       Done.
     B. Petya and Exam XXX
+   835A	  #427 Div-2              Key races                      simple math                               Not needed  2017  Oct         Done.
 
    839A	  #428 Div-2              Arya and Bran                  implementation                            Not needed  2017  Oct         Done.  Refactoring needed, kata.
    864A   #436 Div-2              Fair Games                     implementation                            Not needed  2017  Oct         Done.

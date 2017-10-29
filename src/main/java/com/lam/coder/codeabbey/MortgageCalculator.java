@@ -24,8 +24,6 @@ public class MortgageCalculator {
         out.close();
 	}
 
-
-
     // -----------MyScanner class for faster input----------
     public static class MyScanner {
         BufferedReader reader;
@@ -97,7 +95,7 @@ public class MortgageCalculator {
             double[] a  = new double[data.length];
 
             for (int i = 0; i < a.length; i++) {
-                a[i] = Long.parseLong(data[i]);
+                a[i] = Double.parseDouble(data[i]);
             }
 
             return a;

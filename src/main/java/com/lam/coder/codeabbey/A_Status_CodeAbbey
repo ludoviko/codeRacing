@@ -32,6 +32,7 @@
 
   31	 Rotate String                String manipulation                       Yes            No              2017-10-10
   32	 Josephus Problem             Modular math                              Yes            No              2017-08-15
+  33	 Parity Control               Bit operations                            Yes            No              2017-10-21
   34	 Binary Search                Binary Search                             Yes            No              2017-08-18
   35	 Savings Calculator           Formula compound interest                 Yes            Yes             2017-09-02
   37	 Mortgage Calculator          Sum of a geometric progression.           Yes            Yes             2016-09-01
@@ -55,12 +56,14 @@
   67	 Fibonacci Sequence           Fibonacci Sequence                        Yes            No              2017-08-15
   69	 Fibonacci Divisibility       Fibonacci Sequence                        Yes            No              2017-09-04
 
+  72	 Funny Words Generator        String manipulation                       Yes            No              2017-10-21
   73	 Hexagonal Grid               Trigonometry                              Yes            No              2017-08-05
   74	 Clock Hands                  Trigonometry                              Yes            No              2017-08-05
 
   77     XXX Point to Segment Distance
 
   81	 Bit Count                    Bitwise mathematics                       Yes            No              2017-08-16
+  82	 Levenshtein Distance         Levenshtein Distance                      Yes            No              2017-10-30
   85	 Rotation in 2D Space         Math vectors                              Yes            Yes             2017-07-15     Testing and coding done in math lib.
 
   94	 Fool's Day 2014              Simple geometric sum                      Yes            No              2017-09-03
@@ -75,10 +78,11 @@
  122	 QuickSort                    Sorting                                   Yes            No              2017-08-26
  For sorting problems create testing classes.
 
-
+ 127	 Anagrams                     String manipulation                       Yes            No              2017-10-21
  128	 Combinations Counting        Combinations, counting                    Yes            No              2017-08-17
 
  134	 Flying Text Screensaver      Movement on the cartesian plane           Yes            No              2017-08-22
+ 135	 Variable Length Code         binary math                               Yes            No              2017-10-22
 
  156	 Luhn Algorithm               Implementation, brute force               Yes            No              2017-08-22
 

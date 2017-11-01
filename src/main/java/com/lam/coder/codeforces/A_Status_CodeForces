@@ -151,6 +151,7 @@
    535A   #299 Div-2	          Tavas and Nafas                implementation                            Not needed.  2016  Dec.       Done.
    540A	 	   	                  Combination Lock               implementation	                           Not needed.  2015  Aug.       Done.
    545A   #303 Div-2	          Toy Cars                       implementation                            Not needed.  2016  Dec.       Done.
+   545D	  #303 Div-2              Queue                          greedy, implementation, sortings          Not needed.  2017  Nov.       Done.
    546A	  #304 Div-2              Soldier And Bananas            implementation, math	                   Not needed.  2015  Aug.       Done.
    546B	  #304 Div-2              Soldier and Badges       brute force, greedy, implementation, sortings   Not needed.  2016  Dec.       Done.
    550A	  #306 Div-2              Two Substrings                 brute force, dp, implementation, strings  Yes          2016  Dec        Done.
@@ -239,7 +240,7 @@
    758B   #392 Div-2              Blown Garland                  math module                               Not needed   2017  Jun.       Done.
    761A   #394 Div-2	          Dasha and Stairs               simple matn, implementation               Not needed   2017  Oct.       Done.
    764A	  #395 Div-2              Taymyr is calling you          implementation, GDC, LCM                  Not needed   2017  Aug.       Done.
-
+   766A   #396 Div-2	Mahmoud and Longest Uncommon Subsequence constructive algorithms, strings          Not needed   2017  Oct.       Done.
    785A   #404 Div-2              Anton and Polyhedrons          implementation                            Not needed   2017  Jul.       Done.
    785B   #404 Div-2              Anton and Classes              greedy, sorting                           Not needed   2017  Jul.       Done.
    791A   #405 Div-2              Bear and Big Brother           math, logarithms                          Not needed   2017  Jun.       Done.

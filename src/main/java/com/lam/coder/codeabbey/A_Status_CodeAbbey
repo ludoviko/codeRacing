@@ -41,6 +41,7 @@
 
   41     Median of Three              Arithmetic                                Yes            No              2017-08-07
   43     Dice Rolling                 Random generator                          Yes            No              2017-08-08
+  44	 Double Dice Roll             Arithmetic, remainder                     Yes            No              2017-11-05
   47	 Caesar Shift Cipher          Encryption                                Yes            Yes             2017-10-11
   48	 Collatz Sequence             Collatz Conjecture                        Yes            No              2017-08-12
   50	 Palindromes                  Regex, string methods                     Yes            No              2017-10-10
@@ -54,6 +55,7 @@
   61	 Prime Numbers Generation     Number Theory                             Yes            No              2017-08-16
   63	 Integer Factorization        Factorization                             Yes            No              2017-09-04
   67	 Fibonacci Sequence           Fibonacci Sequence                        Yes            No              2017-08-15
+  68	 Bicycle Race                 Physics                                   Yes            No              2017-11-05
   69	 Fibonacci Divisibility       Fibonacci Sequence                        Yes            No              2017-09-04
 
   72	 Funny Words Generator        String manipulation                       Yes            No              2017-10-21
@@ -91,3 +93,74 @@
 
 https://math.stackexchange.com/questions/1966227/strange-duel-chances-and-my-analysis
 http://www.codeabbey.com/index/forum_topic/aa6ea6e41b4a37fe5f29f435f534009e
+
+
+
+15.5806451613
+15.5172413793
+68.2352941176
+30.0833333333
+9.5652173913
+6.11764705882
+132.708333333
+90.7636363636
+10.0612244898
+5.38775510204
+82.4516129032
+25.0212765957
+6.47058823529
+20.25
+17.3333333333
+21.8867924528
+143.255813953
+12.7272727273
+4.21621621622
+225.75
+21.5
+
+15,58064516129
+15,51724137931
+68,23529411765
+30,08333333333
+9,56521739130
+6,11764705882
+132,70833333333
+90,76363636364
+10,06122448980
+5,38775510204
+82,45161290323
+25,02127659574
+6,47058823529
+20,25000000000
+17,33333333333
+21,88679245283
+143,25581395349
+12,72727272727
+4,21621621622
+225,75000000000
+21,50000000000
+
+
+21
+23 21 10
+25 18 11
+116 30 21
+57 19 17
+22 20 26
+12 26 25
+245 26 22
+192 26 29
+17 29 20
+12 22 27
+142 18 13
+56 21 26
+10 22 12
+30 27 13
+24 26 10
+40 29 24
+440 14 29
+28 25 30
+13 12 25
+344 21 11
+43 13 13
+

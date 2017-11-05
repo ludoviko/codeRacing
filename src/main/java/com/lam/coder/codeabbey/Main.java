@@ -34,8 +34,10 @@ public class Main {
 
         out.format(Locale.US, "%d ", 1);
 
-		scanner.reader.close();
-		out.close();
+        out.println();
+
+        scanner.reader.close();
+        out.close();
 	}
 
 	// -----------MyScanner class for faster input----------

@@ -4,6 +4,7 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.io.PrintStream;
+import java.util.Locale;
 
 /**
  * 
@@ -31,7 +32,7 @@ public class Main {
 		int[] data = scanner.nextIntArray();
 		String string = scanner.next();
 
-		out.format("%d ", 1);
+        out.format(Locale.US, "%d ", 1);
 
 		scanner.reader.close();
 		out.close();

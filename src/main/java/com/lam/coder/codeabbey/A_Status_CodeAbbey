@@ -18,6 +18,7 @@
   16	 Average of an array          Arithmetic                                Yes            No              2017-08-11
   17	 Array Checksum               Modular math                              Yes            No              2017-08-11
   18	 Square Root                  Heron's method                            Yes            No              2017-09-02
+  19	 Matching Brackets            String manipulation, stacks.              Yes            No              2017-11-05
   20     Vowel Count                  String manipulation                       Yes            No              2017-08-07
 
   21	 Array Counters               Array manipulation                        Yes            No              2017-08-11

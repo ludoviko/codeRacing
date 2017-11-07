@@ -45,6 +45,7 @@
   44	 Double Dice Roll             Arithmetic, remainder                     Yes            No              2017-11-05
   47	 Caesar Shift Cipher          Encryption                                Yes            Yes             2017-10-11
   48	 Collatz Sequence             Collatz Conjecture                        Yes            No              2017-08-12
+  49	 Rock Paper Scissors          Implementation                            Yes            No              2017-11-05
   50	 Palindromes                  Regex, string methods                     Yes            No              2017-10-10
 
   52     Pythagorean Theorem          Triangle side properties                  Yes            No              2017-08-04
@@ -52,6 +53,7 @@
   54	 Pythagorean Triples          Euclid's algorithm, parametrization       Yes            Yes             2016-09-06
   55	 Matching Words               maps manipulation                         Yes            No              2017-10-11
   57	 Smoothing the Weather        Arithmetic                                Yes            No              2017-08-15
+  58	 Card Names                   Games, string, arrays                     Yes            No              2017-11-07
 
   61	 Prime Numbers Generation     Number Theory                             Yes            No              2017-08-16
   63	 Integer Factorization        Factorization                             Yes            No              2017-09-04

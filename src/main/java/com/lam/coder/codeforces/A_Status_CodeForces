@@ -3,9 +3,12 @@
      1A	  Beta 1                  Theatre Square                 math	                                   Yes.         2014  Dec.       Done.
      1B	  Beta 1                  Spreadssheets                  String manipulation, math	               Yes.         2016  Mar.       Done.
      2A   Beta 2                  Winner                         implementation                            No           2017  Sept       Done.    Cumbersome problem.
+     4A	  Beta  #4 Div-2          Watermelon                     brute force, math	                       Yes.         2014  Dec.       Done.
+     4C	  Beta  #4 Div-2          Registration System        data structures, hashing, implementation      Yes.         2016  Oct.       Done.
+     9A   Beta  #9 Div-2	      Die Roll                       math, probabilities                       Not needed.  2017  Nov.       Done.
+     9B   Beta  #9 Div-2          Running Student                geometry, implementation                  Not needed.  2017  Nov.       Done.    Cumbersome border case.
+     9C   Beta  #9 Div-2          Hexadecimal's Numbers          implementation, math                      Not needed.  2017  Nov.       Done.
 
-     4A	  Beta   4 Div-2          Watermelon                     brute force, math	                       Yes.         2014  Dec.       Done.
-     4C	  Beta   4 Div-2          Registration System        data structures, hashing, implementation      Yes.         2016  Oct.       Done.
     25A	                          IQ Test                        brute force                               Not needed.  2015  Aug.       Done.
     37A	  Beta  37                Towers                         sortings                                  Not needed.  2016  Oct.       Done.
     41A	                          Translation                    implementation, strings	               Not needed.  2015  Aug.       Done.
@@ -232,10 +235,13 @@
    745A   #385 Div-2              Hongcow Learns the Cyclic Shift String manipulation                      Not needed   2016  Dec.       Done.  Contest.
    746A   #386 Div-2              Compot                         String manipulation                       Not needed   2016  Dec.       Done.  Contest.
    746B   #386 Div-2              Decoding                       Simple math                               Not needed   2016  Dec.       Done.  Contest.
-   748A   Technocup 2017 R-3  Santa Claus and a Place in a Class   Math, implementation                   Not needed   2017  Jue.       Done.  See http://codeforces.com/blog/entry/49311
+   748A   Technocup 2017 R-3  Santa Claus and a Place in a Class   Math, implementation                    Not needed   2017  Jue.       Done.  See http://codeforces.com/blog/entry/49311
    750A   Good Bye 2016           New Year And Hurry             Simple math, sequences                    Not needed   2016  Dec.       Not any.  Contest.
    750B   Good Bye 2016           New Year And North Pole        Implementation                            Not needed   2016  Dec.       Not any.  Contest.
    754B   #390 Div-2	          Ilya and tic-tac-toe game      brute force, implementation               Not needed   2017  Jan.       Not any.  Contest.
+   757A	  #391 Div-1,2            Gotta Catch Em' All!           implementation                            Not needed   2017  Dec.       Done.
+
+Gotta Catch Em All
    758A   #392 Div-2              Holiday Of Equality            simple math                               Not needed   2017  Jun.       Done.
    758B   #392 Div-2              Blown Garland                  math module                               Not needed   2017  Jun.       Done.
    761A   #394 Div-2	          Dasha and Stairs               simple matn, implementation               Not needed   2017  Oct.       Done.

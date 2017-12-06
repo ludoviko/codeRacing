@@ -22,6 +22,7 @@
   20     Vowel Count                  String manipulation                       Yes            No              2017-08-07
 
   21	 Array Counters               Array manipulation                        Yes            No              2017-08-11
+  22	 Two Printers                 math, brute force                         Yes            No              2017-12-06
   23	 Bubble in Array              Bubble sorting                            Yes            No              2017-08-13
   24     Neumann's Random Generator   Implementation                            Yes            No              2016-09-01
   25	 Linear Congruential Generator Implementation                           Yes            No              2016-09-03
@@ -41,8 +42,11 @@
   39	 Share Price Volatility       Standard Deviation                        Yes            Yes             2016-09-05
 
   41     Median of Three              Arithmetic                                Yes            No              2017-08-07
+  42	 Blackjack Counting           Arithmetic                                Yes            No              2017-12-06
   43     Dice Rolling                 Random generator                          Yes            No              2017-08-08
   44	 Double Dice Roll             Arithmetic, remainder                     Yes            No              2017-11-05
+  45	 Cards Shuffling              Cards Shuffling                           Yes            No              2017-12-06
+  46	 Tic-Tac-Toe                  Implememtation                            Yes            No              2017-12-07
   47	 Caesar Shift Cipher          Encryption                                Yes            Yes             2017-10-11
   48	 Collatz Sequence             Collatz Conjecture                        Yes            No              2017-08-12
   49	 Rock Paper Scissors          Implementation                            Yes            No              2017-11-05
@@ -54,6 +58,7 @@
   55	 Matching Words               maps manipulation                         Yes            No              2017-10-11
   57	 Smoothing the Weather        Arithmetic                                Yes            No              2017-08-15
   58	 Card Names                   Games, string, arrays                     Yes            No              2017-11-07
+  59	 Bulls and Cows               Implementation                            Yes            No              2017-12-03
 
   61	 Prime Numbers Generation     Number Theory                             Yes            No              2017-08-16
   63	 Integer Factorization        Factorization                             Yes            No              2017-09-04
@@ -97,73 +102,4 @@
 https://math.stackexchange.com/questions/1966227/strange-duel-chances-and-my-analysis
 http://www.codeabbey.com/index/forum_topic/aa6ea6e41b4a37fe5f29f435f534009e
 
-
-
-15.5806451613
-15.5172413793
-68.2352941176
-30.0833333333
-9.5652173913
-6.11764705882
-132.708333333
-90.7636363636
-10.0612244898
-5.38775510204
-82.4516129032
-25.0212765957
-6.47058823529
-20.25
-17.3333333333
-21.8867924528
-143.255813953
-12.7272727273
-4.21621621622
-225.75
-21.5
-
-15,58064516129
-15,51724137931
-68,23529411765
-30,08333333333
-9,56521739130
-6,11764705882
-132,70833333333
-90,76363636364
-10,06122448980
-5,38775510204
-82,45161290323
-25,02127659574
-6,47058823529
-20,25000000000
-17,33333333333
-21,88679245283
-143,25581395349
-12,72727272727
-4,21621621622
-225,75000000000
-21,50000000000
-
-
-21
-23 21 10
-25 18 11
-116 30 21
-57 19 17
-22 20 26
-12 26 25
-245 26 22
-192 26 29
-17 29 20
-12 22 27
-142 18 13
-56 21 26
-10 22 12
-30 27 13
-24 26 10
-40 29 24
-440 14 29
-28 25 30
-13 12 25
-344 21 11
-43 13 13
 

@@ -10,6 +10,8 @@ import java.util.Locale;
  * Problem Author:  Advent of Code (AdventOfCode.com).
  *
  * @author Solution by: L.Azuaje.
+ *
+ * AdventOfCode.com: .
  */
 
 public class Main {

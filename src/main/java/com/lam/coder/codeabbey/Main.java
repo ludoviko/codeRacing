@@ -10,7 +10,7 @@ import java.util.Locale;
  *
  * @author CodeAbbey.com
  *
- * Solution by: LAzuaje.
+ * Solution by: L.Azuaje.
  *
  * Code Abbey: .
  *

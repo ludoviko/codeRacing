@@ -10,7 +10,7 @@ import java.io.PrintStream;
  *         <p>
  *         Solution by: LAzuaje.
  *         <p>
- *         Code Abbey: 75	 Yacht or Dice Poker          Simple mat.
+ *         Code Abbey: 75	 Yacht or Dice Poker          Simple math.
  */
 
 public class YachtOrDicePoker {

@@ -7,8 +7,10 @@ import java.io.PrintStream;
 import java.util.Locale;
 
 /**
- * 
- * @author L.Azuaje.
+ *
+ * @author CodeAbbey.com
+ *
+ * Solution by: LAzuaje.
  *
  * Code Abbey: .
  *

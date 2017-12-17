@@ -15,18 +15,12 @@ import java.util.Arrays;
  */
 
 public class PrimeRanges {
-
     public PrimeRanges() {
     }
-
-//	public find() {
-//	}
 
     public static void main(String[] args) throws IOException {
         MyScanner scanner = new MyScanner();
         PrintStream out = System.out;
-
-        PrimeRanges main = new PrimeRanges();
 
         Primes calculate = new Primes();
         calculate.find(3000000);

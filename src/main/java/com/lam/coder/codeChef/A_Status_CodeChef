@@ -1,3 +1,6 @@
-       ID   Level         Name                         Method                                    Accepted       Tested       Date             Comments
+       ID   Level         Name                         Method                                    Accepted       Tested       Date             Editorial
 
-	TRISQ   Beginner      Fit Squares in Triangle      Recursion, geometry                       Yes            Not needed   2017-Dec
+	TRISQ   Beginner      Fit Squares in Triangle      Recursion, geometry                       Yes            Not needed   2017-Dec         Done.
+   LECANDY  Peer/Easy     Little Elephant and Candies  Array, arithmetic                         Yes            Not needed   2017-Dec         Done.
+
+

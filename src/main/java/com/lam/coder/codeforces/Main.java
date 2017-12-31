@@ -7,8 +7,10 @@ import java.io.PrintStream;
 import java.util.InputMismatchException;
 
 /**
- * 
- * @author Code Forces.  Solution by: L.Azuaje.
+ *
+ * @author Code Forces.
+ *
+ * Solution by: L.Azuaje.
  *
  * Problem: .
  *

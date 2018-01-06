@@ -8,8 +8,13 @@
      9A   Beta  #9 Div-2	      Die Roll                       math, probabilities                       Not needed.  2017  Nov.       Done.
      9B   Beta  #9 Div-2          Running Student                geometry, implementation                  Not needed.  2017  Nov.       Done.    Cumbersome border case.
      9C   Beta  #9 Div-2          Hexadecimal's Numbers          implementation, math                      Not needed.  2017  Nov.       Done.
-
     25A	                          IQ Test                        brute force                               Not needed.  2015  Aug.       Done.
+    32A   Beta #32 Div-2          Reconnaissance                 brute force                               Not needed.  2017  Dec.       Done.
+    32B   Beta #32 Div-2          Borze                          expression parsing                        Not needed.  2017  Dec.       Done.
+
+    34A   Beta #34 Div-2          Reconnaissance 2               implementation                            Not needed.  2018  Jan.       Done.
+    34B   Beta #34 Div-2          Sale
+
     37A	  Beta  37                Towers                         sortings                                  Not needed.  2016  Oct.       Done.
     41A	                          Translation                    implementation, strings	               Not needed.  2015  Aug.       Done.
     43A   Beta #42 Div-2          Football                       string manipulation, counting             Not needed.  2017  Mar.       Done.
@@ -21,6 +26,8 @@
     61A	                          Ultra-Fast Mathematician       implementation                            Not needed.  2015  Aug.       Done.
     69A	                          Young Physicist                implementation, math                      Not needed.  2015  Aug.       Done.
     71A	                          Way Too Long Words             strings	  	                           Yes.         2014  Dec.       Done.
+    80A   Beta #69 Div-2          Panoramix's Prediction         prime numbers                             Not needed.  2017  Dec.       Done.
+    80B   Beta #69 Div-2          Depression                     geometry, math                            Not needed.  2017  Dec.       Done.
     82A	                          Double Cola                    implementation, math	                   Yes.         2015  Aug.       Done.
     90A Beta #74 Div-2            Cableway                       greedy, math, implementation              Not needed.  2017  Sept.      Done
     90B Beta #74 Div-2            African Crossword              implementation, string manipulation       Not needed.  2017  Sept.      Done
@@ -41,6 +48,7 @@
    131A	                          cAPS lOCK                      implementation, strings	               Yes.         2015  Feb.       Done.
    133A	                          HQ9+                           implementation	                           Not needed.  2015  Aug.       Done.
    136A	                          Presents                       implementation	                           Yes.         2015  Aug.       Done.
+   139A  Beta #99 Div-2           Petr and Book                  implementation	                           Not needed.  2018  Jan.       Done.
    141A	                          Amusing Joke                   implementation, sortings, strings	       Not needed.  2015  Aug.       Done.
    144A	                          Arrival Of The General         implementation	                           Yes.         2015  Aug.       Done.
    148A	                          Insomnia Cure       constructive algorithms, implementation, math	       Yes.         2015  Aug.       Done.
@@ -50,11 +58,14 @@
    158A	 VK Cup 2012 R-1          Next Round                     implementation	                           Yes.         2014  Dec.       Done.
    158B		   	                  Taxi                           greedy, implementation                    Yes.         2015  Jan.       Done. Kata. A better algorithm wanted.
    160A	   	   	   	              Twins                          greedy, sortings	                       Yes.         2015  Aug.       Done.
+   165A  #112 Div-2               Supercentral Point             implementation                            Not needed.  2018  Jan.       Done.
    174A  VK Cup 2012 R-3          Problem About Equation         Arithmetic                                Not needed.  2017  Dec.       Not any.
 
    200B	   	   	    	          Drinks                         implementation, math	                   Not needed.  2016  Oct.       Done.
    208A	   	   	   	              Dubstep                        strings	                               Not needed.  2015  Aug.       Done.
    214A  #131 Div-2	              System of Equations            brute force                               Not needed.  2016  Dec.       Done.
+   224A  #138 Div-2               Parallelepiped                 brute force, math                         Not needed.  2018  Jan.       Done.  Kata: a solution base on geometry is feasible.
+   227B  #140 Div-2               Effective Approach             implementation                            Not needed.  2018  Jan.       Done.
    228A	   	   	          Is Your Horseshoe On The Other Hoof ?  implementation	                           Not needed.  2015  Aug.       Done.
    230A	 #142 Div-2  		      Dragons                        greedy, sortings	                       Not needed.  2015  Aug.       Done.
 
@@ -64,9 +75,9 @@
    233A	 #144 Div-2               Perfect Permutation            implementation, math                      Not needed.  2017  Dec.       Done.
    236A	 	   	   	              Boy or Girl                    implementation	                           Not needed.  2015  Aug.       Done.
    237A		   	                  Free Cash implementation	     implementation	                           Not needed.  2015  Aug.       Done.
+   248A  #152 Div-2               Cupboards                       implementation                           Not needed.  2017  Dec.       Done.
    255A  #156 Div-2	              Greg's Workout                 implementation                            Not needed.  2016  Dec.       Done.
-
-   258A  #157 Div-1		          Little Elephant and Bits         greedy, math                            Not needed.  2017  Dec.       Done.
+   258A  #157 Div-1		          Little Elephant and Bits       greedy, math                              Not needed.  2017  Dec.       Done.
 
    263A		   	                  Beautiful Matrix               implementation	                           Not needed.  2015  Aug.       Done.
    266A	 	   	                  Stones on the Table            implementation                            Yes.         2015  July.      Done.
@@ -75,6 +86,8 @@
    268B		   	                  Buttons                        implementation, math	                   Yes.         2015  Aug.       Done.
    270A  #165 Div-2	   	     	  Fancy Fence                    geometry, math                            Not needed.  2017  May.       Done.
    271A 	   	     	          Beautiful Year                 brute force	                           Not needed.  2015  Aug.       Done.
+   272A  #167 Div-2               Dima and Friends               modular math                              Not needed.  2018  Jan.       Done.
+   275A  #168 Div-2               Lights Out                     implementation                            Not needed.  2017  Dec.       Done.
    276A	 #169 Div-2               Lunch Rush                     implementation                            Not needed.  2016  Dec.       Done.
    281A	  	   	   	              Word Capitalization            strings	                               Not needed.  2015  Aug.       Done.
    282A	 	   	   	              Bit++                          implementation                            Not needed.  2015  Feb.       Done.

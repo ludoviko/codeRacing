@@ -1,6 +1,12 @@
-       ID   Level         Name                         Method                                    Accepted       Tested       Date             Editorial
+  ID        Level         Name                         Method                                    Accepted       Tested       Date             Editorial
 
-	TRISQ   Beginner      Fit Squares in Triangle      Recursion, geometry                       Yes            Not needed   2017-Dec         Done.
-   LECANDY  Peer/Easy     Little Elephant and Candies  Array, arithmetic                         Yes            Not needed   2017-Dec         Done.
+  LUCKFOUR   Beginner      Lucky Four                   Arithmetic                                Yes            Not needed   2018-Jan         Done.
+  RRJOKE     Beginner      Good Joke                    XOR math                                  Yes            Not needed   2018-Jan         Done.
+  TRISQ      Beginner      Fit Squares in Triangle      Recursion, geometry                       Yes            Not needed   2017-Dec         Done.
 
+  CNOTE      Easy          Chef and Notebooks           Array, arithmetic                         Yes            Not needed   2018-Jan         Done.
+  SALARY     Easy          The Minimum Number Of Moves  Adhoc algorithms                          Yes            Not needed   2018-Jan         Done.
+
+
+  LECANDY    Peer/Easy     Little Elephant and Candies  Array, arithmetic                         Yes            Not needed   2017-Dec         Done.
 

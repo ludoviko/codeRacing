@@ -329,6 +329,7 @@ BearCheats	           SRM 664	      08.01.2015	 Simple Search, Iteration        
 PalindromePrime	       SRM 677	      12.26.2015	 Brute Force                          II.1       Done it. Contest: 106.65/250 Dec 2015. System Test: Passed. Editorial Review: Done.
 EllysTimeMachine	   TCO Algo 1A	  03.26.2016	 Simple Math, String Parsing	       I.1		 Done it. Contest: 145.95/250 Mar 2016. System Test: Passed. Editorial Review: Done.
 RangeEncoding	       SRM 714	      05.07.2017     Greedy			                      II.1	     Done it. Contest: 233.50/250 May 2017. System Test: Passed. Editorial Review: Done.
+HalvingEasy	           SRM 728	      01.25.2018	 Simulation			                  II.1       Done it. Value:  250   Feb 2018. System Test: Passed. Editorial Review: Not any.
 
 TopFox 	                    Competition      SRM 584 	 07.10.2013   String Manipulation 	                          II.1 	    Score:  99.96/250
 LISNumberDivTwo             Competition      SRM 585     07.19.2013   Simple Math	                                  II.1 	    Score: 137.38/250                  
@@ -357,3 +358,9 @@ BearCheats	 	            Competition      SRM 664     08.01.2015	  Simple Search
 PalindromePrime	            Competition      SRM 677	 12.26.2015	  Brute Force                                     II.1      Score: 106.65/250
 EllysTimeMachine	        Competition      TCO Algo 1A 03.26.2016   Simple Math, String Parsing	                   I.1		Score: 145.95/250
 RangeEncoding	            Competition      SRM 714	 05.07.2017   Greedy			                              II.1	    Score  233.50/250
+
+Editorial pages:
+
+
+https://www.topcoder.com/blog/tag/srm-editorials/
+https://apps.topcoder.com/wiki/display/tc/Algorithm+Problem+Set+Analysis

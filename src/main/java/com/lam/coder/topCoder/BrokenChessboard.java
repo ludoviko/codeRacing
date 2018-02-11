@@ -2,9 +2,7 @@ package com.lam.coder.topCoder;
 
 public class BrokenChessboard {
 
-    public int minimumFixes(String[] board) {
-        char first = board[0].charAt(0);
-        char second = board[0].charAt(0) == 'W' ? 'B' : 'W';
+    private int count(String[] board, char first, char second) {
         int count = 0;
 
         for (int i = 0; i < board.length; i++) {
@@ -24,4 +22,10 @@ public class BrokenChessboard {
         return count;
     }
 
+    public int minimumFixes(String[] board) {
+        int c1 = this.count(board, 'B', 'W');
+        int c2 = this.count(board, 'W', 'B');
+
+        return Math.min(c1, c2);
+    }
 }

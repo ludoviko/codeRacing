@@ -11,7 +11,7 @@ import java.util.InputMismatchException;
  *         <p>
  *         Solution by: L.Azuaje.
  *         <p>
- *         Problem: .
+ *         Problem: 352A  #204 Div-2               Jeff and Digits.
  */
 
 public class JeffAndDigits {

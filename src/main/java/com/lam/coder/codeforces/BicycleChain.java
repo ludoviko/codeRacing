@@ -22,8 +22,6 @@ public class BicycleChain {
         FastInputReader scanner = new FastInputReader();
         PrintStream out = System.out;
 
-        BicycleChain main = new BicycleChain();
-
         int n = scanner.nextInt();
         int[] data = scanner.nextIntArray(n);
 

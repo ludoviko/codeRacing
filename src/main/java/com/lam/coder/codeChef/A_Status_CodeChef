@@ -1,12 +1,16 @@
-  ID        Level         Name                         Method                                    Accepted       Tested       Date             Editorial
+  ID         Level         Name                         Method                                    Accepted       Tested       Date             Editorial
 
-  LUCKFOUR   Beginner      Lucky Four                   Arithmetic                                Yes            Not needed   2018-Jan         Done.
-  RRJOKE     Beginner      Good Joke                    XOR math                                  Yes            Not needed   2018-Jan         Done.
+  CHEFSTLT   Beginner      Chef and Two Strings         String manipulation                       Yes            Not needed   2018-Jan         Done.
+  CIELRCPT   Beginner      Ciel and Receipt             Greedy                                    Yes            Not needed   2013-Nov         Not. Kata.
   TRISQ      Beginner      Fit Squares in Triangle      Recursion, geometry                       Yes            Not needed   2017-Dec         Done.
+  RRJOKE     Beginner      Good Joke                    XOR math                                  Yes            Not needed   2018-Jan         Done.
+  LUCKFOUR   Beginner      Lucky Four                   Arithmetic                                Yes            Not needed   2018-Jan         Done.
+  CHN15A     Beginner      Mutated Minions              Simple math                               Yes            Not needed   2018-Jan         Done.
 
   CNOTE      Easy          Chef and Notebooks           Array, arithmetic                         Yes            Not needed   2018-Jan         Done.
   SALARY     Easy          The Minimum Number Of Moves  Adhoc algorithms                          Yes            Not needed   2018-Jan         Done.
 
-
   LECANDY    Peer/Easy     Little Elephant and Candies  Array, arithmetic                         Yes            Not needed   2017-Dec         Done.
 
+
+LoteryCombination

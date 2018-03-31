@@ -11,7 +11,7 @@ import java.util.InputMismatchException;
  *         <p>
  *         Solution by: L.Azuaje.
  *         <p>
- *         Problem: .
+ *         Problem:  FLOW005    Beginner      Smallest Numbers of Notes.
  */
 public class SmallestNumbersOfNotes {
     private static int[] DIVISORS = {100, 50, 10, 5, 2, 1};
@@ -20,38 +20,6 @@ public class SmallestNumbersOfNotes {
 
     public SmallestNumbersOfNotes(int n) {
         this.n = n;
-    }
-
-    public int find() {
-        int m = this.n;
-        int quotient = 0;
-        int remainder = -1;
-
-        int i = 0;
-        while (remainder != 0) {
-            quotient += m / DIVISORS[i];
-            remainder = m % DIVISORS[i];
-            m = remainder;
-            i++;
-        }
-
-        return quotient;
-    }
-
-    public int find() {
-        int m = this.n;
-        int quotient = 0;
-        int remainder = -1;
-
-        int i = 0;
-        while (remainder != 0) {
-            quotient += m / DIVISORS[i];
-            remainder = m % DIVISORS[i];
-            m = remainder;
-            i++;
-        }
-
-        return quotient;
     }
 
     public static void main(String[] args) throws IOException {
@@ -69,6 +37,22 @@ public class SmallestNumbersOfNotes {
         // out.format("%s %d %n", string, score);
         out.println();
         out.close();
+    }
+
+    public int find() {
+        int m = this.n;
+        int quotient = 0;
+        int remainder = -1;
+
+        int i = 0;
+        while (remainder != 0) {
+            quotient += m / DIVISORS[i];
+            remainder = m % DIVISORS[i];
+            m = remainder;
+            i++;
+        }
+
+        return quotient;
     }
 
     // -----------MyScanner class for faster input----------

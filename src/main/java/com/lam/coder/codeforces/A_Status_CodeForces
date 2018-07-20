@@ -66,6 +66,7 @@
    208A	   	   	   	              Dubstep                        strings	                               Not needed.  2015  Aug.       Done.
    214A  #131 Div-2	              System of Equations            brute force                               Not needed.  2016  Dec.       Done.
    215A  #131 Div-2	              Bicycle Chain                  brute force                               Not needed.  2018  Feb.       Done.
+   218B  #134 Div-2               Airport                        implementation                            Not needed.  2018  Feb.       Not any.
    219A  #135 Div-2               k-String                       implementation, string                    Not needed.  2018  Feb.       Done.
    221A  #136 Div-2               Little Elephant and Function   recursion, implementation                 Not needed.  2018  Feb.       Done.
    224A  #138 Div-2               Parallelepiped                 brute force, math                         Not needed.  2018  Jan.       Done.  Kata: a solution base on geometry is feasible.
@@ -80,6 +81,8 @@
    236A	 	   	   	              Boy or Girl                    implementation	                           Not needed.  2015  Aug.       Done.
    237A		   	                  Free Cash implementation	     implementation	                           Not needed.  2015  Aug.       Done.
    248A  #152 Div-2               Cupboards                       implementation                           Not needed.  2017  Dec.       Done.
+
+
    255A  #156 Div-2	              Greg's Workout                 implementation                            Not needed.  2016  Dec.       Done.
    258A  #157 Div-1		          Little Elephant and Bits       greedy, math                              Not needed.  2017  Dec.       Done.
 
@@ -93,8 +96,15 @@
    272A  #167 Div-2               Dima and Friends               modular math                              Not needed.  2018  Jan.       Done.
    275A  #168 Div-2               Lights Out                     implementation                            Not needed.  2017  Dec.       Done.
    276A	 #169 Div-2               Lunch Rush                     implementation                            Not needed.  2016  Dec.       Done.
+   276B  #169 Div-2               Little Girl and Game           palindrome                                Not needed.  2018  Mar.       Done.
    281A	  	   	   	              Word Capitalization            strings	                               Not needed.  2015  Aug.       Done.
    282A	 	   	   	              Bit++                          implementation                            Not needed.  2015  Feb.       Done.
+
+
+   298A  #180 Div-2               Snow Footprints
+
+   298B  #180 Div-2               Sail                           greedy, brute force                       Not needed.  2018  Mar.       Done.
+
 
    313B	 #186 Div-2               Ilya and Queries               dp, implementation                        Not needed.  2016  Dec.       Done.
    318A	  	   	                  Even Odds                      math	                                   Not needed.  2015  Aug.       Done.
@@ -107,6 +117,7 @@
    344A		   	                  Magnets                        implementation	                           Not needed.  2015  Aug.       Done.
    349A	 #202 Div-2               Cinema Line                    greedy, implementation                    Not needed.  2016  Oct.       Done.
    352A  #204 Div-2               Jeff and Digits                math                                      Not needed.  2018  Feb.       Done.
+   352B  #204 Div-2               Jeff and Periods               implementation                            Not needed.  2018  Mar.       Done.
    353A  #205 Div-2               Domino                         implementaion, math                       Not needed.  2016  Oct.       Done.
    368A  #215 Div-2               Sereja and Coat Rack           implementaion                             Not needed.  2017  Aug.       Done.
    368B  #215 Div-2    	          Sereja and Suffixes            dynamic programming                       Not needed.  2015  Jul.       Done.
@@ -123,6 +134,7 @@
    439A	 	   	                  Devu, The Singer and Churu, The Joker   greedy, implementation	       Not needed.  2016  Oct.       Done.
    441A  #252 Div-2	              Valera and Antique Items       implementation                            Not needed.  2016  Novt.      Done.
    443A	 	   	   	              Anton And Letters              constructive algorithms, implementation   Not needed.  2015  Aug.       Done.
+   445A  #254 Div-2               DZY Loves Chessboard           implementation  	                       Not needed.  2018  Mar.       Done.
    448A	 	   	                  Rewards                        implementation	                           Not needed.  2015  Aug.       Done.
    450A  #257 Div-2	              Jzzhu and Children             implementation                            Not needed.  2016  Dec.       Done.
    451A	 #258 Div-2 	          Game With Sticks               implementation                            Yes.         2015  Aug.       Done.
@@ -214,7 +226,9 @@
    610A	  #337 Div-2              Pasha and Stick                combinatorics, math                       Not needed.  2017  Jan.       Done.
    611A	  Good Bye 2015           New Year and Days              implementation                            Not needed.  2016  Oct.       Done.
    615A	  #338 Div-2              Bulbs                          implementation                            Not needed.  2016  Nov.       Done.
-   617A 	                      Elephant                       math, greedy                              Not needed.  2016  Oct.       Done.
+   617A   #340 Div-2              Elephant                       math, greedy                              Not needed.  2016  Oct.       Done.
+
+
    621A   #341 Div-2              Wet Shark and Odd and Even     implementation                            Not needed.  2016  Oct.       Done.
    630A   VolBIT Formulas Blitz	  Again Twenty Five!             number theory                             Not needed.  2016  Dec.       Done.
 
@@ -292,6 +306,10 @@
    864A   #436 Div-2              Fair Games                     implementation                            Not needed  2017  Oct         Done.
    864B   #436 Div-2              Polycarp and Letters           string manipulation                       Not needed  2017  Sept        Done.  Contest.
 
+   977A   #429 Div-3             Wrong Subtraction
+
+   977B   #429 Div-3            Two-gram
+   Divide by three multiply by two
 
    Gym    Bangladesh NHSPC 2017   A - Charm Is Not Always Enough  greedy                                   Not needed   2017  May        Done.
 

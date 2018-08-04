@@ -133,6 +133,14 @@ public class Main {
             return arr;
         }
 
+        public Integer[] nextIntegerArray(int n) {
+            Integer[] arr = new Integer[n];
+            for (int i = 0; i < n; i++) {
+                arr[i] = nextInt();
+            }
+            return arr;
+        }
+
         public long[] nextLongArray(int n) {
             long[] arr = new long[n];
             for (int i = 0; i < n; i++) {

@@ -69,6 +69,7 @@
    218B  #134 Div-2               Airport                        implementation                            Not needed.  2018  Feb.       Not any.
    219A  #135 Div-2               k-String                       implementation, string                    Not needed.  2018  Feb.       Done.
    221A  #136 Div-2               Little Elephant and Function   recursion, implementation                 Not needed.  2018  Feb.       Done.
+   222A  #137 Div-2               Shooshuns and Sequence         implementation                            Not needed.  2018  Aug.       Done.
    224A  #138 Div-2               Parallelepiped                 brute force, math                         Not needed.  2018  Jan.       Done.  Kata: a solution base on geometry is feasible.
    227B  #140 Div-2               Effective Approach             implementation                            Not needed.  2018  Jan.       Done.
    228A	   	   	          Is Your Horseshoe On The Other Hoof ?  implementation	                           Not needed.  2015  Aug.       Done.
@@ -114,6 +115,7 @@
    337A		    	              Puzzles                        dp, graph matchings, greedy	           Yes.         2016  Oct.       Done.
    339A	   	 	                  Helpful Maths              greedy, implementation, sortings, strings     Yes.         2015  Aug.       Done.
    339B	  	   	                  Xenia And Ringroad             implementation	                           Not needed.  2015  Aug.       Done.
+   342A  #194 Div-2               Xenia and Divisors             greedy, implementation                    Not needed.  2018  Aug.       Done.
    344A		   	                  Magnets                        implementation	                           Not needed.  2015  Aug.       Done.
    349A	 #202 Div-2               Cinema Line                    greedy, implementation                    Not needed.  2016  Oct.       Done.
    352A  #204 Div-2               Jeff and Digits                math                                      Not needed.  2018  Feb.       Done.

@@ -25,6 +25,8 @@ public class MainTest {
 //		Assert.assertArrayEquals(new int[] {}, main.);
 //		Assert.assertArrayEquals(new String[] {}, main.);
 //        Assert.assertThat("string", CoreMatchers.instanceOf(String.class) );
+//        assertThat(3.3, IsCloseTo.closeTo(3.33, 0.1));
+
     }
 }
 

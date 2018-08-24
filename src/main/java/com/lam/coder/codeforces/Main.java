@@ -18,6 +18,9 @@ import java.util.InputMismatchException;
  */
 
 public class Main {
+    public static final String YES = "YES";
+    public static final String NO = "NO";
+
     public  Main() {
     }
 

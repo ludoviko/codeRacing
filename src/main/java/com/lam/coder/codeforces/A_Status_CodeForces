@@ -59,6 +59,7 @@
    160A	   	   	   	              Twins                          greedy, sortings	                       Yes.         2015  Aug.       Done.
    165A  #112 Div-2               Supercentral Point             implementation                            Not needed.  2018  Jan.       Done.
    174A  VK Cup 2012 R-3          Problem About Equation         Arithmetic                                Not needed.  2017  Dec.       Not any.
+   186A  #118 Div-2               Comparing Strings              string manipulation                       Not needed.  2018  Aug.       Done.
    199A  #125 Div-2               Hexadecimal's theorem          Number theory                             Not needed.  2018  Feb.       Done.
    200B	   	   	    	          Drinks                         implementation, math	                   Not needed.  2016  Oct.       Done.
    205A  #129 Div-2               Little Elephant and Rozdil     implementation, brute force               Not needed.  2018  Jan.       Not any.
@@ -134,6 +135,7 @@
    431A  #247 Div-2	              Black Square                   implementation                            Not needed.  2016  Dec.       Done.
    431B  #247 Div-2	              ShowerLine                     permutation, brute force                  Not needed.  2018  Aug.       Done.
    432A	   	   	                  Choosing Teams                 greedy, implementation, sortings          Not needed.  2016  Oct.       Done.
+   433A  #248 Div-2               Kitahara Haruki's Gift         brute force, implementation               Not needed.  2018  Sept.       Done.
    439A	 	   	                  Devu, The Singer and Churu, The Joker   greedy, implementation	       Not needed.  2016  Oct.       Done.
    441A  #252 Div-2	              Valera and Antique Items       implementation                            Not needed.  2016  Novt.      Done.
    443A	 	   	   	              Anton And Letters              constructive algorithms, implementation   Not needed.  2015  Aug.       Done.
@@ -312,7 +314,6 @@
    977A   #429 Div-3             Wrong Subtraction
 
    977B   #429 Div-3            Two-gram
-   Divide by three multiply by two
 
    Gym    Bangladesh NHSPC 2017   A - Charm Is Not Always Enough  greedy                                   Not needed   2017  May        Done.
 
@@ -335,3 +336,4 @@
    750B   Good Bye 2016             New Year And North Pole         Implementation                                      594 /  750     Not needed   2016  Dec.
    754B   #390 Div-2	            Ilya and tic-tac-toe game       brute force, implementation                         700 / 1000     Not needed   2017  Jan.
    864B   #436 Div-2                Polycarp and Letters            string manipulation                                 856 / 1000     Not needed   2017  Sept.
+ Many Equal Substrings

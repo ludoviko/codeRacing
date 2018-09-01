@@ -11,7 +11,10 @@
   FLOW005    Beginner      Smallest Numbers of Notes    Greedy                                    Yes            Not needed   2018-Mar         Not any.
 
   LECANDY    Peer/Easy     Little Elephant and Candies  Array, arithmetic                         Yes            Not needed   2017-Dec         Done.
-  LUCKFOUR   Beginner      Lucky Four                   Arithmetic                                Yes            Not needed   2018-Jan         Done.
+  LUCKFOUR   Beginner      Lucky Four                   Arithmetic
+
+  PPSUM      Beginner      Puppy and Sum                Recursion                                 Yes            Not needed   2018-Sept        Done.
+
   RAINBOWA   Beginner      Chef and Rainbow Array       Palindrome, array manipulation            Yes            Not needed   2018-Mar         Done.
   RRJOKE     Beginner      Good Joke                    XOR math                                  Yes            Not needed   2018-Jan         Done.
   SALARY     Easy          The Minimum Number Of Moves  Adhoc algorithms                          Yes            Not needed   2018-Jan         Done.
@@ -19,7 +22,6 @@
   TEST       Beginner      Life, the Universe, and Everything   io read/write                     Yes            Not needed   2013-Nov         Done.
 
 
-Puppy and Sum  	PPSUM Beginner
 Version Control System VCS
 
 Practice Problems

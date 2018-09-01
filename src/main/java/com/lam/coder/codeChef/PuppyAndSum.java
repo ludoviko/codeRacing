@@ -9,30 +9,38 @@ import java.util.InputMismatchException;
  *         <p/>
  *         Solution by: L.Azuaje.
  *         <p/>
- *         Problem: .
+ *         Problem: PPSUM  Puppy and Sum.
  */
 
-public class Main {
+public class PuppyAndSum {
     public static final String YES = "YES";
     public static final String NO = "NO";
 
-    public Main() {
+    public PuppyAndSum() {
     }
 
-//	public find() {
-//	}
+    public static int sum(int times, int n) {
+        if (times == 1) {
+            return sum(n);
+        } else {
+            return (sum(sum(--times, n)));
+        }
+    }
+
+    public static int sum(int n) {
+        return (1 + n) * n / 2;
+    }
 
     public static void main(String[] args) throws IOException {
         FastInputReader scanner = new FastInputReader();
         PrintStream out = System.out;
 
-        Main main = new Main();
+        int cases = scanner.nextInt();
 
-        int n = scanner.nextInt();
-        int[] data = scanner.nextIntArray(n);
-        String string = scanner.nextString();
-        // out.format("%s %d %n", string, score);
-        out.println();
+        for (int c = 0; c < cases; c++) {
+            int[] data = scanner.nextIntArray(2);
+            out.println(sum(data[0], data[1]));
+        }
 
         out.close();
     }
@@ -156,3 +164,4 @@ public class Main {
         }
     }
 }
+

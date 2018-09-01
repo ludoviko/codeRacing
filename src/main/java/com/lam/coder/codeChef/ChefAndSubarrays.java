@@ -9,30 +9,44 @@ import java.util.InputMismatchException;
  *         <p>
  *         Solution by: L.Azuaje.
  *         <p>
- *         Problem: .
+ *         Problem: Chef and Subarrays Problem Code: CHEFARRP.
+ *         <p>
+ *         The solutions must consider only subarrys with adjacent elements.
  */
 
-public class Main {
+public class ChefAndSubarrays {
     public static final String YES = "YES";
     public static final String NO = "NO";
 
-    public Main() {
+    public ChefAndSubarrays() {
     }
-
-//	public find() {
-//	}
 
     public static void main(String[] args) throws IOException {
         FastInputReader scanner = new FastInputReader();
         PrintStream out = System.out;
 
-        Main main = new Main();
+        int cases = scanner.nextInt();
 
-        int n = scanner.nextInt();
-        int[] data = scanner.nextIntArray(n);
-        String string = scanner.nextString();
-        // out.format("%s %d %n", string, score);
-        out.println();
+        for (int c = 0; c < cases; c++) {
+            int size = scanner.nextInt();
+            int[] data = scanner.nextIntArray(size);
+
+            int matches = 0;
+            for (int i = 0; i < size; i++) {
+                long sum = 0;
+                long product = 1;
+
+                for (int j = i; j < size; j++) {
+                    sum += data[j];
+                    product *= data[j];
+                    if (sum == product) {
+                        matches++;
+                    }
+                }
+            }
+
+            out.println(matches);
+        }
 
         out.close();
     }
@@ -156,3 +170,4 @@ public class Main {
         }
     }
 }
+

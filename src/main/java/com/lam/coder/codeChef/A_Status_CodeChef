@@ -1,25 +1,27 @@
   ID         Level         Name                         Method                                    Accepted       Tested       Date             Editorial
 
+  CHEFARR    Beginner      Chef and Subarrays           Adjacent subarrays                        Yes            Not needed   2018-Sept        Done.
   CHEFSTLT   Beginner      Chef and Two Strings         String manipulation                       Yes            Not needed   2018-Jan         Done.
+  CNOTE      Easy          Chef and Notebooks           Array, arithmetic                         Yes            Not needed   2018-Jan         Done.
+
   CHN15A     Beginner      Mutated Minions              Simple math                               Yes            Not needed   2018-Jan         Done.
 
   CIELRCPT   Beginner      Ciel and Receipt             Greedy                                    Yes            Not needed   2013-Nov         Not any. Kata.
 
   FLOW005    Beginner      Smallest Numbers of Notes    Greedy                                    Yes            Not needed   2018-Mar         Not any.
 
+  LECANDY    Peer/Easy     Little Elephant and Candies  Array, arithmetic                         Yes            Not needed   2017-Dec         Done.
   LUCKFOUR   Beginner      Lucky Four                   Arithmetic                                Yes            Not needed   2018-Jan         Done.
   RAINBOWA   Beginner      Chef and Rainbow Array       Palindrome, array manipulation            Yes            Not needed   2018-Mar         Done.
   RRJOKE     Beginner      Good Joke                    XOR math                                  Yes            Not needed   2018-Jan         Done.
+  SALARY     Easy          The Minimum Number Of Moves  Adhoc algorithms                          Yes            Not needed   2018-Jan         Done.
   TRISQ      Beginner      Fit Squares in Triangle      Recursion, geometry                       Yes            Not needed   2017-Dec         Done.
   TEST       Beginner      Life, the Universe, and Everything   io read/write                     Yes            Not needed   2013-Nov         Done.
 
-  CNOTE      Easy          Chef and Notebooks           Array, arithmetic                         Yes            Not needed   2018-Jan         Done.
-  SALARY     Easy          The Minimum Number Of Moves  Adhoc algorithms                          Yes            Not needed   2018-Jan         Done.
-
-  LECANDY    Peer/Easy     Little Elephant and Candies  Array, arithmetic                         Yes            Not needed   2017-Dec         Done.
-
 
 Puppy and Sum  	PPSUM Beginner
-Chef and Subarrays CHEFARRP Beginner
+Version Control System VCS
 
-
+Practice Problems
+codechef.com - FRGTNLNG, editorial
+codechef.com - COPS, editorial

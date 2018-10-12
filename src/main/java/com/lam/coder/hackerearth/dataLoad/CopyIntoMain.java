@@ -7,6 +7,7 @@ public class CopyIntoMain {
     public static void main(String[] args) throws IOException {
         String dirIn = "./src/main/java/com/lam/coder/hackerearth/";
         String dirOut = "./src/main/java/";
+        String targetName = "TestClass";
 
         System.out
                 .println("hackerearth: Utility for creating the Main Class -to be sent to the judges- from a Given Class.");
@@ -38,7 +39,7 @@ public class CopyIntoMain {
 
             data = output.toString();
 
-            data = data.replace(name, "Main");
+            data = data.replace(name, targetName);
 
             System.out.println(output);
 
@@ -46,12 +47,11 @@ public class CopyIntoMain {
             if (s != null) {
                 s.close();
             }
-
         }
 
         try {
             outputStream = new PrintWriter(new FileWriter(
-                    dirOut + "Main.java"));
+                    dirOut + targetName + ".java"));
 
             outputStream.println(data);
         } finally {
@@ -60,7 +60,5 @@ public class CopyIntoMain {
             }
         }
         sc.close();
-
     }
-
 }

@@ -1,9 +1,9 @@
 package com.lam.coder.projectEuler;
 
-import java.math.BigInteger;
-
 import com.lam.utilString.Palindrome;
 import com.lam.utilString.Reverse;
+
+import java.math.BigInteger;
 
 /**
  * @author Ludoviko Azuaje
@@ -54,7 +54,7 @@ public class LychrelNumbers {
 			result = false;
 
 			for (int j = 1; j <= ITERATIONS; j++) {
-				pal = pal.add(new BigInteger(Reverse.reverseExpression(pal
+				pal = pal.add(new BigInteger(Reverse.reverse(pal
 						.toString())));
 				if (Palindrome.isPalindrome(pal.toString())) {
 //					System.out.println(i + "/" + pal.toString());

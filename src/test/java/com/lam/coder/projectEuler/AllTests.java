@@ -63,8 +63,8 @@ import org.junit.runners.Suite.SuiteClasses;
 	SmallestMultipleTest.class,
 	SquareDigitChainsTest.class,
 	SquareRootConvergentsTest.class,
-	SquareRootDigitalExpansionTest.class,
-	SubstringDivisibilityTest.class,
+
+		SubstringDivisibilityTest.class,
 	SumAmicableNumbersTest.class,
 	SummationPrimesTest.class,
 	SumMultiplesTest.class,

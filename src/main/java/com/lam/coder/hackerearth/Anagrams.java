@@ -42,7 +42,6 @@ public class Anagrams {
         return map;
     }
 
-
     public static void main(String[] args) throws IOException {
         FastInputReader scanner = new FastInputReader();
         PrintStream out = System.out;

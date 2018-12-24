@@ -7,7 +7,7 @@ public class CopyIntoMain {
     public static void main(String[] args) throws IOException {
         String dirIn = "./src/main/java/com/lam/coder/hackerearth/";
         String dirOut = "./src/main/java/";
-        String targetName = "TestClass";
+        String targetName = "Main";
 
         System.out
                 .println("hackerearth: Utility for creating the Main Class -to be sent to the judges- from a Given Class.");

@@ -9,7 +9,7 @@ import java.util.InputMismatchException;
  *         <p/>
  *         Solution by: L.Azuaje.
  *         <p/>
- *         Problem: .
+ *         Problem: CSUB       Easy          Count SubstringsOfOnes .
  */
 
 public class CountSubstringsOfOnes {

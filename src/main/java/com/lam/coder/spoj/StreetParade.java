@@ -35,6 +35,7 @@ public class StreetParade {
 
             Deque<Integer> mainStreet = new ConcurrentLinkedDeque<>();
             Deque<Integer> sideStreet = new ConcurrentLinkedDeque<>();
+
             int next = 1;
             for (int i = 0; i < n; i++) {
                 if (data[i] == next) {
@@ -45,10 +46,6 @@ public class StreetParade {
                 while (!mainStreet.isEmpty() && !sideStreet.isEmpty() && (sideStreet.peek() == mainStreet.peek() + 1)) {
                     mainStreet.push(sideStreet.pop());
                 }
-            }
-
-            while (!sideStreet.isEmpty()) {
-                mainStreet.push(sideStreet.pop());
             }
 
             boolean right = true;

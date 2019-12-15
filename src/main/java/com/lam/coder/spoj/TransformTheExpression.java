@@ -12,6 +12,9 @@ import java.util.*;
  * Solution by: L.Azuaje.
  * <p>
  * Problem: https://www.spoj.com/problems/ONP/.
+ *
+ * Transform the algebraic expression with brackets into RPN form (Reverse Polish Notation).
+ *
  */
 
 public class TransformTheExpression {

@@ -6,6 +6,10 @@
   CNOTE      Easy          Chef and Notebooks           Array, arithmetic                         Yes            Not needed   2018-Jan         Done.
   CHN15A     Beginner      Mutated Minions              Simple math                               Yes            Not needed   2018-Jan         Done.
   CIELRCPT   Beginner      Ciel and Receipt             Greedy                                    Yes            Not needed   2013-Nov         Not any. Kata.
+
+  COMPILER    Easy         Compilers and parsers        Stacks.                                   Yes            Not needed    2018-Dec         Done. Missing test cases.
+
+
   COPS       Beginner      Cops and the Thief Devu      Array manipulation                        Yes            Not needed   2018-Sept        Done.
   CSUB       Easy          Count SubstringsOfOnes       Subset counting                           Yes            Not needed   2019-Apr         Done.
 
@@ -27,3 +31,4 @@
 
   VCS        Beginner      Version Control System       Set operations                            Yes            Not needed   2018-Sept        Done.
 
+Compilers and parsers Problem Code: COMPILER

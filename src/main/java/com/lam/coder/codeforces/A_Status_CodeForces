@@ -47,6 +47,8 @@
    133A	 Beta #96 Div-2           HQ9+                           implementation	                           Not needed.  2015  Aug.       Done.
    133B  Beta #96 Div-2           Unary                          implementation	                           Not needed.  2018  Jan.       Done.
    136A	                          Presents                       implementation	                           Yes.         2015  Aug.       Done.
+
+
    139A  Beta #99 Div-2           Petr and Book                  implementation	                           Not needed.  2018  Jan.       Done.
    141A	                          Amusing Joke                   implementation, sortings, strings	       Not needed.  2015  Aug.       Done.
    144A	                          Arrival Of The General         implementation	                           Yes.         2015  Aug.       Done.
@@ -69,6 +71,10 @@
    215A  #131 Div-2	              Bicycle Chain                  brute force                               Not needed.  2018  Feb.       Done.
    218B  #134 Div-2               Airport                        implementation                            Not needed.  2018  Feb.       Not any.
    219A  #135 Div-2               k-String                       implementation, string                    Not needed.  2018  Feb.       Done.
+
+  220B  #136 Div-1                     Little Elephant and Array
+
+
    221A  #136 Div-2               Little Elephant and Function   recursion, implementation                 Not needed.  2018  Feb.       Done.
    222A  #137 Div-2               Shooshuns and Sequence         implementation                            Not needed.  2018  Aug.       Done.
    224A  #138 Div-2               Parallelepiped                 brute force, math                         Not needed.  2018  Jan.       Done.  Kata: a solution base on geometry is feasible.
@@ -84,11 +90,11 @@
    237A		   	                  Free Cash implementation	     implementation	                           Not needed.  2015  Aug.       Done.
    248A  #152 Div-2               Cupboards                       implementation                           Not needed.  2017  Dec.       Done.
 
-
    255A  #156 Div-2	              Greg's Workout                 implementation                            Not needed.  2016  Dec.       Done.
    258A  #157 Div-1		          Little Elephant and Bits       greedy, math                              Not needed.  2017  Dec.       Done.
-
    263A		   	                  Beautiful Matrix               implementation	                           Not needed.  2015  Aug.       Done.
+   265A  #162 Div-2               Colorful Stones                implementation	                           Not needed.  2019  Dec.       Done.
+   265B  #162 Div-2               Roadside Trees                 implementation	                           Not needed.  2019  Dec.       Done.
    266A	 	   	                  Stones on the Table            implementation                            Yes.         2015  July.      Done.
    266B		   	                  Queue at the School       constructive algorithms, graph matchings	   Yes.         2015  Aug.       Done.
    268A		   	                  Games                          brute force 	                           Not needed.  2015  Aug.       Done.
@@ -101,8 +107,7 @@
    276B  #169 Div-2               Little Girl and Game           palindrome                                Not needed.  2018  Mar.       Done.
    281A	  	   	   	              Word Capitalization            strings	                               Not needed.  2015  Aug.       Done.
    282A	 	   	   	              Bit++                          implementation                            Not needed.  2015  Feb.       Done.
-
-
+   294A  #178 Div-2               Shaass and Oskols              Matrix arithmetic                         Not needed.  2019  Dec.       Done.
    298A  #180 Div-2               Snow Footprints
 
    298B  #180 Div-2               Sail                           greedy, brute force                       Not needed.  2018  Mar.       Done.
@@ -126,6 +131,7 @@
    368B  #215 Div-2    	          Sereja and Suffixes            dynamic programming                       Not needed.  2015  Jul.       Done.
    378A	 #222 Div-2               Playing with Dice              brute force                               Not needed.  2016  Dec.       Done.
    379A	 	   	                  New Year Candles               implementation                            Yes.         2015  Aug.       Done.
+   381A  #223 Div-2               Sereja and Dima                Greedy                                    Not needed   2019  Dec.       Done.
    384A	 #225 Div-2               Coder                          implementation                            Not needed   2017  Jan.       Done.
    385A  #226 Div-2	              Bear and Raspberry             brute force, greedy, implementation       Not needed.  2016  Dec.       Done.
 
@@ -295,11 +301,18 @@
    766A   #396 Div-2	Mahmoud and Longest Uncommon Subsequence constructive algorithms, strings          Not needed   2017  Oct.       Done.
    766B	  #396 Div-2              Mahmoud and a Triangle         geometry, greedy, sortings                Not needed   2017  Nov.       Done.
    768A	  #399 Div-1-2            Oath of the Night's Watch      constructive algorithms, sortings         Not needed   2017  Dec.       Done.  Kata.  Find a simpler solution.
+
+   770A   VK Cup 2017 Q-2         New Password                   implementation                            Not needed   2019  Dec.       Done.
+
    785A   #404 Div-2              Anton and Polyhedrons          implementation                            Not needed   2017  Jul.       Done.
    785B   #404 Div-2              Anton and Classes              greedy, sorting                           Not needed   2017  Jul.       Done.
    791A   #405 Div-2              Bear and Big Brother           math, logarithms                          Not needed   2017  Jun.       Done.
    796A   #408 Div-2	          Buying A House                 brute force, implementation               Not needed   2017  Nov.       Done.
    798A	  #410 Div-2              Mike and palindrome     brute force, constructive algorithms, strings    Not needed   2017  Nov.       Done.
+
+   799A   #413 Div-1-2            Carrot Cakes                   XXX
+
+
    799B   #413 Div-1-2            T-shirt buying                 Sorting, pointers                         Not needed   2017  Sept.      Done.   Convoluted problem.
 
    822A	  #422 Div-2              I'm bored with life            implementation, math, number theory       Not needed   2017  Aug.       Not any.
@@ -317,6 +330,7 @@
 
    Gym    Bangladesh NHSPC 2017   A - Charm Is Not Always Enough  greedy                                   Not needed   2017  May        Done.
 
+  1279A   EducCF #79                New Year Garland                Ad-hoc                                 Not needed   2019  Dec        XXX.
 
 
    Code   Contest                   Name                            Method                                              Points         Tested       Date
@@ -336,4 +350,10 @@
    750B   Good Bye 2016             New Year And North Pole         Implementation                                      594 /  750     Not needed   2016  Dec.
    754B   #390 Div-2	            Ilya and tic-tac-toe game       brute force, implementation                         700 / 1000     Not needed   2017  Jan.
    864B   #436 Div-2                Polycarp and Letters            string manipulation                                 856 / 1000     Not needed   2017  Sept.
+
+  1279A   EducCF #79                New Year Garland                Ad-hoc
+
+         Good Bye 2018
+
+
  Many Equal Substrings

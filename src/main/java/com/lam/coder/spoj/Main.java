@@ -11,7 +11,7 @@ import java.util.InputMismatchException;
  * <p>
  * Solution by: L.Azuaje.
  * <p>
- * Spj problem: .
+ * Spoj problem: .
  */
 
 public class Main {

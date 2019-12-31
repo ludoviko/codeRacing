@@ -26,7 +26,6 @@ public class UniformGenerator {
     }
 
     public static boolean check(int step, int mod) {
-        boolean isRight = false;
         Set<Integer> set = new HashSet<>();
 
         int x = 0;

@@ -5,6 +5,10 @@
      2A   Beta 2                  Winner                         implementation                            No           2017  Sept       Done.    Cumbersome problem.
      4A	  Beta  #4 Div-2          Watermelon                     brute force, math	                       Yes.         2014  Dec.       Done.
      4C	  Beta  #4 Div-2          Registration System        data structures, hashing, implementation      Yes.         2016  Oct.       Done.
+
+     4C   Beta #5                  Longest Regular Bracket Sequence xxx
+
+
      9A   Beta  #9 Div-2	      Die Roll                       math, probabilities                       Not needed.  2017  Nov.       Done.
      9B   Beta  #9 Div-2          Running Student                geometry, implementation                  Not needed.  2017  Nov.       Done.    Cumbersome border case.
      9C   Beta  #9 Div-2          Hexadecimal's Numbers          implementation, math                      Not needed.  2017  Nov.       Done.
@@ -37,10 +41,11 @@
 
    116A	   	   	   	              Tram                           implementation                     	   Yes.         2015  Jan.       Done.
    118A	 Beta #89 Div-2           String Task                    implementation, strings	               Yes.         2014  Dec.       Done.
-   118B	 Beta #89 Div-2           Present from Lena              constructive algorithms, implementation   Not needed.   2016  Nov.      Done.
+   118B	 Beta #89 Div-2           Present from Lena              constructive algorithms, implementation   Not needed.  2016  Nov.       Done.
    119A	   	   	   	   	          Epic Game                      implementation	                           Yes.         2015  Aug.       Done.
+   122A	 Beta #91 Div-2           Lucky Division                 brute force, number theory                Not needed.  2020  Jan.       Done.
 
-   122A	XXX                       Lucky Division                 brute force, number theory
+   B. Lucky Substring
 
    124A	 Beta #92 Div-2           The number of positions        math                                      Not needed.  2016  Nov.       Done.
    131A	                          cAPS lOCK                      implementation, strings	               Yes.         2015  Feb.       Done.
@@ -71,6 +76,9 @@
    215A  #131 Div-2	              Bicycle Chain                  brute force                               Not needed.  2018  Feb.       Done.
    218B  #134 Div-2               Airport                        implementation                            Not needed.  2018  Feb.       Not any.
    219A  #135 Div-2               k-String                       implementation, string                    Not needed.  2018  Feb.       Done.
+
+   219B  #135 Div-2    Special Offer! Super Price 999 Bourles!  XXX
+
 
   220B  #136 Div-1                     Little Elephant and Array
 
@@ -313,6 +321,7 @@
    799A   #413 Div-1-2            Carrot Cakes                   XXX
 
 
+
    799B   #413 Div-1-2            T-shirt buying                 Sorting, pointers                         Not needed   2017  Sept.      Done.   Convoluted problem.
 
    822A	  #422 Div-2              I'm bored with life            implementation, math, number theory       Not needed   2017  Aug.       Not any.
@@ -330,6 +339,7 @@
 
    Gym    Bangladesh NHSPC 2017   A - Charm Is Not Always Enough  greedy                                   Not needed   2017  May        Done.
 
+  1270A   Good Bye 2018             Card Game                       Simple math                            Not needed   2019  Dec        XXX.
   1279A   EducCF #79                New Year Garland                Ad-hoc                                 Not needed   2019  Dec        XXX.
 
 
@@ -351,9 +361,12 @@
    754B   #390 Div-2	            Ilya and tic-tac-toe game       brute force, implementation                         700 / 1000     Not needed   2017  Jan.
    864B   #436 Div-2                Polycarp and Letters            string manipulation                                 856 / 1000     Not needed   2017  Sept.
 
-  1279A   EducCF #79                New Year Garland                Ad-hoc
+Good Bye 2018
 
-         Good Bye 2018
+
+  1279A   EducCF #79                New Year Garland                Ad-hoc
+  1270A   Good Bye 2018             Card Game
+
 
 
  Many Equal Substrings

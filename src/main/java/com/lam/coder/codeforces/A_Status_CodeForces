@@ -341,6 +341,7 @@
 
   1270A   Good Bye 2018             Card Game                       Simple math                            Not needed   2019  Dec        XXX.
   1279A   EducCF #79                New Year Garland                Ad-hoc                                 Not needed   2019  Dec        XXX.
+  1030A  Technocup 2019 Elim. Round 1 In Search of an Easy Problem  Simple math                            Not needed   2020  Feb        Not needed.
 
 
    Code   Contest                   Name                            Method                                              Points         Tested       Date
@@ -360,6 +361,8 @@
    750B   Good Bye 2016             New Year And North Pole         Implementation                                      594 /  750     Not needed   2016  Dec.
    754B   #390 Div-2	            Ilya and tic-tac-toe game       brute force, implementation                         700 / 1000     Not needed   2017  Jan.
    864B   #436 Div-2                Polycarp and Letters            string manipulation                                 856 / 1000     Not needed   2017  Sept.
+
+
 
 Good Bye 2018
 

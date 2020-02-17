@@ -30,6 +30,8 @@ RPN 	                          TCCC '03 Semifinals 2 	04.04.2003 	 Simulation, S
 
 SRM 1 - 77 (no editorial, no score system)
 
+
+
 Finances                             SRM 001                                                                 I-II.1      Done it.  Mar 2014.  System Test: Passed. No practice room. No editorial. 
 FractionTC                           SRM 001  																 I-II.2      Done it.  Mar 2014.  System Test: Passed. No practice room. No editorial.
 PrimeNumbers                         SRM 001                                                                 I-II.3      Done it.  Mar 2014.  System Test: Passed. No practice room. No editorial.
@@ -216,8 +218,13 @@ PascalCount            SRM 230 	      02.08.2005 	 Math 	                       
 GolfScore 	           SRM 231, 186   02.19.2005 	 Simple Math, String Manipulation 	    I.1 	     Done it. Value:  250   Jun 2014.  System Test: Passed. Editorial Review: Done.
 BritishCoins           SRM 232, 165   02.23.2005 	 Simple Math 			               II.1       Done it. Value:  250   Nov 2013.  System Test: Passed. Editorial Review: Done.
 PipeCuts 	           SRM 233 	      03.03.2005 	 Simple Math, Simulation 	           II.2,I.1       XXX Done it. Value:  500   Oct 2013.  System Test: . Editorial Review:
-CalcTest	           SRM 246	      06.09.2005	 String Manipulation			       II.1	     Done it. Value:  250   Oct 2016.  System Test: Passed. Editorial Review: Done.
+CalcTest	           SRM 246	      06.09.2005	 String Manipulation			       II.1	      Done it. Value:  250   Oct 2016.  System Test: Passed. Editorial Review: Done.
 PiCalculator	       SRM 246	      06.09.2005	 String Manipulation	                I.1       Done it. Value:  250   Oct 2016.  System Test: Passed. Editorial Review: Done.
+
+PrimePolynom           SRM 259        08.22.2005     Brute force, number theory            II.2       Done it.  Feb 2020.  System Test: Passed. Editorial Review: Done.
+
+
+	CompetitionStatistics	SRM 259	08.22.2005	Andrew_Lazarev	Brute Force			1	80.83%	details
 
 MedianOfNumbers	       SRM 308	      06.24.2006	 Simple Math			              II.1  	 Done it. Value:  250   Abr 2014.  System Test: Passed. Editorial Review: Done.
 HuffmanDecoding	       SRM 308	      06.24.2006	 String Manipulation	              II.2	     Done it. Value:  450   Abr 2014.  System Test: Passed. Editorial Review: Done.

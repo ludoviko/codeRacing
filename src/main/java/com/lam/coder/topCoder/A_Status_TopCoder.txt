@@ -202,11 +202,14 @@ BloggoShortcuts        SRM 214 	      10.06.2004 	 String Manipulation 			      
 
  XXX to slow  BloggoHyphenate                SRM 214 	            10.06.2004 	 Search, String Manipulation 	      I.1:II.2   To slow. Done it. Value:  250   May 2014. System Test: XXXPassed. Editorial Review: Done.
 
-HiddenNumbers	       SRM 220	      11.23.2004	 String Parsing	                       II.2	      Done it. Value:  550   Oct 2016.  System Test: Passed. Editorial Review: Done.
-HiddenNumbers	       SRM 220	      11.23.2004	 String Parsing	                        I.1	      Done it. Value:  3000  Oct 2016.  System Test: Passed. Editorial Review: Done.
 DivisorDigits          SRM 215, 148   10.16.2004     Simple Math, String Manipulation 	   II.1       Done it. Value:  250   Nov 2013.  System Test: Passed. Editorial Review: Done.
-MostProfitable         SRM 223, 153   12.18.2004 	 Simple Math 			               II.1       Done it. Value:  250   Oct  2013. System Test: Passed. Editorial Review: Done.
-BlackAndRed            SRM 223 	      12.18.2004 	 Brute Force, Simple Search,Iteration  II.2       Done it. Value:  500   Mar 2014.  System Test: Passed. Editorial Review: Done.
+
+HiddenNumbers	       SRM 220	      11.23.2004	 String Parsing	                       II.2	      Done it. Oct 2016.  System Test: Passed. Editorial Review: Done.
+HiddenNumbers	       SRM 220	      11.23.2004	 String Parsing	                        I.1	      Done it. Oct 2016.  System Test: Passed. Editorial Review: Done.
+GroceryBagger	       SRM 222	      12.07.2004	 Greedy, Simple Search, Iteration	    I.1       Done it. Feb 2020.  System Test: Passed. Editorial Review: Done.
+GroceryBagger	       SRM 222	      12.07.2004	 Greedy, Simple Search, Iteration	   II.2       Done it. Feb 2020.  System Test: Passed. Editorial Review: Done.
+MostProfitable         SRM 223, 153   12.18.2004 	 Simple Math 			               II.1       Done it. Oct 2013.  System Test: Passed. Editorial Review: Done.
+BlackAndRed            SRM 223 	      12.18.2004 	 Brute Force, Simple Search,Iteration  II.2       Done it. Mar 2014.  System Test: Passed. Editorial Review: Done.
 
  XX QuizShow 	           SRM 223 	      12.18.2004 	 Brute Force, Simple Math 	           I.1       XXX Done it. Value:  250   Oct 2013.  System Test: . Editorial Review:
 

@@ -1,7 +1,7 @@
 package com.lam.coder.topCoder;
 
 /**
- * @author Code Forces.
+ * @author TopCoder.
  *
  * Solution by: L.Azuaje.
  *         <p>

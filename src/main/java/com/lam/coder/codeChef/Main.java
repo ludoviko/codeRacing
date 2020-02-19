@@ -9,7 +9,7 @@ import java.util.InputMismatchException;
  *         <p/>
  *         Solution by: L.Azuaje.
  *         <p/>
- *         Problem: CodeChef.
+ *         CodeChef Problem: .
  */
 
 public class Main {

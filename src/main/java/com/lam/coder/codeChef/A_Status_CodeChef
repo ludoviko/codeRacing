@@ -7,7 +7,7 @@
   CHN15A     Beginner      Mutated Minions              Simple math                               Yes            Not needed   2018-Jan         Done.
   CIELRCPT   Beginner      Ciel and Receipt             Greedy                                    Yes            Not needed   2013-Nov         Not any. Kata.
 
-  COMPILER    Easy         Compilers and parsers        Stacks.                                   Yes            Not needed    2018-Dec         Done. Missing test cases.
+  COMPILER    Easy         Compilers and parsers        Stacks.                                   Yes            Not needed   2018-Dec         Done. Missing test cases.
 
 
   COPS       Beginner      Cops and the Thief Devu      Array manipulation                        Yes            Not needed   2018-Sept        Done.
@@ -26,9 +26,11 @@
 
   SALARY     Easy          The Minimum Number Of Moves  Adhoc algorithms                          Yes            Not needed   2018-Jan         Done.
 
+  TACHSTCK   Easy          Chopsticks                   Greedy                                    Yes            Not needed   2020-Feb         Done.
+
   TRISQ      Beginner      Fit Squares in Triangle      Recursion, geometry                       Yes            Not needed   2017-Dec         Done.
   TEST       Beginner      Life, the Universe, and Everything   io read/write                     Yes            Not needed   2013-Nov         Done.
 
   VCS        Beginner      Version Control System       Set operations                            Yes            Not needed   2018-Sept        Done.
 
-Compilers and parsers Problem Code: COMPILER
+

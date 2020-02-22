@@ -163,10 +163,12 @@ WordWrap 	           SRM 186 	      03.13.2004 	 String Manipulation 	          
 WordWrap 	           SRM 186 	      03.13.2004 	 String Manipulation 	                I.1 	 	 Done it. Value:  250   Jun 2014.  System Test: Passed. Editorial Review: Done.
 
 BettingMoney   	       SRM 191 	      04.24.2004 	 Simple Math, Simulation 			   II.1 	     Done it. Value:  250   July 2013. System Test: Passed. Editorial Review: Done.
-VolumeGuess	           SRM 191	      04.24.2004	 Brute Force	                       II.2	     Done it. Value:  500   Nov 2013.  System Test: Passed. Editorial Review: Done.
 VolumeGuess	           SRM 191	      04.24.2004	 Brute Force	                        I.1	     Done it. Value:  250       Nov 2013.  System Test: Passed. Editorial Review: Done.
-FanFailure	           SRM 195	      05.18.2004	 Greedy	                                I.1	     Done it. 2020 Feb. Value: 500. System Test: Passed. Editorial Review: Done.
-FanFailure	           SRM 195	      05.18.2004	 Greedy	                               II.1      Done it. 2020 Feb. Value: 250. System Test: Passed. Editorial Review: Done.
+VolumeGuess	           SRM 191	      04.24.2004	 Brute Force	                       II.2	     Done it. Value:  500   Nov 2013.  System Test: Passed. Editorial Review: Done.
+FanFailure	           SRM 195	      05.18.2004	 Greedy	                                I.1	     Done it. 2020 Feb. Value: 250. System Test: Passed. Editorial Review: Done.
+Rounder  	           SRM 195	      05.18.2004	 Modular arithmetic                    II.1      Done it. 2020 Feb. Value: 250. System Test: Passed. Editorial Review: Done.
+FanFailure	           SRM 195	      05.18.2004	 Greedy	                               II.2      Done it. 2020 Feb. Value: 500. System Test: Passed. Editorial Review: Done.
+
 
 NoOrderOfOperations    SRM 200 	      06.21.2004 	 String Parsing 			           II.1 	     Done it. Value:  250   July 2013. System Test: Passed. Editorial Review: Done.
 GravityBomb            SRM 200 	      06.21.2004 	 Simulation, String Manipulation 	   II.2       XXX Done it. Value: 500   Nov 2013.  System Test: . Editorial Review:

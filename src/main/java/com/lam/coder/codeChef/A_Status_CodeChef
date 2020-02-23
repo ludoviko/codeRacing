@@ -1,36 +1,27 @@
   ID         Level         Name                         Method                                    Accepted       Tested       Date             Editorial
 
+  CNOTE      Easy          Chef and Notebooks           Array, arithmetic                         Yes            Not needed   2018-Jan         Done.
+  COMPILER   Easy          Compilers and parsers        Stacks.                                   Yes            Not needed   2018-Dec         Done. Missing test cases.
+  CSUB       Easy          Count SubstringsOfOnes       Subset counting                           Yes            Not needed   2019-Apr         Done.
+  MAXDIFF    Easy          Maximum Weight Difference    Greedy                                    Yes            Not needed   2020-Feb         Done.
+  SALARY     Easy          The Minimum Number Of Moves  Adhoc algorithms                          Yes            Not needed   2018-Jan         Done.
+  TACHSTCK   Easy          Chopsticks                   Greedy                                    Yes            Not needed   2020-Feb         Done.
 
   CHEFARR    Beginner      Chef and Subarrays           Adjacent subarrays                        Yes            Not needed   2018-Sept        Done.
   CHEFSTLT   Beginner      Chef and Two Strings         String manipulation                       Yes            Not needed   2018-Jan         Done.
-  CNOTE      Easy          Chef and Notebooks           Array, arithmetic                         Yes            Not needed   2018-Jan         Done.
   CHN15A     Beginner      Mutated Minions              Simple math                               Yes            Not needed   2018-Jan         Done.
   CIELRCPT   Beginner      Ciel and Receipt             Greedy                                    Yes            Not needed   2013-Nov         Not any. Kata.
-
-  COMPILER    Easy         Compilers and parsers        Stacks.                                   Yes            Not needed   2018-Dec         Done. Missing test cases.
-
-
   COPS       Beginner      Cops and the Thief Devu      Array manipulation                        Yes            Not needed   2018-Sept        Done.
-  CSUB       Easy          Count SubstringsOfOnes       Subset counting                           Yes            Not needed   2019-Apr         Done.
-
   FLOW005    Beginner      Smallest Numbers of Notes    Greedy                                    Yes            Not needed   2018-Mar         Not any.
   FRGTNLNG   Beginner      Forgotten Language           String manipulation                       Yes            Not needed   2018-Sept        Done.
-
-  LECANDY    Peer/Easy     Little Elephant and Candies  Array, arithmetic                         Yes            Not needed   2017-Dec         Done.
   LUCKFOUR   Beginner      Lucky Four                   Arithmetic
-
   PPSUM      Beginner      Puppy and Sum                Recursion                                 Yes            Not needed   2018-Sept        Done.
-
   RAINBOWA   Beginner      Chef and Rainbow Array       Palindrome, array manipulation            Yes            Not needed   2018-Mar         Done.
   RRJOKE     Beginner      Good Joke                    XOR math                                  Yes            Not needed   2018-Jan         Done.
-
-  SALARY     Easy          The Minimum Number Of Moves  Adhoc algorithms                          Yes            Not needed   2018-Jan         Done.
-
-  TACHSTCK   Easy          Chopsticks                   Greedy                                    Yes            Not needed   2020-Feb         Done.
-
   TRISQ      Beginner      Fit Squares in Triangle      Recursion, geometry                       Yes            Not needed   2017-Dec         Done.
   TEST       Beginner      Life, the Universe, and Everything   io read/write                     Yes            Not needed   2013-Nov         Done.
-
   VCS        Beginner      Version Control System       Set operations                            Yes            Not needed   2018-Sept        Done.
+
+  LECANDY    Peer          Little Elephant and Candies  Array, arithmetic                         Yes            Not needed   2017-Dec         Done.
 
 

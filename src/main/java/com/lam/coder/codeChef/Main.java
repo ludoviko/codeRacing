@@ -28,6 +28,12 @@ public class Main {
 
         Main main = new Main();
 
+        int cases = scanner.nextInt();
+
+        for (int c = 0; c < cases; c++) {
+
+        }
+
         int n = scanner.nextInt();
         int[] data = scanner.nextIntArray(n);
         String string = scanner.nextString();

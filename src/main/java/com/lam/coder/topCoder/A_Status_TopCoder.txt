@@ -208,7 +208,11 @@ BloggoShortcuts        SRM 214 	      10.06.2004 	 String Manipulation 			      
 
  XXX to slow  BloggoHyphenate                SRM 214 	            10.06.2004 	 Search, String Manipulation 	      I.1:II.2   To slow. Done it. Value:  250   May 2014. System Test: XXXPassed. Editorial Review: Done.
 
-DivisorDigits          SRM 215, 148   10.16.2004     Simple Math, String Manipulation 	   II.1       Done it. Value:  250   Nov 2013.  System Test: Passed. Editorial Review: Done.
+DivisorDigits          SRM 215, 148   10.16.2004     Simple Math, String Manipulation 	   II.2       Done it. Value:  250   Nov 2013.  System Test: Passed. Editorial Review: Done.
+
+PlayGame	           SRM 217	      10.27.2004	 Greedy	 	                           II.2       Done it. Value:  600   2020-Marc.  System Test: Passed. Editorial Review: Done.
+PlayGame	           SRM 217	      10.27.2004	 Greedy	 	                            I.1       Done it. Value:  250   2020-Marc.  System Test: Passed. Editorial Review: Done.
+
 
 HiddenNumbers	       SRM 220	      11.23.2004	 String Parsing	                       II.2	      Done it. Oct 2016.  System Test: Passed. Editorial Review: Done.
 HiddenNumbers	       SRM 220	      11.23.2004	 String Parsing	                        I.1	      Done it. Oct 2016.  System Test: Passed. Editorial Review: Done.

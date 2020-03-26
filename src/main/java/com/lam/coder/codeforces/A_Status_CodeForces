@@ -67,6 +67,11 @@
    165A  #112 Div-2               Supercentral Point             implementation                            Not needed.  2018  Jan.       Done.
    174A  VK Cup 2012 R-3          Problem About Equation         Arithmetic                                Not needed.  2017  Dec.       Not any.
    186A  #118 Div-2               Comparing Strings              string manipulation                       Not needed.  2018  Aug.       Done.
+
+   189A	 #119 Div-2               Cut Ribbon
+
+   197A  #124 Div-2  Plate Game
+
    199A  #125 Div-2               Hexadecimal's theorem          Number theory                             Not needed.  2018  Feb.       Done.
    200B	   	   	    	          Drinks                         implementation, math	                   Not needed.  2016  Oct.       Done.
    205A  #129 Div-2               Little Elephant and Rozdil     implementation, brute force               Not needed.  2018  Jan.       Not any.
@@ -279,6 +284,8 @@
    709A   AIM Tech Round 3        Div2     Juicer                implementation                            Not needed.  2016  Aug        Done. Contest.
    711A	  	   	                  Bus To Udayland                brute force, implementation               Not needed.  2016  Oct.       Done.
    712A	  #370 Div-2              Memory and Crow                implementation                            Not needed.  2017  Jan.       Done.
+   714A   #371 Div-2              Meeting of Old Friends         implementation                            Not needed.  2020  Mar.       Done.
+
    716A	  #372 Div-2              Crazy Computer                 implementation                            Not needed.  2016  Oct.       Done.
    719A   #373 Div-2	          Vitya in the Countryside       implementation                            Not needed.  2016  Nov.       Done.
    721A   #374 Div-2	          One-dimensional Japanese Crossword implementation                        Not needed.  2016  Oct.       Done.
@@ -294,6 +301,7 @@
    734A	  #379 Div-2              Anton and Danik                implementation, strings                   Not needed.  2016  Dec.       Done.
    734B	  #379 Div-2              Anton and Digits               implementation, math                      Not needed.  2016  Dec.       Done.
    738A   #380 Div-2              Interview with Oleg            implementation, string                    Not needed   2016  Nov.       Done.  Contest.
+
    742A	  #383 Div-2     Arpa’s hard exam and Mehrdad’s naive cheat.Implementation, math, number theory    Not needed   2016  Dec.       Done.
    745A   #385 Div-2              Hongcow Learns the Cyclic Shift String manipulation                      Not needed   2016  Dec.       Done.  Contest.
    746A   #386 Div-2              Compot                         String manipulation                       Not needed   2016  Dec.       Done.  Contest.
@@ -344,6 +352,7 @@
   1279A   EducCF #79                New Year Garland                Ad-hoc                                 Not needed   2019  Dec        XXX.
   1030A  Technocup 2019 Elim. Round 1 In Search of an Easy Problem  Simple math                            Not needed   2020  Feb        Not needed.
 
+  1325A   #628 Div-2                EhAb AnD gCd                    Number theory                          Not needed   2020  Marc       Not needed.
 
    Code   Contest                   Name                            Method                                              Points         Tested       Date
 

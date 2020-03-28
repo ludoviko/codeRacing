@@ -14,7 +14,6 @@ import java.util.InputMismatchException;
  *
  * CF Problem: .
  *
- *
  */
 
 public class Main {

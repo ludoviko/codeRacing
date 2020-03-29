@@ -284,7 +284,10 @@
    709A   AIM Tech Round 3        Div2     Juicer                implementation                            Not needed.  2016  Aug        Done. Contest.
    711A	  	   	                  Bus To Udayland                brute force, implementation               Not needed.  2016  Oct.       Done.
    712A	  #370 Div-2              Memory and Crow                implementation                            Not needed.  2017  Jan.       Done.
+
    714A   #371 Div-2              Meeting of Old Friends         implementation                            Not needed.  2020  Mar.       Done.
+
+ 714A   #371 Div-2  Filya and Homework
 
    716A	  #372 Div-2              Crazy Computer                 implementation                            Not needed.  2016  Oct.       Done.
    719A   #373 Div-2	          Vitya in the Countryside       implementation                            Not needed.  2016  Nov.       Done.
@@ -352,7 +355,10 @@
   1279A   EducCF #79                New Year Garland                Ad-hoc                                 Not needed   2019  Dec        XXX.
   1030A  Technocup 2019 Elim. Round 1 In Search of an Easy Problem  Simple math                            Not needed   2020  Feb        Not needed.
 
+
   1325A   #628 Div-2                EhAb AnD gCd                    Number theory                          Not needed   2020  Marc       Not needed.
+
+  1328A   #629 Div-3                Divisibility Problem            Math                                   Not needed   2020  Marc       Not needed.
 
    Code   Contest                   Name                            Method                                              Points         Tested       Date
 
@@ -379,6 +385,7 @@ Good Bye 2018
 
   1279A   EducCF #79                New Year Garland                Ad-hoc
   1270A   Good Bye 2018             Card Game
+  1328A   #629 Div-3                Divisibility Problem            Math
 
 
 

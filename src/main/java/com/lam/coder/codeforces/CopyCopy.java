@@ -15,7 +15,7 @@ import java.util.Set;
  *
  * Solution by: L.Azuaje.
  *
- * CF Problem: 1325A   #628 Div-2 CopyCopyCopyCopyCopy.
+ * CF Problem: 1325B   #628 Div-2 CopyCopyCopyCopyCopy.
  *
  */
 

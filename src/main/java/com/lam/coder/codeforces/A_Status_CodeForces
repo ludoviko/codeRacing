@@ -75,8 +75,10 @@
    199A  #125 Div-2               Hexadecimal's theorem          Number theory                             Not needed.  2018  Feb.       Done.
    200B	   	   	    	          Drinks                         implementation, math	                   Not needed.  2016  Oct.       Done.
    205A  #129 Div-2               Little Elephant and Rozdil     implementation, brute force               Not needed.  2018  Jan.       Not any.
-
    208A	   	   	   	              Dubstep                        strings	                               Not needed.  2015  Aug.       Done.
+
+
+
    214A  #131 Div-2	              System of Equations            brute force                               Not needed.  2016  Dec.       Done.
    215A  #131 Div-2	              Bicycle Chain                  brute force                               Not needed.  2018  Feb.       Done.
    218B  #134 Div-2               Airport                        implementation                            Not needed.  2018  Feb.       Not any.
@@ -84,9 +86,7 @@
 
    219B  #135 Div-2    Special Offer! Super Price 999 Bourles!  XXX
 
-
-  220B  #136 Div-1                     Little Elephant and Array
-
+   220B  #136 Div-1                     Little Elephant and Array
 
    221A  #136 Div-2               Little Elephant and Function   recursion, implementation                 Not needed.  2018  Feb.       Done.
    222A  #137 Div-2               Shooshuns and Sequence         implementation                            Not needed.  2018  Aug.       Done.
@@ -101,8 +101,9 @@
    233A	 #144 Div-2               Perfect Permutation            implementation, math                      Not needed.  2017  Dec.       Done.
    236A	 	   	   	              Boy or Girl                    implementation	                           Not needed.  2015  Aug.       Done.
    237A		   	                  Free Cash implementation	     implementation	                           Not needed.  2015  Aug.       Done.
-   248A  #152 Div-2               Cupboards                       implementation                           Not needed.  2017  Dec.       Done.
-
+   242A  #149 Div-2               Heads or Tails                 implementation                            Not needed.  2020  Apr.       Done.
+   242B  #149 Div-2               Big Segment                    implementation                            Not needed.  2020  Apr.       Done.
+   248A  #152 Div-2               Cupboards                      implementation                            Not needed.  2017  Dec.       Done.
    255A  #156 Div-2	              Greg's Workout                 implementation                            Not needed.  2016  Dec.       Done.
    258A  #157 Div-1		          Little Elephant and Bits       greedy, math                              Not needed.  2017  Dec.       Done.
    263A		   	                  Beautiful Matrix               implementation	                           Not needed.  2015  Aug.       Done.
@@ -121,14 +122,16 @@
    281A	  	   	   	              Word Capitalization            strings	                               Not needed.  2015  Aug.       Done.
    282A	 	   	   	              Bit++                          implementation                            Not needed.  2015  Feb.       Done.
    294A  #178 Div-2               Shaass and Oskols              Matrix arithmetic                         Not needed.  2019  Dec.       Done.
+   296A  #179 Div-2               Yaroslav and Permutations      Counting                                  Not needed.  2020  Apr.       Done.
    298A  #180 Div-2               Snow Footprints
-
    298B  #180 Div-2               Sail                           greedy, brute force                       Not needed.  2018  Mar.       Done.
 
 
    313B	 #186 Div-2               Ilya and Queries               dp, implementation                        Not needed.  2016  Dec.       Done.
    318A	  	   	                  Even Odds                      math	                                   Not needed.  2015  Aug.       Done.
    320A  #189 Div-2 	          Magic Numbers                  brute force, greedy, regular expression   Not needed.  2017  Jan.       Done.
+   327A  #191 Div-2               Flipping Game                  Brute force, implementation               Not needed.  2020  Apr.       Done.  Kata XXX use dp
+   327B  #191 Div-2               Hungry Sequence                Sieve of Eratosthenes                     Not needed.  2020  Apr.       Done.
    330A	 #192 Div-2               Cakeminator                    brute force, implementation               Not needed.  2016  Dec.       Done.
    334A  #194 Div-2	              Candy Bags                     implementation                            Not needed.  2017  Jan.       Done.
    337A		    	              Puzzles                        dp, graph matchings, greedy	           Yes.         2016  Oct.       Done.
@@ -140,6 +143,10 @@
    352A  #204 Div-2               Jeff and Digits                math                                      Not needed.  2018  Feb.       Done.
    352B  #204 Div-2               Jeff and Periods               implementation                            Not needed.  2018  Mar.       Done.
    353A  #205 Div-2               Domino                         implementaion, math                       Not needed.  2016  Oct.       Done.
+
+   363A  #211 Div-2               Soroban                        implementaion                             Not needed.  2020  Apr.       Not any.
+   363B  #211 Div-2               Fence                          Dp                                        Not needed.  2020  Apr.       Not any.   XXX Kata.
+
    368A  #215 Div-2               Sereja and Coat Rack           implementaion                             Not needed.  2017  Aug.       Done.
    368B  #215 Div-2    	          Sereja and Suffixes            dynamic programming                       Not needed.  2015  Jul.       Done.
    378A	 #222 Div-2               Playing with Dice              brute force                               Not needed.  2016  Dec.       Done.

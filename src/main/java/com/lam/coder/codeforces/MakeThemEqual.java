@@ -15,7 +15,7 @@ import java.util.Set;
  *
  * Solution by: L.Azuaje.
  *
- * CF Problem: 1154B   #552 Div-3    Make Them Equal.
+ * CF Problem: 1154B   #552 Div-3   Make Them Equal.
  *
  */
 

@@ -183,6 +183,9 @@ SpamDetector           SRM 205 	      07.31.2004 	 String Manipulation 	        
 SpamDetector           SRM 205 	      07.31.2004 	 String Manipulation 	                I.1       Done it. Value:  250   May 2014. System Test: Passed. Editorial Review: Done.
 Bits 	               SRM 206 	      08.04.2004 	 Simple Math 			               II.1 		 Done it. Value:  250   Nov 2013.  System Test: Passed . Editorial Review: Done.
 
+
+Medici	               SRM 204	      07.21.2004	Simple Search, Iteration, Simulation	II.1
+
     OmahaLow 	           SRM 206 	    08.04.2004 Brute Force,Sorting,String Manipulation     I.1;,I.2   XXX Done it. Value:  500   Nov 2013.  System Test: . Editorial Review:
 
 Spamatronic
@@ -210,9 +213,13 @@ BloggoShortcuts        SRM 214 	      10.06.2004 	 String Manipulation 			      
 
 DivisorDigits          SRM 215, 148   10.16.2004     Simple Math, String Manipulation 	   II.2       Done it. Value:  250   Nov 2013.  System Test: Passed. Editorial Review: Done.
 
-PlayGame	           SRM 217	      10.27.2004	 Greedy	 	                           II.2       Done it. Value:  600   2020-Marc.  System Test: Passed. Editorial Review: Done.
-PlayGame	           SRM 217	      10.27.2004	 Greedy	 	                            I.1       Done it. Value:  250   2020-Marc.  System Test: Passed. Editorial Review: Done.
+RockStar	           SRM 216	      10.18.2004	 Greedy	                                I.1       Done it. Value:  250   2020 May.  System Test: Passed. Editorial Review: Done.
+CultureShock	       SRM 216	      10.18.2004	 Simple Search, String Parsing         II.1       Done it. Value:  250   2020 May.  System Test: Passed. Editorial Review: Done.
+RockStar	           SRM 216	      10.18.2004	 Greedy	 	                           II.2       Done it. Value:  500   2020 May.  System Test: Passed. Editorial Review: Done.
 
+PlayGame	           SRM 217	      10.27.2004	 Greedy	 	                            I.1       Done it. Value:  250   2020-Marc.  System Test: Passed. Editorial Review: Done.
+FuelConsumption        SRM 217	      10.27.2004	 Brute Force, Simple Math              II.1       Done it. Value:  250   2020-Marc.  System Test: Passed. Editorial Review: Done.
+PlayGame	           SRM 217	      10.27.2004	 Greedy	 	                           II.2       Done it. Value:  600   2020-Marc.  System Test: Passed. Editorial Review: Done.
 
 HiddenNumbers	       SRM 220	      11.23.2004	 String Parsing	                       II.2	      Done it. Oct 2016.  System Test: Passed. Editorial Review: Done.
 HiddenNumbers	       SRM 220	      11.23.2004	 String Parsing	                        I.1	      Done it. Oct 2016.  System Test: Passed. Editorial Review: Done.

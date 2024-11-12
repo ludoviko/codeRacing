@@ -140,13 +140,15 @@
    342A  #194 Div-2               Xenia and Divisors             greedy, implementation                    Not needed.  2018  Aug.       Done.
    344A		   	                  Magnets                        implementation	                           Not needed.  2015  Aug.       Done.
    349A	 #202 Div-2               Cinema Line                    greedy, implementation                    Not needed.  2016  Oct.       Done.
+
+
+   350A  #203 Div-2               TL
+
    352A  #204 Div-2               Jeff and Digits                math                                      Not needed.  2018  Feb.       Done.
    352B  #204 Div-2               Jeff and Periods               implementation                            Not needed.  2018  Mar.       Done.
    353A  #205 Div-2               Domino                         implementaion, math                       Not needed.  2016  Oct.       Done.
-
    363A  #211 Div-2               Soroban                        implementaion                             Not needed.  2020  Apr.       Not any.
    363B  #211 Div-2               Fence                          Dp                                        Not needed.  2020  Apr.       Not any.   XXX Kata.
-
    368A  #215 Div-2               Sereja and Coat Rack           implementaion                             Not needed.  2017  Aug.       Done.
    368B  #215 Div-2    	          Sereja and Suffixes            dynamic programming                       Not needed.  2015  Jul.       Done.
    378A	 #222 Div-2               Playing with Dice              brute force                               Not needed.  2016  Dec.       Done.
@@ -215,10 +217,8 @@
    514A   #291 Div 2	          Chewbaсca and Number           greedy, implementation	                   Yes.         2016  Oct.       Done.
    514B	  #291 Div 2              Han Solo and Lazer Gun   brute force, data structures, geometry, math    Not tested   2015  Feb        No. KATA.
    515A	  #292 Div-2              Drazil And Date                math                                      Yes.         2015  Sept.      Done.
-   519A	 	   	   	              A And B And Chess              implementation	                           Not needed.  2015  Aug.       Done.
-
-   519B		   	                  A And B And Compilation Errors data structures, implementation         Kata....
-
+   519A	  #294 Div-2              A And B And Chess              implementation	                           Not needed.  2015  Aug.       Done.
+   519B	  #294 Div-2	   	      A And B And Compilation Errors data structures, implementation           Not needed.  2020  Apr.       Done. Kata done.
    520A	 	   	                  Pangram                        implementation, strings	               Yes.         2015  Aug.       Done.
    534A   #298 DIv-2	          Exam                           constructive algorithms, implementation   Not needed.  2017  Jan.       Done
    535A   #299 Div-2	          Tavas and Nafas                implementation                            Not needed.  2016  Dec.       Done.
@@ -241,7 +241,7 @@
    570A	 	   	                  Elections                      implementation	                           Not needed.  2016  Oct.       Done.
    572A	  #317 Div-2              Arrays                         sortings                                  Not needed.  2016  Dec.       Done.
    574A	  #318 Div-2              Bear and Elections             data structures, implementation           Yes.         2015  Aug.       No editorial.  Contest.
-   577A	 	   	                  Multiplication Table           implementation, number theory           ....KATA....
+   577A	  #319 Div-2              Multiplication Table           implementation, number theory             Not needed.  2020  Apr.       Done. KATA: done.
    579A	 	   	                  Raising Bacteria               bitmasks                                  Not needed.  2016  Oct.       Done.
    580A		   	                  Kefa And First Steps           brute force, dp, implementation           Not needed.  2016  Oct.       Done.
    581A	  #322 Div-2              Vasya The Hipster              implementation	                           Not needed.  2016  Oct.       Done.
@@ -281,6 +281,10 @@
    688A   #360 Div-2	          Opponents                      implementation                            Not needed.  2016  Oct.       Done.
    688B   #360 Div-2	          Lovely Palindromes             constructive algorithms, math             Not needed.  2016  Dec.       Done.
    697A   #362 Div-2	          Pineapple Incident             math                                      Not needed.  2017  Jan.       Done.
+
+   698A   #363 Div-1	          Vacations                      dp
+
+
    701A	  #364 Div-2              Cards                          greedy                                    Not needed.  2016  Oct.       Done.
    702A	  #15 Education           Maximum Increase               dp, greedy, implementation                Not needed.  2017  Oct.       Not any.
    703A	  #365 Div-2              Mishka And Game                implementation                            Not needed.  2016  Oct.       Done.
@@ -316,6 +320,9 @@
    746A   #386 Div-2              Compot                         String manipulation                       Not needed   2016  Dec.       Done.  Contest.
    746B   #386 Div-2              Decoding                       Simple math                               Not needed   2016  Dec.       Done.  Contest.
    748A   Technocup 2017 R-3  Santa Claus and a Place in a Class   Math, implementation                    Not needed   2017  Jue.       Done.  See http://codeforces.com/blog/entry/49311
+
+   749A   #388 Div-2              Bachgold Problem               Number theory                             Not needed   2020  Apr.       Done.
+
    750A   Good Bye 2016           New Year And Hurry             Simple math, sequences                    Not needed   2016  Dec.       Not any.  Contest.
    750B   Good Bye 2016           New Year And North Pole        Implementation                            Not needed   2016  Dec.       Not any.  Contest.
    754B   #390 Div-2	          Ilya and tic-tac-toe game      brute force, implementation               Not needed   2017  Jan.       Not any.  Contest.
@@ -338,8 +345,6 @@
 
    799A   #413 Div-1-2            Carrot Cakes                   XXX
 
-
-
    799B   #413 Div-1-2            T-shirt buying                 Sorting, pointers                         Not needed   2017  Sept.      Done.   Convoluted problem.
 
    822A	  #422 Div-2              I'm bored with life            implementation, math, number theory       Not needed   2017  Aug.       Not any.
@@ -350,21 +355,34 @@
    841A   #429 Div-2	          Generous Kefa                  brute force, implementation               Not needed  2017  Dec         Not any.
    864A   #436 Div-2              Fair Games                     implementation                            Not needed  2017  Oct         Done.
    864B   #436 Div-2              Polycarp and Letters           string manipulation                       Not needed  2017  Sept        Done.  Contest.
+   996A   #492 Div-2              Hit the Lottery                greedy                                    Not needed  2020  Apr         Done.
 
-   977A   #429 Div-3             Wrong Subtraction
+   977A   #429 Div-3              Wrong Subtraction              implementation                            Not needed  2018  May         Done
+   977B   #429 Div-3              Two-gram                       string manipulation                       Not needed  2018  May         Not done.
+   935A   #465 Div-2              Fafa and his Company           brute force                               Not needed  2020  Apr         Done.
+   935B   #465 Div-2              Fafa and the Gates             implementation                            Not needed  2020  Apr         Done.
 
-   977B   #429 Div-3            Two-gram
+  1030A  Technocup 2019 Elim. Round 1 In Search of an Easy Problem  Simple math                            Not needed   2020  Feb        Not needed.
+  1097A   Hello 2019                Gennady and a Card Game         Implementation                         Not needed   2020  Apr        Not needed.
 
-   Gym    Bangladesh NHSPC 2017   A - Charm Is Not Always Enough  greedy                                   Not needed   2017  May        Done.
+  1154A   #552 Div-3                Restoring Three Numbers         Math                                   Not needed   2020  Apr        Not needed.
+  1154B   #552 Div-3                Make Them Equal                 Math                                   Not needed   2020  Apr        Not needed.
 
   1270A   Good Bye 2018             Card Game                       Simple math                            Not needed   2019  Dec        XXX.
   1279A   EducCF #79                New Year Garland                Ad-hoc                                 Not needed   2019  Dec        XXX.
-  1030A  Technocup 2019 Elim. Round 1 In Search of an Easy Problem  Simple math                            Not needed   2020  Feb        Not needed.
 
   1325A   #628 Div-2                EhAb AnD gCd                    Number theory                          Not needed   2020  Marc       Not needed.
   1325B   #628 Div-2                CopyCopyCopyCopyCopy            Implementation                         Not needed   2020  Apr        Not needed.
 
   1328A   #629 Div-3                Divisibility Problem            Math                                   Not needed   2020  Marc       Not needed.
+
+  1335A   #634 Div-3                Candies and Two Sisters         Math                                   Not needed   2020  Apr       Not needed.
+
+
+
+   Gym    Bangladesh NHSPC 2017   A - Charm Is Not Always Enough  greedy                                   Not needed   2017  May        Done.
+
+
 
    Code   Contest                   Name                            Method                                              Points         Tested       Date
 
@@ -383,7 +401,8 @@
    750B   Good Bye 2016             New Year And North Pole         Implementation                                      594 /  750     Not needed   2016  Dec.
    754B   #390 Div-2	            Ilya and tic-tac-toe game       brute force, implementation                         700 / 1000     Not needed   2017  Jan.
    864B   #436 Div-2                Polycarp and Letters            string manipulation                                 856 / 1000     Not needed   2017  Sept.
-
+   977A   #429 Div-3                Wrong Subtraction               implementation                                                     Not needed   2018  May
+   977B   #429 Div-3                Two-gram                        string manipulation                                                Not needed   2018  May
 
 
 Good Bye 2018
@@ -392,6 +411,8 @@ Good Bye 2018
   1279A   EducCF #79                New Year Garland                Ad-hoc
   1270A   Good Bye 2018             Card Game
   1328A   #629 Div-3                Divisibility Problem            Math
+
+   977B   #640 Div-4
 
 
 

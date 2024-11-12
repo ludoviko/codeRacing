@@ -1,12 +1,5 @@
   ID         Level         Name                         Method                                    Accepted       Tested       Date             Editorial
 
-  CNOTE      Easy          Chef and Notebooks           Array, arithmetic                         Yes            Not needed   2018-Jan         Done.
-  COMPILER   Easy          Compilers and parsers        Stacks.                                   Yes            Not needed   2018-Dec         Done. Missing test cases.
-  CSUB       Easy          Count SubstringsOfOnes       Subset counting                           Yes            Not needed   2019-Apr         Done.
-  MAXDIFF    Easy          Maximum Weight Difference    Greedy                                    Yes            Not needed   2020-Feb         Done.
-  SALARY     Easy          The Minimum Number Of Moves  Adhoc algorithms                          Yes            Not needed   2018-Jan         Done.
-  TACHSTCK   Easy          Chopsticks                   Greedy                                    Yes            Not needed   2020-Feb         Done.
-
   CHEFARR    Beginner      Chef and Subarrays           Adjacent subarrays                        Yes            Not needed   2018-Sept        Done.
   CHEFSTLT   Beginner      Chef and Two Strings         String manipulation                       Yes            Not needed   2018-Jan         Done.
   CHN15A     Beginner      Mutated Minions              Simple math                               Yes            Not needed   2018-Jan         Done.
@@ -22,6 +15,13 @@
   TEST       Beginner      Life, the Universe, and Everything   io read/write                     Yes            Not needed   2013-Nov         Done.
   VCS        Beginner      Version Control System       Set operations                            Yes            Not needed   2018-Sept        Done.
 
+  CNOTE      Easy          Chef and Notebooks           Array, arithmetic                         Yes            Not needed   2018-Jan         Done.
+  COMPILER   Easy          Compilers and parsers        Stacks.                                   Yes            Not needed   2018-Dec         Done. Missing test cases.
+  CSUB       Easy          Count SubstringsOfOnes       Subset counting                           Yes            Not needed   2019-Apr         Done.
+  MAXDIFF    Easy          Maximum Weight Difference    Greedy                                    Yes            Not needed   2020-Feb         Done.
+  SALARY     Easy          The Minimum Number Of Moves  Adhoc algorithms                          Yes            Not needed   2018-Jan         Done.
+  TACHSTCK   Easy          Chopsticks                   Greedy                                    Yes            Not needed   2020-Feb         Done.
+
   LECANDY    Peer          Little Elephant and Candies  Array, arithmetic                         Yes            Not needed   2017-Dec         Done.
 
-
+Delivery Man Problem Code: TADELIVE

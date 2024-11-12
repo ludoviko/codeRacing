@@ -1,15 +1,34 @@
    Vol   Code     Name                              Method                                 Tested     Date          Posted   Tutorial
 
-   100   00100     The 3n + 1 problem               Math Collatz sequence                     Yes     2016, Agost   Yes      Improvements needed. http://www.mathblog.dk/uva-100-3n-plus-1-problem/
-   101   10189	   Mine Sweeper                     String manipulation	                       No     2015, March   No       In construction.
-   101   10137     The trip                         Math, statistics.                         XXX
-   115   11530     SMS Typing                       String manipulation                       Yes     2016, July    Yes
-   122   12279     Emoogle Balance                  Simple math                               Yes     2015, Nov     Yes
-   116   11661     Burger Time                      String manipulation                        No     2016, Dec     Yes
-   101   10110     Light, more light                xxx
+     1     100     The 3n + 1 problem               Math Collatz sequence                     Yes     2016, Agost   Yes      Improvements needed. http://www.mathblog.dk/uva-100-3n-plus-1-problem/
+
+     4     408     Uniform Generator                Random generator                           No     2019, Dec     Yes
+
+     5     573     The Snail                        Implementation                             No     2019, Dec     Yes
+
    101   10106     Product                          Multiplication big numbers                 No     2019, Dec     Yes
+   101   10110     Light, more light                xxx
+   101   10137     The trip                         Math, statistics.                         XXX
+   101   10189	   Mine Sweeper                     String manipulation	                       No     2015, March   No       In construction.
+   115   11530     SMS Typing                       String manipulation                       Yes     2016, July    Yes
+   116   11661     Burger Time                      String manipulation                        No     2016, Dec     Yes
+
+   122   12247     Jollo                            Implementation                            XXX
+
+   122   12279     Emoogle Balance                  Simple math                               Yes     2015, Nov     Yes
    125   12502     Three Families                   Simple math.                               No     2019, Dec     Yes
 
+12279	  | discuss Emoogle Balance	Level 1	0/12446	0/18880
+12247	  | discuss Jollo	Level 3	0/2297	0/5211
+10284	  | discuss Chessboard in FEN	Level 3	0/2087	0/4248
+12239	  | discuss Bingo!	Level 4	0/1350	0/2164
+11221	  | discuss Magic square palindromes.	Level 3	0/3640	0/8280
+857	      | discuss Quantiser	Level 5	0/367	0/877
+12148	  | discuss Electricity	Level 4	0/713	0/1282
+556	      | discuss Amazing	Level 3	0/1774	0/3798
+12502	  | discuss Three Families	Level 2	0/6346	0/14452
+1121	  | discuss Subsequence	Level 3	0/3029	0/7391
+11581	  | discuss Grid Successors	Level 3	0/2241	0/2925
 
  Light more light
  Useful links:
